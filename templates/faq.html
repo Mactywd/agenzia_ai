@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L.U.C.E. - Il tuo consulente di viaggi AI</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- <link rel="stylesheet" href="styles2.css"> -->
+</head>
+<body>
+    <header>
+        <div class="container header-content">
+            <div class="logo">
+                L.U.C.E. <span>AI</span>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="./index.html" class="nav-link">Home</a></li>
+                    <li><a href="./chatbot.html" class="nav-link">Chatta con L.U.C.E.</a></li>
+                    <li><a href="./faq.html" class="nav-link active">FAQ</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- FAQ Page -->
+    <div id="faq-page">
+        <div class="container">
+            <h2 class="section-title">Domande Frequenti</h2>
+            
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-question">Cosa è L.U.C.E. e come funziona?</div>
+                    <div class="faq-answer">
+                        <p>L.U.C.E è un chatbot che ti aiuterà a cercare voli, alloggi e attività per il tuo prossimo viaggio, ovunque questo sia.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">L.U.C.E. è contattabile 24/7?</div>
+                    <div class="faq-answer">
+                        <p>Certo! I benefici di usare un agente AI è che non c'è bisogno di rompere le scatole a nessuno, e lo puoi quindi contattare quando preferisci.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Quanto è preciso L.U.C.E. nelle informazioni sui voli?</div>
+                    <div class="faq-answer">
+                        <p>Per ottenere le nostre informazioni ci basiamo su fonti molto affidabili, quindi puoi stare sicuro che le informazioni che ti diamo sono sicure al 100%</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">L.U.C.E. può prenotare voli e alberghi per me?</div>
+                    <div class="faq-answer">
+                        <p>Purtroppo L.U.C.E non puù eseguire prenotazioni al posto tuo, tuttavia ti mette a disposizione i link da utilizzare per prenotare tutto tu stesso.</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Dove posso andare con L.U.C.E.</div>
+                    <div class="faq-answer">
+                        <a href="https://www.youtube.com/watch?v=V1508wboZXk&pp=ygUNeWFra28ncyB3b3JsZA%3D%3D">Ovunque!</a>
+                        <p>♫United States, Canada, Mexico, Panama<br>
+                            Haiti, Jamaica, Peru<br>
+                            Republic Dominican, Cuba, Caribbean<br>
+                            Greenland, El Salvador too<br>
+                            Puerto Rico, Colombia, Venezuela, Honduras, Guyana, and still<br>
+                            Guatemala, Bolivia, then Argentina<br>
+                            And Ecuador, Chile, Brazil<br>
+                            Costa Rica, Belize, Nicaragua<br>
+                            Bermuda, Bahamas, Tobago, San Juan<br>
+                            Paraguay, Uruguay, Surinam<br>
+                            And French Guiana, Barbados, and Guam<br>
+                            Norway, and Sweden, and Iceland, and Finland<br>
+                            And Germany, now in one piece<br>
+                            Switzerland, Austria, Czechoslovakia<br>
+                            Italy, Turkey, and Greece<br>
+                            Poland, Romania, Scotland, Albania<br>
+                            Ireland, Russia, Oman<br>
+                            Bulgaria, Saudi Arabia, Hungary<br>
+                            Cyprus, Iraq, and Iran<br>
+                            There's Syria, Lebanon, Israel, Jordan<br>
+                            Both Yemen's, Kuwait, and Bahrain<br>
+                            The Netherlands, Luxembourg, Belgium, and Portugal<br>
+                            France, England, Denmark, and Spain<br>
+                            India, Pakistan, Burma, Afghanistan<br>
+                            Thailand, Nepal, and Bhutan<br>
+                            Kampuchea, Malaysia, then Bangladesh, Asia<br>
+                            And China, Korea, Japan<br>
+                            Mongolia, Laos, and Tibet, Indonesia<br>
+                            The Philippine Islands, Taiwan<br>
+                            Sri Lanka, New Guinea, Sumatra, New Zealand<br>
+                            Then Borneo, and Vietnam<br>
+                            Tunisia, Morocco, Uganda, Angola<br>
+                            Zimbabwe, Djibouti, Botswana<br>
+                            Mozambique, Zambia, Swaziland, Gambia<br>
+                            Guinea, Algeria, Ghana<br>
+                            Burundi, Lesotho, and Malawi, Togo<br>
+                            The Spanish Sahara is gone<br>
+                            Niger, Nigeria, Chad, and Liberia<br>
+                            Egypt, Benin, and Gabon<br>
+                            Tanzania, Somalia, Kenya, and Mali<br>
+                            Sierra Leone, and Algiers<br>
+                            Dahomey, Namibia, Senegal, Libya<br>
+                            Cameroon, Congo, Zaire<br>
+                            Ethiopia, Guinea-Bissau, Madagascar<br>
+                            Rwanda, Mahore, and Cayman<br>
+                            Hong Kong, Abu Dhabi, Qatar, Yugoslavia<br>
+                            Crete, Mauritania, then Transylvania<br>
+                            Monaco, Liechtenstein, Malta, and Palestine<br>
+                            Fiji, Australia, Sudan♫</p>
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question">Mi posso fidare di L.U.C.E?</div>
+                    <div class="faq-answer">
+                        <p>Certo! Tutte le nostre fonti sono affidabili, quindi puoi stare sicuro che le informazioni che ti diamo sono sicure al 100%</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>            
+        // FAQ accordion
+        const faqItems = document.querySelectorAll('.faq-item');
+        
+        faqItems.forEach(item => {
+            const question = item.querySelector('.faq-question');
+            
+            question.addEventListener('click', () => {
+                item.classList.toggle('active');
+            });
+        });
+    </script>
+</body>
+</html>
