@@ -1,0 +1,18 @@
+itineraries { primo (andata)
+    duration
+    segments {
+        departure { (of first)
+            iataCode
+            at
+        }
+        arrival { (of last)
+            iataCode 
+            at
+        }
+        carrierCode (of all)
+    }
+}
+
+price {
+    grandTotal
+}

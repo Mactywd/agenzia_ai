@@ -1,0 +1,38 @@
+[
+  {
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T14:50:00",
+    "arrival_airport": "DXB",
+    "arrival_time": "2025-07-16T03:15:00",
+    "carriers": [
+      "PC",
+      "PC"
+    ],
+    "duration": "PT10H25M",
+    "price": "204.37"
+  },
+  {
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T11:55:00",
+    "arrival_airport": "DXB",
+    "arrival_time": "2025-07-16T03:15:00",
+    "carriers": [
+      "PC",
+      "PC"
+    ],
+    "duration": "PT13H20M",
+    "price": "204.37"
+  },
+  {
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T19:25:00",
+    "arrival_airport": "DXB",
+    "arrival_time": "2025-07-16T05:55:00",
+    "carriers": [
+      "TK",
+      "TK"
+    ],
+    "duration": "PT8H30M",
+    "price": "312.81"
+  }
+]

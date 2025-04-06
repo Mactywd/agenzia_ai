@@ -76,7 +76,10 @@ class Scraper:
             await page.keyboard.type(airport)
             await page.keyboard.press("ArrowDown")
             await page.keyboard.press("Enter")
-            await page.click("button[aria-label='Done']")
+            buttons =await page.query_selector_all("button[aria-label='Done']")
+            button = buttons[0]
+            await button.click()
+            await page.wait_for_timeout(1000)
         
         # Filters
         buttons = await page.query_selector_all('button[aria-label="All filters"]')
@@ -84,6 +87,9 @@ class Scraper:
         await button.click()        
         
         await page.wait_for_selector('#P30xpf0')
+        
+        ''' 
+        ADVANCED PARAMETERS, NOT INCLUDED IN FINAL VERSION
         
         # Stops
         options = {
@@ -113,9 +119,11 @@ class Scraper:
             "business": 4,
             "first": 5
         }
+
         buttons = await page.query_selector_all(".MCs1Pd")
         button = buttons[options[self.params.flight_class]]
         await button.click()
+        '''
 
         # Passengers
         buttons = await page.query_selector_all(".VfPpkd-RLmnJb")
@@ -125,8 +133,8 @@ class Scraper:
         options = {
             "adults": 1,
             "kids": 3,
-            "babies_noseat": 5,
-            "babies_seat": 7,
+            # "babies_noseat": 5,
+            # "babies_seat": 7,
         }
 
         buttons = await page.query_selector_all(".g2ZhCc.NMm5M")
@@ -296,9 +304,9 @@ class Scraper:
 class FlightParams:
     departure: list[str]
     destination: str
-    flight_class: Literal["economy", "premium_economy", "business", "first"]
-    stops: Literal["any", "nonstop", "1", "2"]
-    trip_type: Literal["any", "flight_only"]
+    #flight_class: Literal["economy", "premium_economy", "business", "first"]
+    #stops: Literal["any", "nonstop", "1", "2"]
+    #trip_type: Literal["any", "flight_only"]
     passengers: dict
     date: dict 
 
@@ -329,16 +337,16 @@ async def main():
 
 
     params = FlightParams(
-        departure=["Roma"], # list of airport codes
+        departure=["Roma", "Pisa", "Firenze"], # list of airport codes
         destination="Vancouver", # single airport code, city, country or continent
-        flight_class="business",
-        stops="any",
-        trip_type="flight_only",
+        #flight_class="business",
+        #stops="any",
+        #trip_type="flight_only",
         passengers={
             "adults": 5,
             "kids": 1,
-            "babies_seat": 0,
-            "babies_noseat": 1,
+            #"babies_seat": 0,
+            #"babies_noseat": 1,
         },
         date={
             "type": "flexible", # flexible or specific
@@ -348,7 +356,8 @@ async def main():
     )
     
     scraper = Scraper(params)
-    await scraper.search_flights()
+    flights = await scraper.search_flights()
+    print(flights)
 
 if __name__ == '__main__':
     asyncio.run(main())

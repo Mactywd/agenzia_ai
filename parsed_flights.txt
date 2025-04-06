@@ -1,0 +1,20 @@
+Partenza: FCO alle 2025-07-15T14:50:00
+Arrivo: DXB alle 2025-07-16T03:15:00
+Linea/e: PC, PC
+Durata: 10H25M
+Scali: 1
+Prezzo: 204.37
+
+Partenza: FCO alle 2025-07-15T11:55:00
+Arrivo: DXB alle 2025-07-16T03:15:00
+Linea/e: PC, PC
+Durata: 13H20M
+Scali: 1
+Prezzo: 204.37
+
+Partenza: FCO alle 2025-07-15T19:25:00
+Arrivo: DXB alle 2025-07-16T05:55:00
+Linea/e: TK, TK
+Durata: 8H30M
+Scali: 1
+Prezzo: 312.81
