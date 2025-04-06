@@ -106,8 +106,9 @@ def parse_data(response):
         json.dump(final_data, f, indent=2)
 
     final_message = []
-    for flight in final_data:
+    for i, flight in enumerate(final_data):
         message = [
+            "Volo " + str(i + 1),
             "Partenza: " + flight["departure_airport"] + " alle " + flight["departure_time"],
             "Arrivo: " + flight["arrival_airport"] + " alle " + flight["arrival_time"],
             "Linea/e: " + ", ".join(flight["carriers"]),
@@ -119,7 +120,7 @@ def parse_data(response):
         message = "\n".join(message)
         final_message.append(message)
     
-    final_message = "\n\n".join(final_message)
+    final_message = "\n\n\n\n".join(final_message)
 
     with open("parsed_flights.txt", "w") as f:
         f.write(final_message)
