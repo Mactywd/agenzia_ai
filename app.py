@@ -69,8 +69,8 @@ def find_hotels():
 
         return parsed
 
-@app.route(api_base + "/find_flights", methods=['GET'])
-def find_flights():
+@app.route(api_base + "/find_activities", methods=['GET'])
+def find_activities():
     if request.method == 'GET':
         city = request.values.get("city")
 
