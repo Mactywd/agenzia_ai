@@ -100,13 +100,13 @@ def parse_data(response):
     with open("activities.json", "w") as f:
         json.dump(activities, f, indent=2)
 
-    return activities
+    return {"data": activities}
 
 
 if __name__ == '__main__':
 
     city = "Rome"
-    
+
     response = get_data(
         city
     )
