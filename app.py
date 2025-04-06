@@ -63,7 +63,7 @@ def find_flights():
 def find_hotels():
     if request.method == 'GET':
         city = request.values.get("city")
-
+        
         hotels = hotels_api.get_data(city)
         parsed = hotels_api.parse_data(hotels)
 

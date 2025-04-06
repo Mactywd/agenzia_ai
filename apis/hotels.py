@@ -46,7 +46,9 @@ def get_latlng(city):
 
 
 
-def get_data(lat, lng):
+def get_data(city):
+    lat, lng = get_latlng(city)
+
     # Get hotel list
     try:
         response = amadeus.get(
@@ -114,12 +116,8 @@ if __name__ == '__main__':
     # Get latlong
     city = "Rome"
 
-    lat, lng = get_latlng(city)
-
-
     response = get_data(
-        lat=lat,
-        lng=lng
+        city
     )
 
     parsed = parse_data(response)

@@ -46,31 +46,33 @@ def get_latlng(city):
 
 
 
-def get_data(lat, lng):
+def get_data(city):
     # Get activities list
-    # try:
-    #     response = amadeus.get(
-    #         "/v1/shopping/activities",
-    #         latitude=lat,
-    #         longitude=lng,
-    #         radius=20)
-    #     #print(response.data)
-    #     with open("activities_api_output.json", "w") as f:
-    #         json.dump(response.data, f, indent=2)
-    
-    # except ResponseError as error:
-    #     raise error
-    
-    # return response
+    lat, lng = get_latlng(city)
 
-    class Response:
-        def __init__(self, data):
-            self.data = data
-
-    with open("activities_api_output.json", "r") as f:
-        response = Response(json.load(f))
+    try:
+        response = amadeus.get(
+            "/v1/shopping/activities",
+            latitude=lat,
+            longitude=lng,
+            radius=20)
+        #print(response.data)
+        with open("activities_api_output.json", "w") as f:
+            json.dump(response.data, f, indent=2)
+    
+    except ResponseError as error:
+        raise error
     
     return response
+
+    # class Response:
+    #     def __init__(self, data):
+    #         self.data = data
+
+    # with open("activities_api_output.json", "r") as f:
+    #     response = Response(json.load(f))
+    
+    # return response
     
 
 def parse_data(response):
@@ -102,13 +104,11 @@ def parse_data(response):
 
 
 if __name__ == '__main__':
+
     city = "Rome"
     
-    lat, lng = get_latlng(city)
-
     response = get_data(
-        lat=lat,
-        lng=lng
+        city
     )
 
     parsed = parse_data(response)
