@@ -123,8 +123,10 @@ def parse_data(response):
 
     with open("parsed_flights.txt", "w") as f:
         f.write(final_message)
+    
+    print(final_message)
 
-    return final_message
+    return {"data": final_message}
 
 if __name__ == '__main__':
     response = get_data(

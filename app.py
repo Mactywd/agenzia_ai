@@ -44,7 +44,7 @@ api_base = "/api"
 def find_flights():
     if request.method == 'GET':
         destination = request.values.get('destination')
-        departures = request.values.get('departures')
+        departures = request.values.get('departure')
         date = request.values.get('date')
 
         print(request.values)
