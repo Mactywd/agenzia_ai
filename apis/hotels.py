@@ -28,23 +28,7 @@ amadeus = Client(
 
 
 
-def get_data(city):
-    # Get latlong
-    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey=39ee145a870a4cdb8c9f9d5283e6c731"
-    headers = CaseInsensitiveDict()
-    headers["Accept"] = "application/json"
-    resp = requests.get(url, headers=headers)
-
-    with open("geocodingAPI.json", "w") as f:
-        json.dump(resp.json(), f, indent=2)
-
-    print(resp.status_code)
-
-    data = resp.json()["features"][0]["geometry"]["coordinates"]
-
-    lng = data[0]
-    lat = data[1]
-
+def get_data(lat, lng):
     # Get hotel list
     try:
         response = amadeus.get(
@@ -109,8 +93,27 @@ def parse_data(response):
 
 
 if __name__ == '__main__':
+    # Get latlong
+    city = "Rome"
+
+    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey=39ee145a870a4cdb8c9f9d5283e6c731"
+    headers = CaseInsensitiveDict()
+    headers["Accept"] = "application/json"
+    resp = requests.get(url, headers=headers)
+
+    with open("geocodingAPI.json", "w") as f:
+        json.dump(resp.json(), f, indent=2)
+
+    print(resp.status_code)
+
+    data = resp.json()["features"][0]["geometry"]["coordinates"]
+
+    lng = data[0]
+    lat = data[1]
+
     response = get_data(
-        city="Rome"
+        lat=lat,
+        lng=lng
     )
 
     parsed = parse_data(response)
