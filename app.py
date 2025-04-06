@@ -1,10 +1,13 @@
 import asyncio
 from flask import Flask, render_template, url_for, request
 from apis import flights as flights_api
+from apis import hotels as hotels_api
+from apis import activities as activities_api
 import datetime
 import requests
 
 app = Flask(__name__, static_url_path='/static')
+
 
 ## WEBSITE ROUTES ##
 
@@ -53,6 +56,26 @@ def find_flights():
 
         flights = flights_api.get_data(departures, destination, date)
         parsed = flights_api.parse_data(flights)
+
+        return parsed
+    
+@app.route(api_base + "/find_hotel", methods=['GET'])
+def find_hotels():
+    if request.method == 'GET':
+        city = request.values.get("city")
+
+        hotels = hotels_api.get_data(city)
+        parsed = hotels_api.parse_data(hotels)
+
+        return parsed
+
+@app.route(api_base + "/find_flights", methods=['GET'])
+def find_flights():
+    if request.method == 'GET':
+        city = request.values.get("city")
+
+        activities = activities_api.get_data(city)
+        parsed = activities_api.parse_data(activities)
 
         return parsed
 

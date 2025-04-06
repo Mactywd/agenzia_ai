@@ -13,6 +13,24 @@ amadeus = Client(
     client_secret=os.getenv("AMADEUS_CLIENT_SECRET"),
 )
 
+def get_latlng(city):
+    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey=39ee145a870a4cdb8c9f9d5283e6c731"
+    headers = CaseInsensitiveDict()
+    headers["Accept"] = "application/json"
+    resp = requests.get(url, headers=headers)
+
+    with open("geocodingAPI.json", "w") as f:
+        json.dump(resp.json(), f, indent=2)
+
+    print(resp.status_code)
+
+    data = resp.json()["features"][0]["geometry"]["coordinates"]
+
+    lng = data[0]
+    lat = data[1]
+
+    return lat,lng
+
 # try:
 #     response = amadeus.shopping.flight_offers_search.get(
 #         originLocationCode='PSA',
@@ -84,26 +102,9 @@ def parse_data(response):
 
 
 if __name__ == '__main__':
-    # Get latlong
-    # city = "Rome"
+    city = "Rome"
     
-    # url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey=39ee145a870a4cdb8c9f9d5283e6c731"
-    # headers = CaseInsensitiveDict()
-    # headers["Accept"] = "application/json"
-    # resp = requests.get(url, headers=headers)
-
-    # with open("geocodingAPI.json", "w") as f:
-    #     json.dump(resp.json(), f, indent=2)
-
-    # print(resp.status_code)
-
-    # data = resp.json()["features"][0]["geometry"]["coordinates"]
-
-    # lng = data[0]
-    # lat = data[1]
-
-    lat = 41.90158985789744
-    lng = 12.497138488522378
+    lat, lng = get_latlng(city)
 
     response = get_data(
         lat=lat,
