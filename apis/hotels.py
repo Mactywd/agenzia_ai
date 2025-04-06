@@ -14,7 +14,7 @@ amadeus = Client(
 )
 
 def get_latlng(city):
-    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey=39ee145a870a4cdb8c9f9d5283e6c731"
+    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey="+os.environ('GEOAPIFY_API_KEY')
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/json"
     resp = requests.get(url, headers=headers)
