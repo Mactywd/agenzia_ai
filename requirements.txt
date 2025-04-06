@@ -1,4 +1,5 @@
 airportsdata==20241001
+amadeus==12.0.0
 beautifulsoup4==4.13.3
 blinker==1.9.0
 bs4==0.0.2
@@ -11,6 +12,7 @@ gunicorn==23.0.0
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
+load-dotenv==0.1.0
 MarkupSafe==3.0.2
 numpy==2.2.3
 packaging==24.2
@@ -19,6 +21,7 @@ playwright==1.50.0
 pycountry==24.6.1
 pyee==12.1.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
 pytz==2025.1
 requests==2.32.3
 six==1.17.0
