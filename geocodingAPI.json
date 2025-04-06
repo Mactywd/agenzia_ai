@@ -1,0 +1,297 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Italy",
+        "country_code": "it",
+        "state": "Lazio",
+        "county": "Roma Capitale",
+        "city": "Rome",
+        "iso3166_2": "IT-62",
+        "iso3166_2_sublevel": "IT-RM",
+        "lon": 12.4829321,
+        "lat": 41.8933203,
+        "state_code": "LAZ",
+        "result_type": "city",
+        "formatted": "Rome, LAZ, Italy",
+        "address_line1": "Rome",
+        "address_line2": "LAZ, Italy",
+        "category": "administrative",
+        "timezone": {
+          "name": "Europe/Rome",
+          "offset_STD": "+01:00",
+          "offset_STD_seconds": 3600,
+          "offset_DST": "+02:00",
+          "offset_DST_seconds": 7200,
+          "abbreviation_STD": "CET",
+          "abbreviation_DST": "CEST"
+        },
+        "plus_code": "8FHJVFVM+85",
+        "plus_code_short": "VFVM+85 Rome, Roma Capitale, Italy",
+        "rank": {
+          "importance": 0.8896107180689524,
+          "popularity": 9.995467104553104,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5190604fe042f72840592cadd05158f24440f00101f9010da2000000000000c00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4829321,
+          41.8933203
+        ]
+      },
+      "bbox": [
+        12.2344669,
+        41.6556417,
+        12.8557603,
+        42.1410285
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "Togo",
+        "country_code": "tg",
+        "state": "Maritime Region",
+        "city": "Lom\u00e9",
+        "iso3166_2": "TG-M",
+        "lon": 1.215829,
+        "lat": 6.130419,
+        "result_type": "city",
+        "formatted": "Lom\u00e9, Maritime Region, Togo",
+        "address_line1": "Lom\u00e9",
+        "address_line2": "Maritime Region, Togo",
+        "category": "administrative",
+        "timezone": {
+          "name": "Africa/Lome",
+          "name_alt": "Africa/Abidjan",
+          "offset_STD": "+00:00",
+          "offset_STD_seconds": 0,
+          "offset_DST": "+00:00",
+          "offset_DST_seconds": 0,
+          "abbreviation_STD": "GMT",
+          "abbreviation_DST": "GMT"
+        },
+        "plus_code": "6FR346J8+58",
+        "plus_code_short": "J8+58 Lom\u00e9, Maritime Region, Togo",
+        "rank": {
+          "importance": 0.5403131252345131,
+          "popularity": 1.5803353047455206,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "514374081c0974f33f59ac1bef8e8c851840f00101f901ccd1640000000000c00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.215829,
+          6.130419
+        ]
+      },
+      "bbox": [
+        1.1754424,
+        6.1123604,
+        1.3057378,
+        6.2041066
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "Oneida County",
+        "city": "Rome",
+        "iso3166_2": "US-NY",
+        "lon": -75.4557304,
+        "lat": 43.2128473,
+        "state_code": "NY",
+        "result_type": "city",
+        "formatted": "City of Rome, Rome, NY, United States of America",
+        "address_line1": "City of Rome",
+        "address_line2": "Rome, NY, United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M66G7V+4P",
+        "plus_code_short": "+4P Rome, Oneida County, United States",
+        "rank": {
+          "importance": 0.5885132830788409,
+          "popularity": 2.531250245805703,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51c0f2d6af2add52c0595d4590943e9b4540f00101f9015afe370000000000c00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4557304,
+          43.2128473
+        ]
+      },
+      "bbox": [
+        -75.66687,
+        43.169058,
+        -75.340772,
+        43.281615
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Georgia",
+        "county": "Floyd County",
+        "city": "Rome",
+        "iso3166_2": "US-GA",
+        "lon": -85.1646726,
+        "lat": 34.257038,
+        "state_code": "GA",
+        "result_type": "city",
+        "formatted": "Rome, GA, United States of America",
+        "address_line1": "Rome, GA",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "866P7R4P+R4",
+        "plus_code_short": "+R4 Rome, Floyd County, United States",
+        "rank": {
+          "importance": 0.5732051496012197,
+          "popularity": 2.1856413005668083,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "5107e3f1fe894a55c05925ea059fe6204140f00101f901dbd2010000000000c00208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1646726,
+          34.257038
+        ]
+      },
+      "bbox": [
+        -85.278941,
+        34.193159,
+        -85.112246,
+        34.3565
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Iowa",
+        "county": "Henry County",
+        "city": "Rome",
+        "postcode": "52642",
+        "iso3166_2": "US-IA",
+        "lon": -91.682387,
+        "lat": 40.9814147,
+        "state_code": "IA",
+        "result_type": "postcode",
+        "formatted": "Rome, IA, United States of America",
+        "address_line1": "Rome, IA",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/Chicago",
+          "offset_STD": "-06:00",
+          "offset_STD_seconds": -21600,
+          "offset_DST": "-05:00",
+          "offset_DST_seconds": -18000,
+          "abbreviation_STD": "CST",
+          "abbreviation_DST": "CDT"
+        },
+        "plus_code": "86GCX8J9+H2",
+        "rank": {
+          "importance": 0.5309963008744265,
+          "popularity": 1.0568315245433935,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51cc0d863aaceb56c059262834ff9e7d4440f00101f90129f8010000000000c0020792030835323634322b7573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.682387,
+          40.9814147
+        ]
+      },
+      "bbox": [
+        -91.686248,
+        40.9778563,
+        -91.677505,
+        40.9863174
+      ]
+    }
+  ],
+  "query": {
+    "text": "Rome",
+    "parsed": {
+      "city": "rome",
+      "expected_type": "unknown"
+    }
+  }
+}

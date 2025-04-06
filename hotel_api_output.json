@@ -1,0 +1,2182 @@
+[
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700011845,
+    "name": "RICHMOND HOTEL",
+    "hotelId": "YXROM659",
+    "geoCode": {
+      "latitude": 41.89334,
+      "longitude": 12.48774
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.39,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:34"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700057815,
+    "name": "CAESAR HOUSE",
+    "hotelId": "YXROM709",
+    "geoCode": {
+      "latitude": 41.89344,
+      "longitude": 12.4889
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.49,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:11:47"
+  },
+  {
+    "chainCode": "CI",
+    "iataCode": "ROM",
+    "dupeId": 700029705,
+    "name": "COMFORT HOTEL BOLIVAR",
+    "hotelId": "CIROM401",
+    "geoCode": {
+      "latitude": 41.8969,
+      "longitude": 12.48655
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.49,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:22:13"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "FCO",
+    "dupeId": 700097409,
+    "name": "SANTA CHIARA HOTEL",
+    "hotelId": "YXFCOASC",
+    "geoCode": {
+      "latitude": 41.89761,
+      "longitude": 12.477
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.68,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:44"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700044500,
+    "name": "HOTEL APOLLO",
+    "hotelId": "YXROM240",
+    "geoCode": {
+      "latitude": 41.89672,
+      "longitude": 12.49013
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.7,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:16:45"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "CIA",
+    "dupeId": 700097472,
+    "name": "HOTEL ARTORIUS",
+    "hotelId": "YXCIA124",
+    "geoCode": {
+      "latitude": 41.89719,
+      "longitude": 12.4904
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.75,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:17:16"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700011693,
+    "name": "REGNO HOTEL",
+    "hotelId": "YXROMRGH",
+    "geoCode": {
+      "latitude": 41.90002,
+      "longitude": 12.48085
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.76,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:08:23"
+  },
+  {
+    "chainCode": "FG",
+    "iataCode": "ROM",
+    "dupeId": 700013742,
+    "name": "HOTEL TREVI",
+    "hotelId": "FGROMH28",
+    "geoCode": {
+      "latitude": 41.90026,
+      "longitude": 12.48413
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.77,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:37:41"
+  },
+  {
+    "chainCode": "FG",
+    "iataCode": "ROM",
+    "dupeId": 700036258,
+    "name": "HOTEL JONICO",
+    "hotelId": "FGROMJON",
+    "geoCode": {
+      "latitude": 41.90026,
+      "longitude": 12.48413
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.77,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:29:02"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700005944,
+    "name": "ALBERGO CESARI ROME",
+    "hotelId": "YXROM586",
+    "geoCode": {
+      "latitude": 41.90002,
+      "longitude": 12.48001
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.78,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:15:58"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700097386,
+    "name": "ALBERGO DEL SENATO",
+    "hotelId": "YXROMALB",
+    "geoCode": {
+      "latitude": 41.89911,
+      "longitude": 12.47692
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.81,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:44"
+  },
+  {
+    "chainCode": "IQ",
+    "iataCode": "ROM",
+    "dupeId": 700040723,
+    "name": "HOTEL FONTANA",
+    "hotelId": "IQROMFON",
+    "geoCode": {
+      "latitude": 41.90079,
+      "longitude": 12.4832
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.83,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:59"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700098076,
+    "name": "HOTEL METRO ROMA",
+    "hotelId": "ONROMMET",
+    "geoCode": {
+      "latitude": 41.89594,
+      "longitude": 12.47334
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.84,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:11:15"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700056748,
+    "name": "ARGENTINA",
+    "hotelId": "HSROMAJV",
+    "geoCode": {
+      "latitude": 41.89508,
+      "longitude": 12.49371
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.91,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:03:55"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "ROM",
+    "dupeId": 700004128,
+    "name": "ACCADEMIA HOTEL",
+    "hotelId": "UIROMACC",
+    "geoCode": {
+      "latitude": 41.9018,
+      "longitude": 12.48361
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.94,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:34"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700131436,
+    "name": "HOTEL ESPOSIZIONE",
+    "hotelId": "ONROMESP",
+    "geoCode": {
+      "latitude": 41.89941,
+      "longitude": 12.49121
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.96,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:25:08"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "ROM",
+    "dupeId": 700013751,
+    "name": "TRITONE HOTEL",
+    "hotelId": "UIROMTRI",
+    "geoCode": {
+      "latitude": 41.90206,
+      "longitude": 12.48248
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 0.97,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:00:32"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700156492,
+    "name": "BOUTIQUE NAZIONALE",
+    "hotelId": "HSROMBDY",
+    "geoCode": {
+      "latitude": 41.89972,
+      "longitude": 12.49169
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.01,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:39:47"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "CIA",
+    "dupeId": 700057845,
+    "name": "CARAVAGGIO",
+    "hotelId": "HSCIAAAB",
+    "geoCode": {
+      "latitude": 41.89931,
+      "longitude": 12.4927
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.04,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:37:57"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "ROM",
+    "dupeId": 700006582,
+    "name": "HOTEL DE PETRIS",
+    "hotelId": "UIROMDEP",
+    "geoCode": {
+      "latitude": 41.90241,
+      "longitude": 12.48727
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.07,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:05:34"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700006125,
+    "name": "COLOSSEUM HOTEL",
+    "hotelId": "YXROMH18",
+    "geoCode": {
+      "latitude": 41.89586,
+      "longitude": 12.49581
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.1,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:03"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "CIA",
+    "dupeId": 700131075,
+    "name": "DELLE REGIONI",
+    "hotelId": "HSCIAABI",
+    "geoCode": {
+      "latitude": 41.90312,
+      "longitude": 12.48676
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.13,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:36:22"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "ROM",
+    "dupeId": 700011551,
+    "name": "HOTEL RAFFAELLO",
+    "hotelId": "UIROMRAF",
+    "geoCode": {
+      "latitude": 41.89784,
+      "longitude": 12.4955
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.15,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:07:11"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700045657,
+    "name": "ADRIANO HOTEL ROME",
+    "hotelId": "YXROMADR",
+    "geoCode": {
+      "latitude": 41.90227,
+      "longitude": 12.47583
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.15,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:19:38"
+  },
+  {
+    "chainCode": "FG",
+    "iataCode": "ROM",
+    "dupeId": 700011432,
+    "name": "NUOVO HOTEL QUATTRO FONTANE",
+    "hotelId": "FGROMQUF",
+    "geoCode": {
+      "latitude": 41.90253,
+      "longitude": 12.48975
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.17,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:58"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700097740,
+    "name": "HOTEL DORICA",
+    "hotelId": "YXROMH49",
+    "geoCode": {
+      "latitude": 41.89992,
+      "longitude": 12.49435
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.19,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:52:56"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700098440,
+    "name": "TAMARA S SUITES B AND B",
+    "hotelId": "WVROMTAM",
+    "geoCode": {
+      "latitude": 41.88783,
+      "longitude": 12.47038
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.2,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:59"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700098055,
+    "name": "MARTINI",
+    "hotelId": "HSROMAQC",
+    "geoCode": {
+      "latitude": 41.9009,
+      "longitude": 12.49385
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.23,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:38:13"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700029704,
+    "name": "SAN FRANCESCO",
+    "hotelId": "HSROMAOL",
+    "geoCode": {
+      "latitude": 41.88491,
+      "longitude": 12.47257
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.27,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:37:11"
+  },
+  {
+    "chainCode": "OI",
+    "iataCode": "ROM",
+    "dupeId": 700072384,
+    "name": "CECIL HOTEL",
+    "hotelId": "OIROM3HD",
+    "geoCode": {
+      "latitude": 41.90464,
+      "longitude": 12.48586
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.28,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-09-12T19:19:48"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "CIA",
+    "dupeId": 700098064,
+    "name": "MATISSE PROPERTIES",
+    "hotelId": "YXCIA617",
+    "geoCode": {
+      "latitude": 41.90142,
+      "longitude": 12.49411
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.29,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:46:54"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700061886,
+    "name": "TIRRENO",
+    "hotelId": "HAROMTIR",
+    "geoCode": {
+      "latitude": 41.8955,
+      "longitude": 12.49839
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.3,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:08:34"
+  },
+  {
+    "chainCode": "CH",
+    "iataCode": "ROM",
+    "dupeId": 700005929,
+    "name": "HOTEL CENTRO",
+    "hotelId": "CHROMH58",
+    "geoCode": {
+      "latitude": 41.90112,
+      "longitude": 12.49486
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.31,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:32"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700128731,
+    "name": "AL VIMINALE HILL INN - HOTEL",
+    "hotelId": "HSROMAXP",
+    "geoCode": {
+      "latitude": 41.90032,
+      "longitude": 12.49592
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.32,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:33:15"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700134409,
+    "name": "MODIGLIANI HOTEL",
+    "hotelId": "YXROMMOD",
+    "geoCode": {
+      "latitude": 41.90506,
+      "longitude": 12.48687
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.34,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:03:56"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700020519,
+    "name": "ALEXANDRA HOTEL",
+    "hotelId": "YXROMALE",
+    "geoCode": {
+      "latitude": 41.90484,
+      "longitude": 12.48814
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.35,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:46:38"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700008650,
+    "name": "IMPERO HOTEL",
+    "hotelId": "YXROMJQP",
+    "geoCode": {
+      "latitude": 41.90067,
+      "longitude": 12.49647
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.38,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:14:08"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 501364648,
+    "name": "LE PETIT HOTEL",
+    "hotelId": "ONROMPET",
+    "geoCode": {
+      "latitude": 41.90164,
+      "longitude": 12.49561
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.4,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:12:18"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700040014,
+    "name": "HOTEL AMALFI",
+    "hotelId": "HAROMAMA",
+    "geoCode": {
+      "latitude": 41.89642,
+      "longitude": 12.49946
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.41,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:29:18"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700006986,
+    "name": "EDERA HOTEL",
+    "hotelId": "YXROMCX4",
+    "geoCode": {
+      "latitude": 41.89096,
+      "longitude": 12.49984
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.42,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:04:59"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700007439,
+    "name": "FLOWER GARDEN",
+    "hotelId": "HSROMAPV",
+    "geoCode": {
+      "latitude": 41.90106,
+      "longitude": 12.49691
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.44,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:37:26"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "FCO",
+    "dupeId": 700164283,
+    "name": "PIAZZA DI SPAGNA",
+    "hotelId": "YXFCOPDS",
+    "geoCode": {
+      "latitude": 41.90629,
+      "longitude": 12.48073
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.45,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:04:43"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700077132,
+    "name": "CONDOTTI PALACE",
+    "hotelId": "YXROMCPL",
+    "geoCode": {
+      "latitude": 41.90632,
+      "longitude": 12.48029
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.46,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:00:00"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700007669,
+    "name": "HOTEL GIGLIO DELL'OPERA",
+    "hotelId": "HAROMGIG",
+    "geoCode": {
+      "latitude": 41.90014,
+      "longitude": 12.49827
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.48,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:19:36"
+  },
+  {
+    "chainCode": "FG",
+    "iataCode": "ROM",
+    "dupeId": 700146081,
+    "name": "HOTEL RINASCIMENTO",
+    "hotelId": "FGROMRIN",
+    "geoCode": {
+      "latitude": 41.90113,
+      "longitude": 12.49786
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.51,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:25:23"
+  },
+  {
+    "chainCode": "UI",
+    "iataCode": "ROM",
+    "dupeId": 700006741,
+    "name": "DIPLOMATIC HOTEL",
+    "hotelId": "UIROMDIP",
+    "geoCode": {
+      "latitude": 41.90507,
+      "longitude": 12.47159
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.61,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:34"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700006219,
+    "name": "CONTILIA HOTEL",
+    "hotelId": "HAROMTIL",
+    "geoCode": {
+      "latitude": 41.89842,
+      "longitude": 12.5012
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.61,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:02:04"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700097903,
+    "name": "ALBERGO IGEA",
+    "hotelId": "HAROMH26",
+    "geoCode": {
+      "latitude": 41.89811,
+      "longitude": 12.5015
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.62,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:11:26"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700141378,
+    "name": "HOTEL SANTA PRISCA",
+    "hotelId": "ONROMSAN",
+    "geoCode": {
+      "latitude": 41.87877,
+      "longitude": 12.47925
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.64,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:21:11"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700033479,
+    "name": "HOTEL QUISISANA",
+    "hotelId": "ONROMQUI",
+    "geoCode": {
+      "latitude": 41.89853,
+      "longitude": 12.50224
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.7,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:56:04"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700008952,
+    "name": "KENNEDY HOTEL",
+    "hotelId": "YXROMHKY",
+    "geoCode": {
+      "latitude": 41.89847,
+      "longitude": 12.50235
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.7,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:12:50"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700070575,
+    "name": "HOTEL CENTRALE ROMA",
+    "hotelId": "YXROM557",
+    "geoCode": {
+      "latitude": 41.90867,
+      "longitude": 12.47785
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.75,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:16:29"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700098102,
+    "name": "MIRO HOTEL",
+    "hotelId": "HAROMMIR",
+    "geoCode": {
+      "latitude": 41.90912,
+      "longitude": 12.47825
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.8,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:58"
+  },
+  {
+    "chainCode": "KY",
+    "iataCode": "ROM",
+    "dupeId": 700033661,
+    "name": "TERMINAL",
+    "hotelId": "KYROMTER",
+    "geoCode": {
+      "latitude": 41.89641,
+      "longitude": 12.50448
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.81,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:17"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700007334,
+    "name": "FIAMMA HOTEL",
+    "hotelId": "YXROMCW3",
+    "geoCode": {
+      "latitude": 41.90404,
+      "longitude": 12.49964
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.82,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:13"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700032936,
+    "name": "EUROSTARS DOMUS AUREA HOTEL",
+    "hotelId": "HAROMAUR",
+    "geoCode": {
+      "latitude": 41.90433,
+      "longitude": 12.49992
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.86,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:16:59"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700053727,
+    "name": "HOTEL MAMIANI",
+    "hotelId": "WVROMHOM",
+    "geoCode": {
+      "latitude": 41.89647,
+      "longitude": 12.50529
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.88,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:05:46"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "CIA",
+    "dupeId": 700077147,
+    "name": "HOTEL STROMBOLI",
+    "hotelId": "YXCIA049",
+    "geoCode": {
+      "latitude": 41.90296,
+      "longitude": 12.50165
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.88,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:17:01"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700166563,
+    "name": "RE TESTA HOTEL ROME",
+    "hotelId": "YXROMERT",
+    "geoCode": {
+      "latitude": 41.87812,
+      "longitude": 12.47272
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.89,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:09:10"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700097338,
+    "name": "ACCOMMODATION DELIA",
+    "hotelId": "ONROMDEL",
+    "geoCode": {
+      "latitude": 41.9044,
+      "longitude": 12.50029
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.89,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:43"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700075174,
+    "name": "MARSALA HOTEL",
+    "hotelId": "YXROMMAR",
+    "geoCode": {
+      "latitude": 41.9027,
+      "longitude": 12.50207
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.89,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:20:10"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700012828,
+    "name": "HOTEL INVICTUS",
+    "hotelId": "HAROMVIC",
+    "geoCode": {
+      "latitude": 41.90703,
+      "longitude": 12.49664
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.9,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:18:49"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "FCO",
+    "dupeId": 700077143,
+    "name": "WINDROSE HOTEL",
+    "hotelId": "YXFCOHWI",
+    "geoCode": {
+      "latitude": 41.90448,
+      "longitude": 12.5004
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.9,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:08:38"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROV",
+    "dupeId": 700191319,
+    "name": "IZVOLTE HOTEL",
+    "hotelId": "YXROVIZV",
+    "geoCode": {
+      "latitude": 41.90708,
+      "longitude": 12.4969
+    },
+    "address": {
+      "countryCode": "RU"
+    },
+    "distance": {
+      "value": 1.91,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:15:27"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700225168,
+    "name": "RESIDENZA ROMAMOR",
+    "hotelId": "HAROMROM",
+    "geoCode": {
+      "latitude": 41.90858,
+      "longitude": 12.49396
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.92,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:20:39"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700009657,
+    "name": "HOTEL MADISON",
+    "hotelId": "WVROM076",
+    "geoCode": {
+      "latitude": 41.90173,
+      "longitude": 12.5034
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.93,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:50:50"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "FCO",
+    "dupeId": 700061151,
+    "name": "RIMINI HOTEL",
+    "hotelId": "HAFCORIM",
+    "geoCode": {
+      "latitude": 41.90233,
+      "longitude": 12.50347
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 1.97,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:16:13"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700030155,
+    "name": "HOTEL MARGHERA",
+    "hotelId": "WVROM813",
+    "geoCode": {
+      "latitude": 41.90276,
+      "longitude": 12.50417
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.04,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:41:55"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700056738,
+    "name": "HOTEL ARCANGELO",
+    "hotelId": "ONROMARA",
+    "geoCode": {
+      "latitude": 41.90667,
+      "longitude": 12.46492
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.1,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:29:19"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700083565,
+    "name": "TRIANON BORGO P.",
+    "hotelId": "YXROM610",
+    "geoCode": {
+      "latitude": 41.90414,
+      "longitude": 12.46171
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.13,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:34:03"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700015862,
+    "name": "SIVIGLIA HOTEL",
+    "hotelId": "YXROMSVG",
+    "geoCode": {
+      "latitude": 41.90598,
+      "longitude": 12.50272
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.16,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:13"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700050875,
+    "name": "BEST WESTERN HOTEL ARTDECO",
+    "hotelId": "BWROM108",
+    "geoCode": {
+      "latitude": 41.90647,
+      "longitude": 12.5024
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.17,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:00:13"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700038388,
+    "name": "PRISCILLA HOTEL",
+    "hotelId": "HAROMCIL",
+    "geoCode": {
+      "latitude": 41.90978,
+      "longitude": 12.49745
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.19,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:47:56"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700098233,
+    "name": "PRIMUS ROMA HOTEL",
+    "hotelId": "HAROMPRI",
+    "geoCode": {
+      "latitude": 41.87337,
+      "longitude": 12.47967
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.23,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:07:34"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700047356,
+    "name": "GABRIELLA",
+    "hotelId": "HAROMGBR",
+    "geoCode": {
+      "latitude": 41.90327,
+      "longitude": 12.5064
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.23,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:58"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700012253,
+    "name": "SAN MARCO",
+    "hotelId": "HSROMAWR",
+    "geoCode": {
+      "latitude": 41.90488,
+      "longitude": 12.50535
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.25,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:32:28"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700029685,
+    "name": "DES ARTISTES",
+    "hotelId": "HSROMALD",
+    "geoCode": {
+      "latitude": 41.90511,
+      "longitude": 12.50522
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.26,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:35:52"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "FCO",
+    "dupeId": 700033659,
+    "name": "HOTEL AUGUSTUS",
+    "hotelId": "YXFCOHOA",
+    "geoCode": {
+      "latitude": 41.91029,
+      "longitude": 12.49838
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.28,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:11:31"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700005277,
+    "name": "BEST WESTERN HOTEL CANADA",
+    "hotelId": "BWROM058",
+    "geoCode": {
+      "latitude": 41.90494,
+      "longitude": 12.50578
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.29,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2024-05-01T21:40:09"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700097770,
+    "name": "HOTEL EMMAUS",
+    "hotelId": "YXROMH08",
+    "geoCode": {
+      "latitude": 41.89931,
+      "longitude": 12.45642
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.29,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:49:47"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "CIA",
+    "dupeId": 700007586,
+    "name": "GALLES",
+    "hotelId": "HSCIAAAA",
+    "geoCode": {
+      "latitude": 41.90448,
+      "longitude": 12.50627
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.29,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:34:17"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700006477,
+    "name": "DANIELA HOTEL",
+    "hotelId": "YXROMDAN",
+    "geoCode": {
+      "latitude": 41.89103,
+      "longitude": 12.51166
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.39,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:47:10"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700005414,
+    "name": "BLED HOTEL",
+    "hotelId": "YXROMC1Q",
+    "geoCode": {
+      "latitude": 41.89054,
+      "longitude": 12.51175
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.4,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:54:31"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700016173,
+    "name": "TEMPIO DI PALLADE",
+    "hotelId": "HAROMTEM",
+    "geoCode": {
+      "latitude": 41.89332,
+      "longitude": 12.51229
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.43,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:00:45"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700166561,
+    "name": "B-B HOTEL ROMA TRASTEVERE",
+    "hotelId": "HSROMBCX",
+    "geoCode": {
+      "latitude": 41.87525,
+      "longitude": 12.46606
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.44,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:39:32"
+  },
+  {
+    "chainCode": "CH",
+    "iataCode": "FCO",
+    "dupeId": 700005914,
+    "name": "HOTEL CENTER 1-2-3",
+    "hotelId": "CHFCOHCE",
+    "geoCode": {
+      "latitude": 41.89313,
+      "longitude": 12.51259
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.45,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:51:03"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700018153,
+    "name": "BEST WESTERN HOTEL PICCADILLY",
+    "hotelId": "BWROM025",
+    "geoCode": {
+      "latitude": 41.88089,
+      "longitude": 12.50816
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.5,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:00:45"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700006834,
+    "name": "HOTEL DONATELLO",
+    "hotelId": "YXROMH45",
+    "geoCode": {
+      "latitude": 41.89211,
+      "longitude": 12.51322
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.51,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:02:37"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700049643,
+    "name": "CAMELIA HOTEL",
+    "hotelId": "HAROMCAM",
+    "geoCode": {
+      "latitude": 41.89848,
+      "longitude": 12.51285
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.54,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:58"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700059820,
+    "name": "LAURENTIA",
+    "hotelId": "HSROMAVA",
+    "geoCode": {
+      "latitude": 41.89729,
+      "longitude": 12.51372
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.58,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T11:08:03"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700097909,
+    "name": "IL GATTOPARDO RELAIS",
+    "hotelId": "YXROMIGR",
+    "geoCode": {
+      "latitude": 41.90919,
+      "longitude": 12.45646
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.81,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:34"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700077127,
+    "name": "VILLA SAN LORENZO",
+    "hotelId": "HSROMBGA",
+    "geoCode": {
+      "latitude": 41.89515,
+      "longitude": 12.51687
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.81,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:39:17"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700058013,
+    "name": "HOTEL CILICIA",
+    "hotelId": "YXROMBQ6",
+    "geoCode": {
+      "latitude": 41.87343,
+      "longitude": 12.5058
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.91,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:17:48"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700166753,
+    "name": "PAPAVISTA RELAIS",
+    "hotelId": "YXROMPPR",
+    "geoCode": {
+      "latitude": 41.90746,
+      "longitude": 12.45283
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 2.94,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:18:04"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700012916,
+    "name": "BW HOTEL SPRING HOUSE",
+    "hotelId": "BWROM205",
+    "geoCode": {
+      "latitude": 41.90747000000001,
+      "longitude": 12.45183
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.01,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:48"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700098245,
+    "name": "RE DI ROMA HOTEL",
+    "hotelId": "YXROMRDR",
+    "geoCode": {
+      "latitude": 41.88174,
+      "longitude": 12.51776
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.16,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:53:12"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700164267,
+    "name": "CASALI PAPARESCHI SUITE APARTMENTS",
+    "hotelId": "WVROMPPR",
+    "geoCode": {
+      "latitude": 41.86581,
+      "longitude": 12.47067
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.22,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:41:08"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700061971,
+    "name": "BEST WESTERN GLOBUS HTL",
+    "hotelId": "BWROM242",
+    "geoCode": {
+      "latitude": 41.9071,
+      "longitude": 12.51779
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.26,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2024-05-01T21:42:36"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "ROM",
+    "dupeId": 700022228,
+    "name": "ATHENA",
+    "hotelId": "HSROMANV",
+    "geoCode": {
+      "latitude": 41.90814,
+      "longitude": 12.5193
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.43,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:34:35"
+  },
+  {
+    "chainCode": "BW",
+    "iataCode": "ROM",
+    "dupeId": 700004787,
+    "name": "BEST WESTERN HTL ASTRID",
+    "hotelId": "BWROM282",
+    "geoCode": {
+      "latitude": 41.92333,
+      "longitude": 12.46866
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.54,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2024-05-01T21:43:12"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700097720,
+    "name": "HOTEL DERBY",
+    "hotelId": "HAROMDER",
+    "geoCode": {
+      "latitude": 41.8605,
+      "longitude": 12.48637
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.66,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:07:49"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700052477,
+    "name": "CARDINAL ST PETER",
+    "hotelId": "YXROMHSP",
+    "geoCode": {
+      "latitude": 41.89124,
+      "longitude": 12.43651
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.85,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:14:24"
+  },
+  {
+    "chainCode": "HI",
+    "iataCode": "ROM",
+    "dupeId": 700026499,
+    "name": "HOLIDAY INN EXP SAN GIOVANNI",
+    "hotelId": "HIROM42D",
+    "geoCode": {
+      "latitude": 41.87951,
+      "longitude": 12.5257
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.86,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:42"
+  },
+  {
+    "chainCode": "YX",
+    "iataCode": "ROM",
+    "dupeId": 700032152,
+    "name": "SAN GIUSTO HOTEL",
+    "hotelId": "YXROM923",
+    "geoCode": {
+      "latitude": 41.91396,
+      "longitude": 12.52106
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.9,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:10:29"
+  },
+  {
+    "chainCode": "RT",
+    "iataCode": "ROM",
+    "dupeId": 700021913,
+    "name": "MERCURE ROMA CORSO TRIESTE 3*",
+    "hotelId": "RTROMCOR",
+    "geoCode": {
+      "latitude": 41.92062,
+      "longitude": 12.51373
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 3.96,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:01:34"
+  },
+  {
+    "chainCode": "HA",
+    "iataCode": "ROM",
+    "dupeId": 700020518,
+    "name": "PACIFIC HOTEL",
+    "hotelId": "HAROMPAC",
+    "geoCode": {
+      "latitude": 41.91606,
+      "longitude": 12.44265
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 4.18,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T09:59:42"
+  },
+  {
+    "chainCode": "HS",
+    "iataCode": "CIA",
+    "dupeId": 700047360,
+    "name": "KOLPING HOTEL CASA DOMITILLA",
+    "hotelId": "HSCIAAAR",
+    "geoCode": {
+      "latitude": 41.85908,
+      "longitude": 12.50472
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 4.21,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:40:49"
+  },
+  {
+    "chainCode": "ON",
+    "iataCode": "ROM",
+    "dupeId": 700029692,
+    "name": "HOTEL DELLE MUSE",
+    "hotelId": "ONROMMUS",
+    "geoCode": {
+      "latitude": 41.93052,
+      "longitude": 12.49261
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 4.21,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:29:03"
+  },
+  {
+    "chainCode": "WV",
+    "iataCode": "ROM",
+    "dupeId": 700043076,
+    "name": "OSIMAR HOTEL",
+    "hotelId": "WVROMHOS",
+    "geoCode": {
+      "latitude": 41.92018,
+      "longitude": 12.52514
+    },
+    "address": {
+      "countryCode": "IT"
+    },
+    "distance": {
+      "value": 4.6,
+      "unit": "KM"
+    },
+    "rating": 3,
+    "lastUpdate": "2023-06-15T10:11:31"
+  }
+]

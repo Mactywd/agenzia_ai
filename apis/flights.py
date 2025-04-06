@@ -26,29 +26,30 @@ amadeus = Client(
 
 
 def get_data(origin, destination, date):
-    # try:
-    #     response = amadeus.shopping.flight_offers_search.get(
-    #         originLocationCode=origin,
-    #         destinationLocationCode=destination,
-    #         departureDate=date,
-    #         adults=1,
-    #         max=20)
-    #     #print(response.data)
-    #     with open("api_output.json", "w") as f:
-    #         json.dump(response.data, f, indent=2)
-    #     return response
+    try:
+        response = amadeus.get(
+            "/v2/shopping/flight-offers",
+            originLocationCode=origin,
+            destinationLocationCode=destination,
+            departureDate=date,
+            adults=1,
+            max=20)
+        #print(response.data)
+        with open("api_output.json", "w") as f:
+            json.dump(response.data, f, indent=2)
+        return response
     
-    # except ResponseError as error:
-    #     raise error
+    except ResponseError as error:
+        raise error
     
-    class Response:
-        def __init__(self, data):
-            self.data = data
+    # class Response:
+    #     def __init__(self, data):
+    #         self.data = data
 
-    with open("api_output.json", "r") as f:
-        response = Response(json.load(f))
+    # with open("api_output.json", "r") as f:
+    #     response = Response(json.load(f))
     
-    return response
+    # return response
     
 
 def parse_data(response):
