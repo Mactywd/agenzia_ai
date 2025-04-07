@@ -23,6 +23,7 @@ pyee==12.1.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.1
+redis==5.2.1
 requests==2.32.3
 six==1.17.0
 soupsieve==2.6

@@ -581,6 +581,8 @@ footer {
         </div>
     </header>
 
+    <p id="data"></p>
+
     <!-- Chatbot Page -->
     <div id="chatbot-page">
         <div class="container">
@@ -594,6 +596,7 @@ footer {
         </div>
     </div>
 
+
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script type="text/javascript">
         // VOICEFLOW
@@ -606,7 +609,8 @@ footer {
                     versionID: 'production',
                     voice: {
                         url: "https://runtime-api.voiceflow.com"
-                    }
+                    },
+                    userID: "{{chat_id}}",
                 }).then(() => {
                     window.voiceflow.chat.open();
                 });
@@ -614,6 +618,17 @@ footer {
             v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
         })(document, 'script');
 
+        // SERVER-SENT UPDATES
+        var chat_id = "{{chat_id}}";
+        var source = new EventSource(`/stream/${chat_id}`);
+        
+        source.onmessage = function (event) {
+            alert(event.data);
+            document.getElementById("data").innerHTML = event.data;
+
+        };
+        
+        
         // LEAFLET
         // markers
         var greenIcon = new L.Icon({

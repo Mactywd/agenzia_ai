@@ -1,10 +1,12 @@
-import asyncio
+import os
+import flask
 from flask import Flask, render_template, url_for, request
 from apis import flights as flights_api
 from apis import hotels as hotels_api
 from apis import activities as activities_api
 import datetime
 import requests
+import redis
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -19,7 +21,8 @@ def index():
 @app.route('/chatbot')
 def chatbot():
     # load index.html
-    return render_template('chatbot.html')
+    chat_id = os.urandom(16).hex()
+    return render_template('chatbot.html', chat_id=chat_id)
 
 @app.route('/faq')
 def faq():
@@ -63,9 +66,14 @@ def find_flights():
 def find_hotels():
     if request.method == 'GET':
         city = request.values.get("city")
-        
+        chat_id = request.values.get("chat_id")
+
         hotels = hotels_api.get_data(city)
         parsed = hotels_api.parse_data(hotels)
+
+        print(chat_id)
+
+        red.publish(f'chat_{chat_id}', "TEST_MESSAGE_"+chat_id)
 
         return parsed
 
@@ -79,6 +87,33 @@ def find_activities():
 
         return parsed
 
+## SERVER-SIDE-EVENTS HANDLER ##
+red = redis.StrictRedis()
+
+def event_stream(chat_id):
+    pubsub = red.pubsub()
+    pubsub.subscribe('chat_' + chat_id)
+    for message in pubsub.listen():
+        print(message)
+        yield 'data: %s\n\n' % message['data']
+
+
+@app.route('/post')
+def post():
+    message = "hello"
+    
+    return "<p>Message sent</p>"
+
+
+@app.route('/stream/<chat_id>')
+def stream(chat_id):
+    return flask.Response(event_stream(chat_id),
+                          mimetype="text/event-stream")
+
+@app.route("/test")
+def test():
+    return render_template("test.html", chat_id="1")
+
 if __name__ == '__main__':
-    #app.run(debug=True)
-    find_flights()
+    app.run(debug=True, host="0.0.0.0", threaded=True)
+    #find_flights()
