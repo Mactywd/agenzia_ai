@@ -11,9 +11,8 @@ import firebase_admin
 from firebase_admin import db
 
 
+firebase_admin.initialize_app()
 ref = db.reference('/') # Root database reference
-
-
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -81,7 +80,6 @@ def find_hotels():
         print(chat_id)
 
         ref.child(chat_id).set(parsed)
-
 
         return parsed
 
