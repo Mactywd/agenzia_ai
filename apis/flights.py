@@ -31,7 +31,7 @@ def get_data(origin, destination, date):
             "/v2/shopping/flight-offers",
             originLocationCode=origin,
             destinationLocationCode=destination,
-            departureDate=date[0],
+            departureDate=date,
             adults=1,
             max=20)
         #print(response.data)
