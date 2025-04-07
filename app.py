@@ -160,7 +160,7 @@ def find_hotels():
 
         ####################àààà
 
-        return parsed[:20]
+        return parsed
 
 @app.route(api_base + "/find_activities", methods=['GET'])
 def find_activities():

@@ -109,7 +109,7 @@ def parse_data(response):
     with open("hotels.json", "w") as f:
         json.dump(hotels, f, indent=2)
 
-    return {"data": hotels}
+    return {"data": hotels[:20]}
 
 
 if __name__ == '__main__':
