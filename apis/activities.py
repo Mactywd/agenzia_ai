@@ -1,3 +1,4 @@
+import airportsdata
 from amadeus import Client, ResponseError
 from load_dotenv import load_dotenv
 import os
@@ -14,6 +15,10 @@ amadeus = Client(
 )
 
 def get_latlng(city):
+    airports = airportsdata.load('IATA')  # key is the IATA location code
+    city = airports[city]["city"]
+    print(city)
+
     url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey="+os.getenv('GEOAPIFY_API_KEY')
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/json"
@@ -107,7 +112,7 @@ def parse_data(response):
 
 if __name__ == '__main__':
 
-    city = "New York"
+    city = "JFK"
 
     response = get_data(
         city

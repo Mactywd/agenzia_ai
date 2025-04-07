@@ -4,6 +4,7 @@ import os
 import json
 import requests
 from requests.structures import CaseInsensitiveDict
+import airportsdata
 
 
 load_dotenv()
@@ -14,6 +15,10 @@ amadeus = Client(
 )
 
 def get_latlng(city):
+    airports = airportsdata.load('IATA')  # key is the IATA location code
+    city = airports[city]["city"]
+    print(city)
+    
     url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey="+os.getenv('GEOAPIFY_API_KEY')
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/json"
@@ -62,6 +67,7 @@ def get_data(city):
             json.dump(response.data, f, indent=2)
     
     except ResponseError as error:
+        print(error)
         raise error
     
     # Get hotel ids
@@ -115,7 +121,7 @@ def parse_data(response):
 
 if __name__ == '__main__':
     # Get latlong
-    city = "New York"
+    city = "YYZ"
 
     response = get_data(
         city
