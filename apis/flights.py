@@ -31,7 +31,7 @@ def get_data(origin, destination, date):
             "/v2/shopping/flight-offers",
             originLocationCode=origin,
             destinationLocationCode=destination,
-            departureDate=date,
+            departureDate=date[0],
             adults=1,
             max=20)
         #print(response.data)
@@ -132,8 +132,8 @@ def parse_data(response):
 
 if __name__ == '__main__':
     response = get_data(
-        origin="YVR",
-        destination="FCO",
+        origin="FCO",
+        destination="NYC",
         date="2025-07-15"
     )
 

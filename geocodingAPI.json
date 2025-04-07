@@ -10,189 +10,17 @@
           "license": "Open Database License",
           "url": "https://www.openstreetmap.org/copyright"
         },
-        "country": "Italy",
-        "country_code": "it",
-        "state": "Lazio",
-        "county": "Roma Capitale",
-        "city": "Rome",
-        "iso3166_2": "IT-62",
-        "iso3166_2_sublevel": "IT-RM",
-        "lon": 12.4829321,
-        "lat": 41.8933203,
-        "state_code": "LAZ",
-        "result_type": "city",
-        "formatted": "Rome, LAZ, Italy",
-        "address_line1": "Rome",
-        "address_line2": "LAZ, Italy",
-        "category": "administrative",
-        "timezone": {
-          "name": "Europe/Rome",
-          "offset_STD": "+01:00",
-          "offset_STD_seconds": 3600,
-          "offset_DST": "+02:00",
-          "offset_DST_seconds": 7200,
-          "abbreviation_STD": "CET",
-          "abbreviation_DST": "CEST"
-        },
-        "plus_code": "8FHJVFVM+85",
-        "plus_code_short": "VFVM+85 Rome, Roma Capitale, Italy",
-        "rank": {
-          "importance": 0.8896107180689524,
-          "popularity": 9.995467104553104,
-          "confidence": 1,
-          "confidence_city_level": 1,
-          "match_type": "full_match"
-        },
-        "place_id": "5190604fe042f72840592cadd05158f24440f00101f9010da2000000000000c00208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4829321,
-          41.8933203
-        ]
-      },
-      "bbox": [
-        12.2344669,
-        41.6556417,
-        12.8557603,
-        42.1410285
-      ]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "datasource": {
-          "sourcename": "openstreetmap",
-          "attribution": "\u00a9 OpenStreetMap contributors",
-          "license": "Open Database License",
-          "url": "https://www.openstreetmap.org/copyright"
-        },
-        "country": "Togo",
-        "country_code": "tg",
-        "state": "Maritime Region",
-        "city": "Lom\u00e9",
-        "iso3166_2": "TG-M",
-        "lon": 1.215829,
-        "lat": 6.130419,
-        "result_type": "city",
-        "formatted": "Lom\u00e9, Maritime Region, Togo",
-        "address_line1": "Lom\u00e9",
-        "address_line2": "Maritime Region, Togo",
-        "category": "administrative",
-        "timezone": {
-          "name": "Africa/Lome",
-          "name_alt": "Africa/Abidjan",
-          "offset_STD": "+00:00",
-          "offset_STD_seconds": 0,
-          "offset_DST": "+00:00",
-          "offset_DST_seconds": 0,
-          "abbreviation_STD": "GMT",
-          "abbreviation_DST": "GMT"
-        },
-        "plus_code": "6FR346J8+58",
-        "plus_code_short": "J8+58 Lom\u00e9, Maritime Region, Togo",
-        "rank": {
-          "importance": 0.5403131252345131,
-          "popularity": 1.5803353047455206,
-          "confidence": 1,
-          "confidence_city_level": 1,
-          "match_type": "full_match"
-        },
-        "place_id": "514374081c0974f33f59ac1bef8e8c851840f00101f901ccd1640000000000c00208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.215829,
-          6.130419
-        ]
-      },
-      "bbox": [
-        1.1754424,
-        6.1123604,
-        1.3057378,
-        6.2041066
-      ]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "datasource": {
-          "sourcename": "openstreetmap",
-          "attribution": "\u00a9 OpenStreetMap contributors",
-          "license": "Open Database License",
-          "url": "https://www.openstreetmap.org/copyright"
-        },
         "country": "United States",
         "country_code": "us",
         "state": "New York",
-        "county": "Oneida County",
-        "city": "Rome",
+        "city": "New York",
         "iso3166_2": "US-NY",
-        "lon": -75.4557304,
-        "lat": 43.2128473,
+        "lon": -74.0060152,
+        "lat": 40.7127281,
         "state_code": "NY",
         "result_type": "city",
-        "formatted": "City of Rome, Rome, NY, United States of America",
-        "address_line1": "City of Rome",
-        "address_line2": "Rome, NY, United States of America",
-        "category": "administrative",
-        "timezone": {
-          "name": "America/New_York",
-          "offset_STD": "-05:00",
-          "offset_STD_seconds": -18000,
-          "offset_DST": "-04:00",
-          "offset_DST_seconds": -14400,
-          "abbreviation_STD": "EST",
-          "abbreviation_DST": "EDT"
-        },
-        "plus_code": "87M66G7V+4P",
-        "plus_code_short": "+4P Rome, Oneida County, United States",
-        "rank": {
-          "importance": 0.5885132830788409,
-          "popularity": 2.531250245805703,
-          "confidence": 1,
-          "confidence_city_level": 1,
-          "match_type": "full_match"
-        },
-        "place_id": "51c0f2d6af2add52c0595d4590943e9b4540f00101f9015afe370000000000c00208"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.4557304,
-          43.2128473
-        ]
-      },
-      "bbox": [
-        -75.66687,
-        43.169058,
-        -75.340772,
-        43.281615
-      ]
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "datasource": {
-          "sourcename": "openstreetmap",
-          "attribution": "\u00a9 OpenStreetMap contributors",
-          "license": "Open Database License",
-          "url": "https://www.openstreetmap.org/copyright"
-        },
-        "country": "United States",
-        "country_code": "us",
-        "state": "Georgia",
-        "county": "Floyd County",
-        "city": "Rome",
-        "iso3166_2": "US-GA",
-        "lon": -85.1646726,
-        "lat": 34.257038,
-        "state_code": "GA",
-        "result_type": "city",
-        "formatted": "Rome, GA, United States of America",
-        "address_line1": "Rome, GA",
+        "formatted": "New York, NY, United States of America",
+        "address_line1": "New York, NY",
         "address_line2": "United States of America",
         "category": "administrative",
         "timezone": {
@@ -204,29 +32,29 @@
           "abbreviation_STD": "EST",
           "abbreviation_DST": "EDT"
         },
-        "plus_code": "866P7R4P+R4",
-        "plus_code_short": "+R4 Rome, Floyd County, United States",
+        "plus_code": "87G7PX7V+3H",
+        "plus_code_short": "7V+3H New York, New York, United States",
         "rank": {
-          "importance": 0.5732051496012197,
-          "popularity": 2.1856413005668083,
+          "importance": 1.017576611451846,
+          "popularity": 9.615793062435909,
           "confidence": 1,
           "confidence_city_level": 1,
           "match_type": "full_match"
         },
-        "place_id": "5107e3f1fe894a55c05925ea059fe6204140f00101f901dbd2010000000000c00208"
+        "place_id": "51d9d1938d628052c0595938a4ac3a5b4440f00101f90121af020000000000c00208"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.1646726,
-          34.257038
+          -74.0060152,
+          40.7127281
         ]
       },
       "bbox": [
-        -85.278941,
-        34.193159,
-        -85.112246,
-        34.3565
+        -74.258843,
+        40.476578,
+        -73.700233,
+        40.91763
       ]
     },
     {
@@ -238,21 +66,133 @@
           "license": "Open Database License",
           "url": "https://www.openstreetmap.org/copyright"
         },
+        "ref": "NY",
         "country": "United States",
         "country_code": "us",
-        "state": "Iowa",
-        "county": "Henry County",
-        "city": "Rome",
-        "postcode": "52642",
-        "iso3166_2": "US-IA",
-        "lon": -91.682387,
-        "lat": 40.9814147,
-        "state_code": "IA",
+        "state": "New York",
+        "iso3166_2": "US-NY",
+        "lon": -75.8449946,
+        "lat": 43.1561681,
+        "state_code": "NY",
+        "result_type": "state",
+        "formatted": "New York, United States of America",
+        "address_line1": "New York",
+        "address_line2": "United States of America",
+        "category": "administrative",
+        "timezone": {
+          "name": "America/New_York",
+          "offset_STD": "-05:00",
+          "offset_STD_seconds": -18000,
+          "offset_DST": "-04:00",
+          "offset_DST_seconds": -14400,
+          "abbreviation_STD": "EST",
+          "abbreviation_DST": "EDT"
+        },
+        "plus_code": "87M65544+F2",
+        "rank": {
+          "importance": 0.9655846409089575,
+          "popularity": 2.1199203689253245,
+          "confidence": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51fc123b6414f652c059d816f950fd934540f00101f90188ef000000000000c0020a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8449946,
+          43.1561681
+        ]
+      },
+      "bbox": [
+        -79.7619758,
+        40.476578,
+        -71.790972,
+        45.0158611
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United Kingdom",
+        "country_code": "gb",
+        "state": "England",
+        "county": "North East",
+        "city": "North Tyneside",
+        "village": "New York",
+        "postcode": "NE29 8EP",
+        "iso3166_2": "GB-ENG",
+        "iso3166_2_sublevel": "GB-NTY",
+        "lon": -1.4869496,
+        "lat": 55.0252998,
+        "state_code": "ENG",
         "result_type": "postcode",
-        "formatted": "Rome, IA, United States of America",
-        "address_line1": "Rome, IA",
+        "formatted": "New York (North Tyneside), ENG, United Kingdom",
+        "address_line1": "New York (North Tyneside)",
+        "address_line2": "ENG, United Kingdom",
+        "category": "populated_place",
+        "timezone": {
+          "name": "Europe/London",
+          "offset_STD": "+00:00",
+          "offset_STD_seconds": 0,
+          "offset_DST": "+01:00",
+          "offset_DST_seconds": 3600,
+          "abbreviation_STD": "GMT",
+          "abbreviation_DST": "BST"
+        },
+        "plus_code": "9C7W2GG7+46",
+        "rank": {
+          "importance": 0.494548847777872,
+          "popularity": 7.1569124984252515,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "51f4cdeca98bcaf7bf5934cc1a063d834b40f00103f9014bff378400000000c0020792030b4e453239203845502b6762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4869496,
+          55.0252998
+        ]
+      },
+      "bbox": [
+        -1.5069496,
+        55.0052998,
+        -1.4669496,
+        55.0452998
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United States",
+        "country_code": "us",
+        "state": "Kentucky",
+        "county": "Ballard County",
+        "city": "New York",
+        "iso3166_2": "US-KY",
+        "lon": -88.9525629,
+        "lat": 36.9889428,
+        "state_code": "KY",
+        "result_type": "city",
+        "formatted": "New York, KY, United States of America",
+        "address_line1": "New York, KY",
         "address_line2": "United States of America",
-        "category": "administrative",
+        "category": "populated_place",
         "timezone": {
           "name": "America/Chicago",
           "offset_STD": "-06:00",
@@ -262,35 +202,95 @@
           "abbreviation_STD": "CST",
           "abbreviation_DST": "CDT"
         },
-        "plus_code": "86GCX8J9+H2",
+        "plus_code": "868HX2QW+HX",
         "rank": {
-          "importance": 0.5309963008744265,
-          "popularity": 1.0568315245433935,
+          "importance": 0.4372938346316069,
+          "popularity": 1.4699707993067055,
           "confidence": 1,
           "confidence_city_level": 1,
           "match_type": "full_match"
         },
-        "place_id": "51cc0d863aaceb56c059262834ff9e7d4440f00101f90129f8010000000000c0020792030835323634322b7573"
+        "place_id": "5182b861caf63c56c059adce7bad957e4240f00103f9019bbc270900000000c00208"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.682387,
-          40.9814147
+          -88.9525629,
+          36.9889428
         ]
       },
       "bbox": [
-        -91.686248,
-        40.9778563,
-        -91.677505,
-        40.9863174
+        -88.9725629,
+        36.9689428,
+        -88.9325629,
+        37.0089428
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright"
+        },
+        "country": "United Kingdom",
+        "country_code": "gb",
+        "state": "England",
+        "county": "Lincolnshire",
+        "city": "East Lindsey",
+        "village": "New York",
+        "postcode": "LN4 4YD",
+        "iso3166_2": "GB-ENG",
+        "iso3166_2_sublevel": "GB-LIN",
+        "lon": -0.1396847,
+        "lat": 53.0784049,
+        "state_code": "ENG",
+        "result_type": "postcode",
+        "county_code": "LIN",
+        "formatted": "New York (East Lindsey), LIN, ENG, United Kingdom",
+        "address_line1": "New York (East Lindsey)",
+        "address_line2": "LIN, ENG, United Kingdom",
+        "category": "populated_place",
+        "timezone": {
+          "name": "Europe/London",
+          "offset_STD": "+00:00",
+          "offset_STD_seconds": 0,
+          "offset_DST": "+01:00",
+          "offset_DST_seconds": 3600,
+          "abbreviation_STD": "GMT",
+          "abbreviation_DST": "BST"
+        },
+        "plus_code": "9C5X3VH6+94",
+        "rank": {
+          "importance": 0.43596835560244185,
+          "popularity": 3.5482174851142534,
+          "confidence": 1,
+          "confidence_city_level": 1,
+          "match_type": "full_match"
+        },
+        "place_id": "517c33203130e1c1bf594facf82b098a4a40f00103f901fb7bc10100000000c0020792030a4c4e34203459442b6762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1396847,
+          53.0784049
+        ]
+      },
+      "bbox": [
+        -0.1596847,
+        53.0584049,
+        -0.1196847,
+        53.0984049
       ]
     }
   ],
   "query": {
-    "text": "Rome",
+    "text": "New York",
     "parsed": {
-      "city": "rome",
+      "state": "new york",
       "expected_type": "unknown"
     }
   }

@@ -1,38 +1,37 @@
 [
   {
-    "departure_airport": "YXX",
-    "departure_time": "2025-07-15T14:50:00",
-    "arrival_airport": "FCO",
-    "arrival_time": "2025-07-16T12:40:00",
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T19:05:00",
+    "arrival_airport": "JFK",
+    "arrival_time": "2025-07-15T22:30:00",
     "carriers": [
-      "WS",
-      "WS"
+      "A1"
     ],
-    "duration": "PT12H50M",
-    "price": "268.43"
+    "duration": "PT9H25M",
+    "price": "272.23"
   },
   {
-    "departure_airport": "YXX",
-    "departure_time": "2025-07-15T10:25:00",
-    "arrival_airport": "FCO",
-    "arrival_time": "2025-07-16T12:40:00",
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T17:40:00",
+    "arrival_airport": "JFK",
+    "arrival_time": "2025-07-16T09:50:00",
     "carriers": [
-      "WS",
-      "WS"
+      "AT",
+      "AT"
     ],
-    "duration": "PT17H15M",
-    "price": "268.43"
+    "duration": "PT22H10M",
+    "price": "372.87"
   },
   {
-    "departure_airport": "YVR",
-    "departure_time": "2025-07-15T14:30:00",
-    "arrival_airport": "FCO",
-    "arrival_time": "2025-07-16T12:40:00",
+    "departure_airport": "FCO",
+    "departure_time": "2025-07-15T07:00:00",
+    "arrival_airport": "JFK",
+    "arrival_time": "2025-07-15T17:55:00",
     "carriers": [
-      "WS",
-      "WS"
+      "TK",
+      "TK"
     ],
-    "duration": "PT13H10M",
-    "price": "285.48"
+    "duration": "PT16H55M",
+    "price": "439.40"
   }
 ]

@@ -14,7 +14,7 @@ amadeus = Client(
 )
 
 def get_latlng(city):
-    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey="+os.environ('GEOAPIFY_API_KEY')
+    url = "https://api.geoapify.com/v1/geocode/search?text="+city+"&apiKey="+os.getenv('GEOAPIFY_API_KEY')
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/json"
     resp = requests.get(url, headers=headers)
@@ -78,23 +78,25 @@ def get_data(city):
 def parse_data(response):
     activities = []
     for activity in response.data:
-        name = activity["name"]
-        description = activity.get("description") if activity.get("description") is not None else ""
-        lat = activity["geoCode"]["latitude"]
-        lng = activity["geoCode"]["longitude"]
-        print(activity["price"], activity["price"]=={})
-        price = activity["price"]["amount"] if activity["price"] != {} else ""
-        minimumDuration = activity.get("minimumDuration") if activity.get("minimumDuration") is not None else ""
+        try:
+            name = activity["name"]
+            description = activity.get("description") if activity.get("description") is not None else ""
+            lat = activity["geoCode"]["latitude"]
+            lng = activity["geoCode"]["longitude"]
+            print(activity["price"], activity["price"]=={})
+            price = activity["price"]["amount"] if activity["price"] != {} else ""
+            minimumDuration = activity.get("minimumDuration") if activity.get("minimumDuration") is not None else ""
 
-        activities.append({
-            "name": name,
-            "description": description,
-            "lat": lat,
-            "lng": lng,
-            "price": price,
-            "minimumDuration": minimumDuration
-        })
-        
+            activities.append({
+                "name": name,
+                "description": description,
+                "lat": lat,
+                "lng": lng,
+                "price": price,
+                "minimumDuration": minimumDuration
+            })
+        except KeyError:
+            pass
     
     print(activities)
     with open("activities.json", "w") as f:
@@ -105,7 +107,7 @@ def parse_data(response):
 
 if __name__ == '__main__':
 
-    city = "Rome"
+    city = "New York"
 
     response = get_data(
         city

@@ -1,722 +1,1042 @@
 [
   {
-    "name": "Basilica Papale di Santa Maria Maggiore",
-    "description": "",
-    "lat": 41.89759859999999,
-    "lng": 12.4984084,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Piazza Bologna",
-    "description": "",
-    "lat": 41.9134586,
-    "lng": 12.5212033,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Piazza del Popolo",
-    "description": "",
-    "lat": 41.9107038,
-    "lng": 12.4763579,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Roman Dinner Filled with Wine",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Massimo welcomes you for a dinner in his home in the beautiful Roman neighborhood of Monteverde. \n\nYou\u2019ll experience Massimo\u2019s excellent hospitality as you are served an incredible 4-course dinner, complete with Roman specialties. Sip away on complementary Prosecco, digestifs and excellent Italian wines and really get to know your host as Massimo shares his passion for cooking with you!",
-    "lat": 41.87458111896157,
-    "lng": 12.457934256166313,
-    "price": "48.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Catacombs Tour and Ancient Roman Lunch",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Join Fiamma and Debora for an immersive ancient Rome experience! You will start off with a traditional Italian breakfast (cappuccino and croissant), followed by a tour of the Catacombs and then sit down for a delicious ancient Roman lunch!\n\n",
-    "lat": 41.88426831736957,
-    "lng": 12.455353819287335,
-    "price": "50.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "Catacombs of St. Callixtus",
-    "description": "",
-    "lat": 41.8608245,
-    "lng": 12.5087505,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "When in Rome: Daniela's Walking Dessert Tour",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Join Daniela and her team for a walk around the sweeter side of Rome. Try the best coffee, tiramisu and gelato Rome has to offer, whilst taking in the beautiful Roman architecture. Your tour guide will also talk to you about the cultural and gastronomical history of Rome. There's more to Italy than pasta!\n",
-    "lat": 41.89772251117485,
-    "lng": 12.477697828415787,
-    "price": "56.25",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Morning Roman market tour and evening dinner party",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Start your morning off with a tour of a Roman food market, then come back to the hosts' place in the evening for a mouthwatering dinner with wine.\n\n\u2022 3 traditional Italian courses\n\u2022 Red wine is included\n\u2022 Communal dining for up to 19 people\n\nAbout your host, Federica & Barbara: \"In our house you will find the sensitivity for receiving guests and a great love for art and culture. Our friends think that we're extraordinarily hospitable! The tasting of excellent Italian wines makes for a fantastic experience where you'll discover the secrets of the precious Roman cuisine.\"\n\n*** PLEASE NOTE:\nMorning meeting point will be at 11.30 am at Campo de' Fiori market. \nWe will meet again at 8 pm for dinner at my apartment in the heart of Trastevere neighborhood!\n",
-    "lat": 41.89554254721131,
-    "lng": 12.471396504276294,
-    "price": "144.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "\u201c THANKSGIVING IN ROME\u201d.",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>After having spent some Thanksgiving in the US, I was so fascinated by the origin of this tradition and the extraordinary menu, that I decided to propose one for my guests in Rome! \nI will cook the most traditional dishes, to which I will add a touch of Italian cuisine. ",
-    "lat": 41.896786689163804,
-    "lng": 12.473009275018596,
-    "price": "117.6",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Cook On A Roman Rooftop: Three Delicious Courses And Views Of Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Phoebe invites you out onto her terrace to look out across the beautiful city of Rome! But you haven\u2019t just come for the views, you\u2019re also here for a fantastic three-course Italian cooking class! \n\nYou\u2019ll be welcomed with a glass of prosecco or a delicious fruit juice and enjoy complimentary wine throughout your lunch. \n\nPhoebe has a selection of brilliant dishes for you to choose from and learn, from osso bucco to chicken cacciatore, so you\u2019ll leave her experience full and with the knowledge of a local!",
-    "lat": 41.89933873040304,
-    "lng": 12.466796277617174,
-    "price": "90.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Enjoy a Designer Dinner Next to The Beautiful Castel Sant\u2019Angelo",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Dine on quintessential Italian cuisine paired with delicious wines and digestifs chosen by your host, Phoebe. \n\nPhoebe is a brilliant visual artist, whose skills carry into her talent for creating beautiful plates of food. She will serve dishes including freshly made pasta, osso uco, chicken marsala and cooks with seasonal and local produce.\n\nYour meal will be served on her terrrace, which boasts an an incredible view of the Castel Sant\u2019Angelo!",
-    "lat": 41.90119255150489,
-    "lng": 12.466546670883323,
-    "price": "78.0",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Traditional Roman Cooking Class with a Sunset View in the Old Jewish Quarter",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Head to the restaurant and meet the Chef ready for you to reveal secrets and recipes.\nThis is a hands-on class, but if you\u2019d just like to be a spectator you can relax, watching the chef working, with a glass of wine.\nYou\u2019ll learn to make home-made pasta from scratch, cleaning and preparing seasonal vegetables to fry and tasting dessert that all roman grandmas used to cook for local kids.\n\nLet\u2019s put our hands in the dough. Start your cooking class learning how to make fresh pasta from scratch. Using our grandma's style you will be able to make it again when back home.\nSeasonal food is a must in Rome, in the winter class, you\u2019ll have the opportunity to learn how to peel artichokes to be cooked at the Jewish Style, one of the highlights of Roman cuisine.\nIn the Summer\u2019s class, you\u2019ll learn how to prepare zucchini flowers or any other amazing fresh vegetable to make the original \u201cfritto romano\u201d.\nIn the end taste the amazing torta di ricotta e visciola, the famous ricotta cheesecake made with simple and delicious ingredients.\n\n",
-    "lat": 41.89381226017121,
-    "lng": 12.4757112952142,
-    "price": "78.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "Farmers' market shopping and picnic",
-    "description": "We're gonna experience shopping in an Italian farmers'market. We'll meet the producers and buy the best seasonal products for our picnic. It will be possible to buy drinks too: soft drinks, beer and wine. Then we'll head to one of the most beautiful spots in Rome to have a picnic with all the amazing products from the market\ud83e\uddfa",
-    "lat": 41.88610541952753,
-    "lng": 12.486369315124122,
-    "price": "30.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Restaurant Ai Spaghettari",
-    "description": "",
-    "lat": 41.8875985,
-    "lng": 12.4702735,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "The Art of Fettuccini cooking class and dinner in Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Become a chef for an evening while you prepare pasta from scratch while learning all about the different types of pasta from the North to the South of Italy.\n\n\u2022 Prepare fettuccini, tonnarelli, spaghetti, pappardelle, ravioli and tortellini from scratch, as well as four sauces. Nibble on antipasto while you work, then enjoy your creations for dinner, followed by dessert\n\u2022 Cocktails and wine are included\n\u2022 In a penthouse in the historical district of Testaccio\n\u2022 Communal cooking class and dining for 2 to 6 people\n\u2022 Andrea is an engineer\n\nAbout your host, Andrea: I spent my whole life traveling around the world. I enjoy meeting new people and sharing good meals with them.",
-    "lat": 41.87915385525342,
-    "lng": 12.477407889804688,
-    "price": "78.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Enjoy a Pasta Making Day in an Elegant Apartment!",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Join your experienced host for a pasta making class meant to nourish the soul and the psychophysical well-being of her guests. \n\nYour host currently organizes and teaches numerous cooking courses at the Stenerian School 'Janua' of Rome. Having managed for more than 35 years the bistro 'Creperie of Testaccio', a well-known bistro/restaurant specialised in crepes and galettes, she gained a great knowledge of international cuisine, the ancient Roman cuisine and of the vegan and vegetarian cuisine. \n\nShe has always mantained a great interest in the recovery of the traditional Italian peasant recipies, in the value of cuisine as a means for nourishing the soul and the psychophysical well-being of her guests. For this purpose, in her career, she has prioritized the use of quality and genuine raw materials, with a particular focus in the 'seasonability' and the 'emotional value' of food. \n",
-    "lat": 41.88868319398067,
-    "lng": 12.499730344942744,
+    "name": "Bourbon Basics Whiskey Tasting // West Village ",
+    "description": "Let's get down to basics. Maybe you've heard that Bourbon can only be made in Kentucky. Maybe you're sick of ordering Bulleit because you can't think of another Bourbon you like. Maybe you've never even tried brown liquor. Whatever your situation, this is the place to start.\n\nBourbon Basics is a great way to get into whiskey as a beginner, or to develop your appreciation for spirits. Each guest will learn about three different American whiskeys that host Harry picks by getting to know you with complimentary tastings that will educate and expand your palate, ending in a final parting shot.\n\nThis is a whiskey tasting for the beginner or intermediate enthusiast. Harry has chosen whiskeys for hundreds of palettes and made new friends every step of the way. Through his experience you'll get insider access to his process and the tools you need to pick whiskeys of your own either when you're out at bars and the list seems impossibly long or when you're looking for a gift for that lovable snob in your life.",
+    "lat": 40.73510334647742,
+    "lng": -73.9988536830439,
     "price": "60.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Nutrition with the 5 Senses",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Dine in the kitchen of a health studio the heart of Rome, with an incredible view overlooking the Tiber river. \n\nRun by Jonathan & Teresa, expect to try their homemade Kombucha, taste their biological wine and pasta 'del senatore', which is completely organic and produced in small quantities by private farmers. Join this exciting and informative tasting session experience curated by their in-house nutritionist. Expect to be using all five of your senses. \n",
-    "lat": 41.89179980082209,
-    "lng": 12.474662264188117,
-    "price": "24.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Walk Your Way Around Rome and Eat Your Fill of The City",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Taste your way through the streets of Rome as you Daniela and her team guide you through the best shops, restaurants and markets that this ancient city has to offer. You\u2019ll try everything from focaccia to gelato and, as a sommelier, you can trust Daniela to give you only the best wines during your tour! Her expertise on local food and wine will fill you up and provide you with enough knowledge to navigate Rome\u2019s offerings yourself.\n",
-    "lat": 41.894533372010336,
-    "lng": 12.47091918512221,
-    "price": "92.5",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Fresh pasta making class and dinner by the Tiber river",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Have fun preparing fresh egg pasta using the best flour and the best techniques that host Pigi has mastered over the years, before enjoying your creations for dinner. \n\n\u2022 You can choose from the following pasta: pappardelle, tagliolini, fettuccine, reginette, maltagliati, gnocchi, ricotta and spinach ravioli, that you'll both prepare from scratch and enjoy! \n\u2022 Aperitif and a glass of wine are included\n\u2022 In a beautiful Roman penthouse, close to the Tiber river\n\u2022 Communal cooking class and dining for 2 to 6 people\n\u2022 Pigi has taken professional cooking classes\n\nAbout your host, Pigi: \"I'm a lover of quality food and my mom used to run a restaurant in Lago del Santo, in Rieti. She was my teacher and taught me a lot about fresh products, combinations, and cooking. I'm always looking for the best products, preferably organic and farm-to-table!\"",
-    "lat": 41.92493475954109,
-    "lng": 12.464000709979677,
-    "price": "50.4",
-    "minimumDuration": "4 hours 30 minutes"
-  },
-  {
-    "name": "Fiumi Fountain",
-    "description": "",
-    "lat": 41.8989673,
-    "lng": 12.4730872,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Street food and pizza tour in Monti",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Discover the best Roman pizza and street food in a 2.5-hour off-the-beaten-track tour near the Colosseum. You'll sample a variety of traditional and street food, including over 10 different types of pizza!\n\nAt every stop, your tour guide will tell you the history behind the dishes you try and beer will be provided. \n\nThis is a dynamic and tasty way to explore Rome!",
-    "lat": 41.89915950700986,
-    "lng": 12.499297907821173,
-    "price": "67.2",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Handmade pasta class and dinner in Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Spend the morning learning how to make fresh fettuccine with tomato and basil sauce or ravioli (stuffed pasta with ricotta and spinach) with sage and butter sauce.\n\n\u2022 After the class, sit down to enjoy your pasta along with a mixed salad and a seasonal dessert\n\u2022 Wine is included, guests can also BYOB\n\u2022 Class and communal lunch for 2 to 6 people\n\u2022 Over 60 rave reviews on TripAdvisor\n\nAbout your host, Giovanna E Cristina: \"We are Giovanna and Cristina, 2 best friends who love to share our passion for cooking. Inspired by traditional Italian recipes passed down by our families, we believe that simple, local food is the best food. Like many Italians, we know that a good meal is made better with wine!\"",
-    "lat": 41.89036395971624,
-    "lng": 12.50963893847597,
-    "price": "66.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Italian Wine Workshop with Sicilian Organic Wine Makers",
-    "description": "Join organic Sicilian winemakers Valentina and Giuseppe to learn all about organic wine, Sicilian grapes and the wine-making process. The experience will be live streamed from their Sicilian winery. <br>You will make fantastic wine cocktails and learn about casero vermouth (an aromatized fortified wine flavoured with various ingredients eg. roots, barks, flowers, seeds, herbs, and spices).",
-    "lat": 41.9027400934313,
-    "lng": 12.495526005210008,
-    "price": "15.0",
     "minimumDuration": "1 hour"
   },
   {
-    "name": "Dinner by the Spanish Steps",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Barbara for a traditional Italian dinner with a relaxed atmosphere in a beautiful Roman home that will immerse you in the charm of the Spanish Steps! \n\n\u2022 Dine on numerous antipasti, two first courses, a second course, two side dishes, and a dessert\n\u2022 Aperitif, beer, wine, spirits, and digestif are included\n\u2022 In an 18th century home, just a stone's throw away from the famous Spanish Steps in Rome\n\u2022 Communal dining for 4 to 16 people\n\u2022 Barbara has rave reviews on TripAdvisor!\n\nAbout your host, Barbara: \"We find cooking relaxing, and we love experimenting with new flavors and blending traditional Italian cuisine with inspiration from our many travels. Adding that particular touch to classic dishes is our speciality! It's not only the food itself that fascinates us, but we also love presenting it creatively.\"",
-    "lat": 41.90440262012459,
-    "lng": 12.482905440612772,
-    "price": "66.0",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Piazza di Spagna",
-    "description": "",
-    "lat": 41.9056978,
-    "lng": 12.482327,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Master The Art of Gelato and Tiramisu",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Want to learn the secrets to making Italian gelato and traditional tiramis\u00f9? Look no further. \n\nCome and learn how to make the authentic and organic tiramisu from a professional pastry-chef in Rome city centre. You'll start from scratch (ie., baking your biscuits) to the very end and final touches. Your host will explain the importance of choosing quality ingredients with an eye to freshness and organically produced food. You'll also learn how to make water based gelato (Italian artisan sorbet) with fresh and seasonal fruit. \n\nAt the end of the lesson you\u2019ll samples different versions for Tiramisu, including your one!",
-    "lat": 41.90122517522524,
-    "lng": 12.476819595907,
-    "price": "69.6",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Piazza Navona",
-    "description": "",
-    "lat": 41.8991633,
-    "lng": 12.4730742,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Dine on a Roman terrace with family recipes",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Discover Rocco and Fabio's traditional family recipes at this dinner on their cozy Roman terrace. Choose your menu beforehand, then sit back and enjoy the beautiful setting!\n\nAbout your host, Rocco & Fabio: \"We are a couple, Rocco and Fabio. We live in Rome in a very nice area close to the magnificent park Caffarella/Appia Antica. Our passion is cooking. We love hosting people and sharing our family recipes and stories with them!\"",
-    "lat": 41.8712170612897,
-    "lng": 12.512594377709457,
-    "price": "45.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "\"COOKING WITH LOVE\" Cooking Class",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Learn how to make a traditional Italian dinner with chef Michela, then sit down to enjoy the delicious fresh pasta and tiramisu you cooked together!\nJoin the host at her beautiful house in the Trastevere area, in the heart of Rome.\n\nAbout your host Michela: \"Best Rome's home restaurant\" according to star chef celebrity Alessandro Borghese, Italian TV Show \"4 Ristoranti\"",
-    "lat": 41.88887283587115,
-    "lng": 12.469857758355996,
-    "price": "132.0",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Typical Italian dinner with a Roman family",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Andrea and his wife at their home in Rome for a delicious Italian dinner that will make you feel like a member of their family!\n\n\u2022 3-course Italian dinner in a family atmosphere\n\u2022 Wine is included\n\u2022 Easily accessible by public transportation\n\u2022 Communal dining for 2 to 6 people\n\u2022 Andrea is an engineer and hosts with his wife\n\nAbout your host, Andrea: \"I spent my whole life traveling around the world. I enjoy meeting new people and sharing good meals with them.\"",
-    "lat": 41.8789052365478,
-    "lng": 12.477753716446438,
-    "price": "66.0",
-    "minimumDuration": "30 minutes"
-  },
-  {
-    "name": "Amatriciana  & Tiramis\u00f9 Cooking Class and Dinner in Monteverde",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Start the cooking class by preparing Tiramisu, followed by pasta from scratch with Amatriciana sauce. Enjoy nibbles while you cook, then sit down for dinner with a view!\n\n\u2022 Snack on welcome Bruschetta during the class, then sit down to enjoy your pasta for dinner\n\u2022 Wine is included\n\u2022 Massimo's home is in Monteverde Vecchio, just a few minutes from Trastevere and the historic center\n\u2022 Communal cooking class and dining for up to 12 people\n\u2022 Massimo has a wonderful sense of hospitality and a great love for Italian food\n\nAbout your host, Massimo: \"I'll host you in our stunning house near the Gianicolo hill, a unique location in a famous and historic neighborhood, with breathtaking views of Rome. My large and elegant living room is perfect for social eating.\"",
-    "lat": 41.87413792939569,
-    "lng": 12.459706346834192,
-    "price": "48.0",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Jet Surfing near Rome",
-    "description": "<p>The impossible is now possible! Experience the thrill of surfing without any wind or waves by trying this up-and-coming extreme sport that&rsquo;s taking over the surfing world.</p>\n<p>Jet surfing is a new, action-packed watersport that uses a motorized surfboard in order to carve the water whether you&rsquo;re in an ocean, lake, or inland waterways! Flat surfaces won&rsquo;t be able to stop you from having an epic surf session and nearly anyone can jet surf since it&rsquo;s easy to&nbsp;learn and no prior surfing experience is necessary.</p>\n<p>Professional instructors will make sure you&rsquo;ll learn the skills needed in order to ride with ease. If you choose to ride with the&nbsp;Jetsurf Adventure DFI 2019,&nbsp; you&rsquo;ll also be given waterproof walkie-talkies so that the instructor can give you advice any time. Choose from two models:</p>\n<p>- eSurf S1 board (8 years old and up): This board is easy to control since you&rsquo;ll be able to switch the speed and stop the board with a simple click of a button on the wireless controller. You will get to reach a maximum speed of 26 km/h for up to 20 minutes.</p>\n<p>- Jetsurf Adventure DFI 2019 (14 years old and up): This is the ideal model for adrenaline junkies since you will get to reach a speed of 55 km/h. Whether you are a beginner or experienced rider, you will get to ride with ease since the jet surfboard has three fins, giving more support for difficult maneuvers.</p>\n<p>For your next holiday, feel the excitement of trying this new extreme watersport with the only company in Italy where you can rent jet surfboards!&nbsp;</p>",
-    "lat": 41.788753,
-    "lng": 12.390975,
-    "price": "39.0",
-    "minimumDuration": "20 minutes"
-  },
-  {
-    "name": "All Roads Lead To Rome For This Fantastic Four-Course Feast",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Stefano in his native city of Rome for a delightful four-course dinner that encompasses the very best of Italian cuisine -plus a few fun additions from his time spent in kitchens around the world!\n\nFrom caprese salad, to homemade carbonara, saltimbocca and panacotta, you will try the some of the most traditional and delicious Italian dishes. \n\nStefano will also serve wine, digestifs and cocktails to accompany your meal, but you are also welcome to BYOB. \n",
-    "lat": 41.875056690534294,
-    "lng": 12.445412055332456,
-    "price": "60.0",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Sof Urban Rafting in the Heart of Rome",
-    "description": "<p>Get a fresh perspective of one of the most famous cosmopolitan cities in the world as you paddle your way across the stunning Tiber River in the heart of Rome!</p>\n<p>to travel far for this outdoor adventure. You&rsquo;ll meet your expert guide in Piazza del Popolo where they will accompany you to the starting point of your trip on the famous Tiber River, telling you some fun facts about Rome along the way!</p>\n<p>Once reaching the Ponte Regina Margherita (approx. 20 minutes), your guide will provide a detailed safety briefing where you&rsquo;ll also get to gear up and learn some basic paddling techniques and commands. You&rsquo;ll be provided with further explanation about what to expect once you&rsquo;re on the raft.</p>\n<p>The descent starts off peaceful as you glide across the river away from the hustle and bustle of Rome. &nbsp;You&rsquo;ll truly get to immerse yourself in tranquil surroundings without even stepping away from the city! As you continue down, you&rsquo;ll have incredible views of Castel Sant'Angelo from your&nbsp;unique perspective on the river. You&rsquo;ll even get to take a quick rest where you&rsquo;ll have the opportunity to take photos!</p>\n<p>After, you&rsquo;ll continue along the river before docking at the famous Isola Tiberina, the only island on the Tiber River that runs through Rome. You&rsquo;ll have the unique chance to visit one of the world's smallest inhabited islands before continuing your navigation and facing the rapids below the&nbsp;legendary bridge of the island.</p>\n<p>Your rafting trip ends at Trastevere, the famous Roman district that&rsquo;s the perfect blend between ancient and modern times&mdash;just like your adventure! You&rsquo;ll get to explore its streets where you&rsquo;ll even have the chance to try typical street food in Rome.</p>\n<p>From crossing under ancient Roman bridges to playing on the tricky rapids of the river, you don&rsquo;t want to miss out on this exhilarating rafting trip that offers a unique point of view of Rome!</p>",
-    "lat": 41.830866,
-    "lng": 12.452313,
-    "price": "60.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Make and Cook Pasta like a Pro! ",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Food is an invaluable and delicious way to learn about a country\u2019s culture and history, especially Italy\u2019s! Join us at our home, a brisk 10 minute walk from the Vatican Museums for a fun-filled and immersive cooking lesson and social dining experience that will teach you how to expertly prepare pasta from scratch and one of Italy\u2019s many desserts, most notably, the classic tiramis\u00f9. Other dessert options are also available! For dietary specifications, please do not hesitate to enquire directly with us as we cater to a wide variety of diets.\n",
-    "lat": 41.910278123859065,
-    "lng": 12.445674740885972,
-    "price": "68.4",
+    "name": "A Tour of Italy: Cooking Class // Greenwich Village",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Can\u2019t go to Italy this season? Pick the next best thing: a culinary tour of the belpaese while learning the best of regional cuisine.\nStart your journey by preparing a Tuscan pappa al pomodoro, a thick belly warming tomato and bread soup heaped with fresh basil and shaved parmigiano reggiano and extra virgin olive oil.\nThen travel south to Napoli making bite sized veal and ricotta meatballs to be served with pan roasted vegetables and balsamic reduction from Modena in Emilia Romagna, stopping by Roma to concoct a side of fluffy gnocchi alla romana, the pillowy semolina patties found on sunday\u2019s italian tables.\nFinish strong heading for Piemonte and Friuli to craft a luscious Amaretto tiramisu\u2019.\nNo passport needed.\n\n\u2022 2 hours of preparation and cooking followed by 1 hr sit down lunch or dinner. Wine is on the house!\n\u2022 Culinary studio located in the heart of Greenwich Village in a classic turn of the century apartment\n\u2022 Separate European style dining room which accommodate up to 8 people sitting at the communal table",
+    "lat": 40.73036595498188,
+    "lng": -74.00060812745113,
+    "price": "162.0",
     "minimumDuration": "3 hours"
   },
   {
-    "name": "Roman Style Fresh Pasta and Tiramisu Cooking Class ",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Learn to cook Italian classics then enjoy your creations in a cozy restaurant or on the outdoor terrace. \n\nSavor Roman wine and learn all of the chef's tips and tricks! \n",
-    "lat": 41.91022195838642,
-    "lng": 12.452105645951564,
-    "price": "82.8",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Vatican market food tour and shopping (early morning)",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Trionfale market is one of the oldest Roman food markets with over 273 stalls. Together we will meet the best marketers and stallers inside with all of their history and traditional products.\n\n\u2022 There are approximately 7 stops tasting; we will eat pizza with mortadella, suppl\u00ec, orange coppa, olives, Porchetta di Ariccia, Pecorino Cheese, dried fruit and toasted almonds, season fruits, the best oil in Lazio region\n\u2022 Wine, coffee or cappuccino and water are included\n\u2022 Food walk for up to 10 people\n\nAbout your host, Sabrina: \"I was born in Rome and have always loved my city. I am lucky to live close to the Trionfale market and would be delighted to have you experience a typical Roman outing to this magical market and to show you all its' hidden secrets.\" ",
-    "lat": 41.909120673155996,
-    "lng": 12.451360082323719,
-    "price": "50.4",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Modern Italian dinner near the Vatican",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Chef Debora for a culinary journey and wine pairing, through the different regions of Italy. Take a seat at her table and enjoy a refined 4-course menu prepared with fresh ingredients from the farmers' market!\n",
-    "lat": 41.90989323157739,
-    "lng": 12.445111364934524,
-    "price": "79.2",
-    "minimumDuration": "2 hours 30 minutes"
-  },
-  {
-    "name": "Vatican market food tour and shopping (late morning)",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Trionfale market is one of the oldest Roman food markets with over 273 stalls. Together we will meet the best marketers and stallers inside with all of their history and traditional products.\n\n\u2022 There are approximately 7 stops tasting; we will eat pizza with mortadella, suppl\u00ec, orange coppa, olives, Porchetta di Ariccia, Pecorino Cheese, dried fruit and toasted almonds, season fruits, the best oil in Lazio region\n\u2022 Wine, coffee or cappuccino and water are included\n\u2022 Food walk for up to 10 people\n\nAbout your host, Sabrina: \"I was born in Rome and have always loved my city. I am lucky to live close to the Trionfale market and would be delighted to have you experience a typical Roman outing to this magical market and to show you all its' hidden secrets.\" ",
-    "lat": 41.90817719087976,
-    "lng": 12.452042525111484,
-    "price": "50.4",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Celebrate Carnival of Viareggio - virtual masterclass",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>The Carnival of Viareggio is one of the most important events in Italy. Join host Sandra for a virtual Carnival of Viareggio celebration! \n\nShe will teach you how to make two classic carnival dishes - tordello (raviolo) or stuffed cabbage leaves served with a tomato sauce and chiacchere (sweet fried cookies).  \n",
-    "lat": 41.90443477173456,
-    "lng": 12.495486379968858,
-    "price": "21.6",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Bike / E-Bike City Center Tour in Rome",
-    "description": "<p>Bike / E-Bike City Center Tour in Rome. Enjoy this magnificent city by bike with your family, friends or couple.</p>\n<p>This is the perfect time to hop on a bike: this tour on an electric bike combines the must-see attractions of Rome along with less known sights. This tour offers an interesting and original way to enjoy the Eternal City at its best.</p>\n<p>Your private tour guide will share everything about the stories and interesting facts about what made Rome the greatest Empire of the world. The tour will encompass the most famous sites of the city: you will be able to get through ancient monuments like the Colosseum, admire the elegant shopping streets, experience lively squares such as Piazza Navona, and gaze at stunning churches.</p>\n<p>Moreover, you can explore even the most hidden and less touristy corners to have a one of a kind experience.</p>",
-    "lat": 41.916252,
-    "lng": 12.467426,
-    "price": "54.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "Ravioli & Dessert Cooking Class",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Fancy the idea of having a cooking class in the comfort of your B&B or holiday home during your stay in Rome? Look no further. I offer small-group cooking classes where you\u2019ll learn tips and knowledge on how to recreate fail-proof gnocchi, time after time. We will also be making a dessert together of your choice. \nThe classes will culminate in a sit down meal. \nFor group bookings, I offer a rented kitchen/dining space in the Prati neighbourhood, near the Vatican. Please enquire with me in advance for availability.\n\nFor your sauce, please select 1 from the following:\n\n1) al sole -  ricotta filling with a lemon butter sauce\nOR\n2) ravioli alla crema di piselli in salsa di noce e formaggio - ravioli with peas and mint filling in a cheese and walnut sauce (vegetarian)\nOR\n3) ricotta e spinaci con burro e salvia - ravioli with ricotta and spinach filling, saut\u00e9ed in butter and sage (vegetarian)\nOR\n4) al ragu -ravioli in a meat sauce\nOR\n5) melanzane e ricotta con confit di datterini - eggplant and ricotta filling with a caramelised cherry tomato sauce\nOR\n6) pesce e ricotta con salsa ai porri, limone e menta  - fish and ricotta filling with leek, lemon and mint sauce\n\nFor dessert, please select 1 of the following:\n1) Tiramis\u00f9 classico - the classic tiramisu recipe with pasteurized eggs, mascarpone, sugar, coffee and cocoa \nOR\n2) Tiramis\u00f9 al limone - savoiardi, limoncello syrup, lemon-mascarpone cream (contains eggs)\nOR\n3) Torta \"Black Magic\" - olive oil, red wine and dark chocolate baked dessert. Tastes like a dream, between a cake and a mousse.\nOR\n4) Fantasia di Caff\u00e8 - chilled layered dessert containing crushed amaretti cookies, coffee and ricotta cream, topped with dark chocolate and olive oil sauce (eggless)\nOR\n5) *winter special: Dolce al vin brul\u00e8 - chilled, layered dessert of crushed amaretti cookies aromatized with rosemary, sweetened ricotta and topped with chopped pear poached in red wine and spices\n\nDessert is served in individual portions.\nThe event generally lasts 3-3.5 hours. I can start anytime from 09:30-19:00. Please enquire with me directly with your preferred timing.\nPlease let me know in advance if you have any dietary requests/specifications.\n",
-    "lat": 41.90158985789744,
-    "lng": 12.497138488522378,
-    "price": "72.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "Traditional Roman dinner made with Nonna's recipes",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>This dinner is an ode to traditional Roman food. In a cozy, welcoming home, you'll feast on authentic dishes that have been passed down from the hosts' grandmother. \n\nTraditional Roman aperitivo, 3 courses and a side dish, made using their grandmother's recipes and secrets. \nJanice and Francesca are sisters with a passion for cooking and social eating. Their grandmother Marcella managed a restaurant in Trastevere for many years and handed down her passion for food.\n\n\n*NOTE: TO REACH US: \nPUBLIC TRANSPORTATION: https://viaggiacon.atac.roma.it/\nAPP FOR THE TAXI: https://www.ittaxi.it/app\nWE CAN ORGANIZE PRIVATE TRANSFER WITH A PARTNER COMPANY  (DIRECT PAYMENTO TO THE DRIVER) with the following rates:\nfrom Rome center, cost for one way 1-4 pax \u20ac 35.00, 5-8 pax \u20ac 45.00. For the return the same cost.  If the transfer is between 22.00 and 06.00 plus 10% for the night plus 10% for public holiday (like Sunday). Plus 10% to be paid by card and / or invoice. ",
-    "lat": 41.972248475817096,
-    "lng": 12.437174821619827,
-    "price": "72.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "1 hour Morning pizza class in Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>This pizza crash course with a chef is the perfect way to familiarize yourself with the Italian pizza tradition, and to enjoy your creations along with a glass of wine.\n\n\u2022 Prepare and enjoy some of the great classics of Italian pizza, from classic Margherita to Focaccia, as well as tomato Bruschetta cooked in a wood oven and homemade Cacio e Pepe chips\n\u2022 One drink is included\n\u2022 In a cozy restaurant with an outdoor terrace\n\u2022 Communal cooking class for 2 to 12 people\n\u2022 Davide is a professional chef\n\nAbout your host, Jacqueline: I want my guests to have a multisensory journey to discover the most incredible flavors from my country. I believe in culture in its many different facets, the beauty of diversity. Hence my passion for communication, travel, and food, elements that blend with my goal of bridging different cultures.",
-    "lat": 41.910529392767614,
-    "lng": 12.452500334244034,
-    "price": "49.2",
-    "minimumDuration": "1 hour"
-  },
-  {
-    "name": "Natural-dyed handmade pasta class",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>This is the class for you if you\u2019re interested to learn how to colour your pasta dough with all-natural ingredients! My dyes are vegetable-based pur\u00e9es or powders that are 100% food-grade safe, homemade and best of all, replicable on your own when you return home!\n\nYou will learn to make a classic pasta dough and 3 coloured doughs, after which we will make 2 sauces to eat them with. \n\nWe will also get to assemble a dessert of your choice. Finally, we will sit down and enjoy the fruits of our labour with wine. Non-alcoholic beverages are also available on request. The options for all the dishes will be sent to you once you make your booking. I am pretty flexible with dietary preferences and cater to a wide range. A sample menu looks like this:\n\nAppetisers: Zucchini and Parmesan fritters with a seasonal sauce (eg. In the summer it could be a datterini tomato and rosemary compote), bruschette with fresh seasonal toppings (I usually go to the fresh market the day before or a couple hours earlier before the class commences to get inspired and make my selections!)\n\nMain courses: Beetroot and spinach dough pasta paired with a stracciatella and walnut sauce + classic and cacao dough pasta paired with a tomato and meat rag\u00f9\n\nDessert: Tiramis\u00f9 OR a ricotta and sour cherry tart OR a seasonal item",
-    "lat": 41.90914140001553,
-    "lng": 12.461797711579743,
-    "price": "102.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "Make Ravioli  & Panna Cotta with an Italian Chef ",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Join Sandra for an interactive online masterclass. You will learn how to make traditional Ravioli from scratch with a fresh seasonal sauce, followed by one of Italy's most famous desserts - Panna Cotta with fresh fruit syrup. When the class is over, sit down at your dining table and enjoy!",
-    "lat": 41.902219998262964,
-    "lng": 12.494462579377547,
-    "price": "21.25",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Taste authentic family cuisine in upscale setting",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join us for a 5-course dinner in our apartment, which it's a representation of great Italian architecture!\nAll the ingredients come from our family farm and we are professionally trained chefs.\n\nDuring the warm summer months, we serve dinner on our cozy terrace.\nHave a look at the menu and choose one dish among the pasta courses and the main courses.\n\nAbout your host: Winner of the TV show \u201c Cortesie per gli ospiti \u201d for the best hospitality, food, and location.",
-    "lat": 41.935674637544146,
-    "lng": 12.509435968466805,
+    "name": "Afternoon Plant-Based Lebanese Cooking Class & Lunch // Greenwich Village ",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Cook with a local and learn how to make a plant based Middle Eastern meal at this Greenwich Village home with amazing views of the NYC skyline. The class will commence with host Mary introducing several vegetarian recipes that she will share with you in this hands-on class. After the class, all guests will enjoy the fruits of their labor at a sit down meal. \n\nAperitif Served. Guests can BYOB!",
+    "lat": 40.73663991163935,
+    "lng": -73.99889537648414,
     "price": "78.0",
     "minimumDuration": "2 hours 30 minutes"
   },
   {
-    "name": "Italia Calling: Virtual Cooking Class Live from Tuscany",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Cook authentic Italian recipes live from Tuscany with your host Sandra who will demonstrate the dishes step by step, including personalized cooking tips. \n\nHaving lived in Tuscany, Milan and Rome, Sandra has an extensive knowledge of Italy\u2019s varied dishes which she is keen to share with you in her virtual cooking experience. Perfect for various different groups, be sure to soak up all the knowledge Sandra has to offer and then sit down to enjoy the fruits of your labor!",
-    "lat": 41.90315824934875,
-    "lng": 12.49517980692538,
-    "price": "25.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Unique Roman food walk and tastings with archeologists ",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Discover more than 20 types of local food at the best, hidden spots around Rome during this unique food walk that's filled with historical and archeological secrets.\n\n\u2022 Enjoy more than 20 food and wine tastings including cornetto, mozzarella, prosciutto, aged cheeses, Suppli, olive oil, pizza, pasta, Tiramisu, and gelato in the Pope's favorite place, and you'll even get to make your own bruschetta!\n\u2022 Become a coffee expert in a local bar, then enjoy local wine in an Apulian street food shop\n\u2022 You'll explore the best hidden food gems on foot, as well as the biggest Roman market \n\u2022 Communal food walk for up to 12 people\n\u2022 The tastings will be 'seasoned' with storytelling about Rome, its history and archeological secrets\n\nAbout your host, Selene: \"I'm Selene, a Roman for generations and the co-founder of 'Roma Eat Food Experience'. We're archeologists, official guides, food and wine experts, but mostly, we're great friends. Our mantra is to be the people we would love to meet when traveling: passionate, positive, curious, and engaging!\"",
-    "lat": 41.91024718911989,
-    "lng": 12.453105381813556,
-    "price": "84.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Savour The Taste Of Puglia",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Since Matteo\u2019s paternal family is Pugliese, we give to those in Rome who may not get the chance to travel to the heel of the \"boot\", a chance to dine with us as we cook some of our favourite Pugliese dishes.\nWe like to add our own modern touch to traditional specialties using ingredients bought during our stays in Puglia; homemade puccie bread paired with jams for antipasti, homemade cinnamon taralli with dark chocolate dip for dessert\u2026served with Negroamaro wine bought directly from the cantina.\n\nAntipasti -\nHomemade mini puccie (olive and spicy kinds) with tomato and onion jams\n\nPrimi (First course):\nOrecchiette con cime di rape - a typical pugliese pasta dish with broccoli rabe\nAND\nRiso con patate e cozze - Carnaroli rice with potatoes and mussels, ovenbaked\n\nDolci (desserts):\nTaralli alla canella con cioccolato fondente fuso - our cheeky take on churros, using artisanal cinnamon taralli bought during our recent trip in Puglia, served with our own dark chocolate dip\nAND\nMini pasticciotti - A dessert from Galatina, little tarts of toothsome shortcrust pastry encasing vanilla custard and cherry compote.\n",
-    "lat": 41.91006623022754,
-    "lng": 12.444741514803088,
-    "price": "54.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Conquer A Seven-course Dinner Like Caesar",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Tackle this amazing seafood feast during Pigi's seven-course meal. Your meal will include several delicious Roman wines and liqueurs to enjoy as you spend your evening on top of a beautiful Roman penthouse, overlooking the river Tiber. \n\nPigi is as generous with the food as he is talented, so expect to be thoroughly stuffed by the time you\u2019re finished! Are you ready to conquer?\n\n",
-    "lat": 41.924208395306515,
-    "lng": 12.464250784322239,
-    "price": "48.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Italian Wine Tasting and Food Pairing Workshop",
-    "description": "Discover the best Italian wines during this wine tasting, with chef and host, Deborah and professional sommelier, Luca! \n\nTogether they will guide you through the evening, whilst you discover the best Italian wines. The wines will be paired with delicious fresh bread and an amazing selection of extra virgin olive oil, artisan cheeses as well as fresh vegetables from your hosts\u2019 own back garden! This intimate experience gives you a great combination of amazing wine and high quality products, whilst starting you on your journey of becoming a wine tasting expert!",
-    "lat": 41.9100851150032,
-    "lng": 12.447439257471514,
-    "price": "60.0",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Roam Around The Roman Market",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Michaela is here to be your guide around the wonderful local markets of her neighbourhood in Rome. You can expect to try typical Italian street food dishes like suppli, porchetta, copious amounts of cheese and delicious white pizza (a variation of the popular dish without tomato sauce!). No trip to an Italian market would ever be complete without wine, so expect plenty of options from local sellers and take Michela's advice seriously when she tells you which you have to try! This is where Michela gets her groceries every day after all!\n",
-    "lat": 41.9101278322226,
-    "lng": 12.453539800618957,
-    "price": "70.0",
-    "minimumDuration": "2 hours 30 minutes"
-  },
-  {
-    "name": "Cook a Classic Italian Meal Inspired by a Roman Grandmother",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Try Janice and Francesca\u2019s real Italian cooking which tastes just like Grandma\u2019s. Receive instruction from two very welcoming and generous Italian sisters as they share their Nonna's special recipe for gnocchi, in a deliciously rich and creamy tomato sauce. After you\u2019re done cooking, relax and enjoy a wonderful dinner in Rome, along with your newfound Italian friends.\n",
-    "lat": 41.97229025532775,
-    "lng": 12.436292963737415,
-    "price": "75.6",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Fettuccine, ravioli, and gnocchi cooking class and dinner",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>In this cooking class, you'll learn how to make fettuccine, spinach and ricotta ravioli, and gnocchi from scratch, that you'll then enjoy for dinner with your host. \n\n\u2022 Learn how to make handmade pasta that will be topped with Ragout for the gnocchi, Gricia for the ravioli, and sauce with mushrooms and Pachino for the fettuccine, and enjoy your creations for dinner (as well as a few snacks while you cook!)\n\u2022 Wine and digestif are included\n\u2022 The home is very close to the 'Riserva naturale dell'Insugherata'\n\u2022 Communal cooking class and dining for up to 8 people\n\u2022 Sara was born in Rome and has lived there her whole life! Her specialty is her grandmother's recipe for homemade pasta\n\nAbout your host, Sara: \"My passion for cooking started as a child when my mother came home late from work and prepared Minestrina with cheese, cooked ham and puree...As soon as I could use the stove, I started to try recipes and I learned to cook, and from then my passion was born.\"",
-    "lat": 41.94764704897593,
-    "lng": 12.441142446239889,
-    "price": "54.0",
-    "minimumDuration": "4 hours"
-  },
-  {
-    "name": "1 hour Afternoon pizza class in Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>This pizza crash course with a chef is the perfect way to familiarize yourself with the Italian pizza tradition, and to enjoy your creations along with a glass of wine.\n\n\u2022 Prepare and enjoy some of the great classics of Italian pizza, from classic Margherita to Focaccia, as well as tomato Bruschetta cooked in a wood oven and homemade Cacio e Pepe chips\n\u2022 One drink is included\n\u2022 In a cozy restaurant with an outdoor terrace\n\u2022 Communal cooking class for 2 to 12 people\n\n\nAbout your host, Jacqueline: I want my guests to have a multisensory journey to discover the most incredible flavors from my country. I believe in culture in its many different facets, the beauty of diversity. Hence my passion for communication, travel, and food, elements that blend with my goal of bridging different cultures.",
-    "lat": 41.90876546100742,
-    "lng": 12.452840543927595,
-    "price": "54.0",
-    "minimumDuration": "1 hour"
-  },
-  {
-    "name": "Enjoy an Authentic Ancient Roman Dinner!",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Having managed for more than 35 years the bistro \u201cCreperie of Testaccio\u201d, a well-known bistro/restaurant specialised in crepes and galettes, I gained a great knowledge of international cuisine, the ancient Roman cuisine and of the vegan and vegetarian cuisine. I always mantained a great interest in the recovery of the traditional Mediterranean recipies, in the value of cuisine as a means for nourishing the soul and the psychophysical well-being of my  guests. For this reason  in my  career,  I have  prioritized  the \u201cseasonability\u201d and the \u201cemotional value \u201cof food. The ancient Roman dinner will be held in an elegant apartment located just a few steps from the Colosseum  following the ancient Roman receips of Marcus Gavius Apicius, gastronome, cook and Roman writer who lived at the turn of the first and second century A.D. He wrote the oldest Roman cookery receips book  \u201c The res coquinaria\u201d . In the res coquinaria are described dishes that served to make the banquests of Roman nobles and aristocrats unique and special for showing their power and magnificence on the other foreign guests.  During the ancient Roman dinner will be described dishes and the ancient Roman techniques of their preparation. Will follow the reading of the classic texts of the ancient Roman cuisine such as  the famed the dinner of \u201cTrimalchone\u201d narrated in the Satyricon of Petronio and the famous lustful Lucullian dinner narrated by Plutarch interpreted by our expert archaeology lecturer Claudia Pinci accompained by the sound of the traditional ancient roman music .",
-    "lat": 41.889383878606665,
-    "lng": 12.49715255923512,
-    "price": "72.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Let\u2019s toast, Drink & Explore Hidden Corners after the Sunset",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Would you like to avoid tourist traps, discover the city with an archaeologist and have fun at the sunset, or after it? Are you curious to know what Romans really do (and drink) for the aperitif or after dinner (spoiler: the spritz is NOT a typical Roman beverage)? That you are a couple, a group, a family or a solo traveler, this is the experience for you.\n\nIn 2 hours, guided by an archaeologist with great knowledge of food & wine, we will enjoy different tastings and a pleasant walk in the oldest district of Rome: Rione Monti. Just a few steps away from the Colosseum, this place is a hidden gem completely off the beaten path.\n\nWe will drink in a little bar that hides a \u201csecret\u201d inside, eat a typical Roman street food and chat with the glass in one hand while walking at the discovery of hidden corners of Rome. In details, we will taste a beer, a glass of wine and a \u201csecret\u201d drink invented in Italy that few know about. All in unique locations and with personalized story telling.\n\nThe experience is scheduled at two different times, perfect for those who want to enjoy an aperitif before dinner, as well for those who want to \u201cdigest\u201d with a pleasant walk. In both cases consider that this experience will not substitute dinner.\n\nSPECIAL: We also organize private experiences on request. Write us for more info.\n\n\u2022 Take a time machine and discover amazing historical details around Rome, talking about daily life over 2000 years of history\n\u2022 Communal drink walk for up to 12 people\n\u2022 The guides are archeologists so they'll tell you all about the history of the city\n\nAbout your host, Selene: \"I'm Selene, a Roman for generations and the co-founder of 'Roma Eat Food Experience'. We're archeologists, official guides, food and wine experts, but mostly, we're great friends. Our mantra is to be the people we would love to meet when traveling: passionate, positive, curious, and engaging!\"",
-    "lat": 41.89469628617225,
-    "lng": 12.48769494192496,
-    "price": "62.4",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Rome Aperitivo and Street Food Tour",
-    "description": "This Rome Street Food & Aperitivo Tour will take you off the beaten track and introduce you to the love affair that Romans have with street food, beer and wine\n\nAs you walk through the city, you will pass the famous Pantheon and Piazza Navona and eat at historical boutique, contemporary eateries, breweries and chic cocktail bars.\nGet a taste of a true Italian Aperitivo in addition to local pizza, cheese, wine and ice cream or tiramisu!",
-    "lat": 41.89872474537087,
-    "lng": 12.485332413241228,
-    "price": "79.2",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Rome Trastevere Food Tour",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Looking for some good food in Trastevere? Look no further. This Trastevere Food Tour takes place in the historic Trastevere area and will guide you through the most popular Roman dishes, their unique flavours and famous wines from Lazio.\n\nAt each stop and restaurant you'll try something new such as Roman cheeses with sun dried tomatoes, the traditional rice suppl\u00ec, Roman pizza or the famous Prosciutto di Norcia with bufalo mozzarella cheese and a dish of the famous pasta alla carbonara. You'll finish the tour with one of the best gelatos in the area!\n",
-    "lat": 41.89029092920691,
-    "lng": 12.476941677434258,
-    "price": "75.6",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Testaccio market tour and lunch",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Tour the historic Testaccio food market and select the ingredients for a delicious lunch. Then head back to Andrea's home with a view of Piramide to enjoy your meal together.\n\n\u2022 Tour the market and then sit down for a 4-course Italian lunch\n\u2022 Wine is included\n\u2022 Visit the historical center of the Roman food empire while exploring the Testaccio market. Lunch takes place in a penthouse with a view\n\u2022 Communal food walk and dining for 2 to 4 people\n\u2022 Andrea is an engineer\n\nAbout your host, Andrea: I spent my whole life traveling around the world. I enjoy meeting new people and sharing good meals with them.",
-    "lat": 41.87898778321606,
-    "lng": 12.479527518649565,
-    "price": "78.0",
-    "minimumDuration": "30 minutes"
-  },
-  {
-    "name": "Roman Street Art Tour and Lunch with an architect in his home",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Discover beautiful Roman street art in the historic suburbs and enjoy an open-air museum, followed by lunch at ...my place....!! Of course, with excellent pasta and wine.\nThe area of Tormarancia is a colorful and bohemian one, immersed in a green environment, where you'll admire the graffiti and street art of Gaia, Van Helten, Mr. Klevra, Lek and Sowat, Clemens Behr and Seth Globepainter. Afterwards you'll head to my place, round the corner and savor Pasta Amatriciana or Gricia in a local family home.\n\n\nAbout your host, Daniele: \"Walking around my city, I saw visitors who didn't know what to do, where to eat real Roman cuisine, which museums to see, which places to visit, etc. So I came up with the idea of \u200b\u200bintroducing a different Rome and started to find really special places and experiences.\"",
-    "lat": 41.85603318996524,
-    "lng": 12.496242780178141,
-    "price": "48.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "An unusual dinner at the Roman Walls at the Parco delle Mura Latine",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>We are looking forward to hosting you in Rome, next to the gorgeous gates Porta Latina and San Sebastiano, in the heart of the city, just 400 meters from the Colosseum.\nWe live in a \u201chouse of leaves\u201d, a modern and comfortable apartment that can accommodate up to 8 seated guests, or more as a buffet.\nWe are not serving you just a dinner: what we offer is our point of view on Rome and our aim is linking the most authentic and traditional food to literature, art, photography, fashion, style and, of course, wine of which we can offer you suggestions, connections and taste (also \u201cmixology\u201d where required).\n\nFor our debut on Eathwith we suggest a very variate menu, everything waccompanied by fragrant bread from Ceccacci Bakery (different typology according to daily availability), Taralli from Puglia and Organic Extra Virgin Olive Oil.\n\nLast but not least the final surprise: before dinner we are glad to welcome you by the Roman Wall for an aperitivo and some historical tips on the area where we live!",
-    "lat": 41.87768151643485,
-    "lng": 12.502097268354907,
-    "price": "79.2",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Tandem Skydive from 4000m over Rome",
-    "description": "<p>Experience the art of flight just 17km from central Rome on this tandem skydive!</p>\n<p>Freefall over one of the most iconic cities in Europe on this tandem skydive just a few kilometres from Rome! Head east from the city centre and drop from 4000m - experiencing up to 45 seconds of pure G-Force.&nbsp;Enjoy&nbsp;one of the most thrilling extreme sports in the world - all under the expert supervision of a jumpmaster! Get ready for the ride of your life...</p>\n<p><strong>Location</strong><br />This activity is run and operated from&nbsp;a private airfield in Rome. The only skydive location in the city, it is situated just 17km (30-min drive) and can be reached 8 minutes from the subway station C line 'Monte Compatri-Pantano'.</p>\n<p><strong>Activity&nbsp;</strong><br />Meet your jumpmaster at the airfield for this tandem skydive in Rome. Starting off with an introduction to the activity and the kit you&rsquo;ll be wearing, gear up with a flight suit and goggles before you head to the strip and board the aircraft. A short panoramic flight&nbsp;over Monte Compatri and the surrounding countryside, you&rsquo;ll soar to an altitude of 12,000ft/4,000m where you&rsquo;ll get the best views of the Alban Hills out of one window - and the outskirts of Rome from the other. Marvel at the landscape before you cut above the clouds and get ready for your big jump.&nbsp;Securely strapped to the tandem master, take a deep breath &ndash; it&rsquo;s time to take the ultimate leap and freefall for up to 45 seconds at 200km/h! Before you know it, your&nbsp;jumpmaster&nbsp;will have opened the parachute and you&rsquo;ll&nbsp;glide for another 4-8 minutes&nbsp;&ndash; offering you a chance to really take in the views as you glide back down to the airbase, performing a soft landing in a dedicated drop zone.</p>\n<p><strong>Conditions</strong><br />This skydive activity uses a small private aircraft custom made for skydiving. Whilst&nbsp;spectators are&nbsp;not allowed to accompany you in the aircraft, they are free to watch from the airbase. Please dress appropriately in closed-toe shoes and comfortable clothing.</p>",
-    "lat": 41.885109,
-    "lng": 12.714691,
-    "price": "230.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "FARM TO TABLE DINNER - A TRIP THROUGH ITALY in TRASTEVERE",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>My home is your home!\n\nThis culinary experience is a cultural and sensory \u201ctravel\u201d to discover the rich regional cuisine from Italy. \nI\u2019m committed to provide an authentic Italian slow meal in a fun and entertaining way. \n\nDuring this multi-hour affair, you will taste different flavours, understand what\u2019s on your plate, appreciate the true taste of meal. My menus are expressions of my love for my roots my culinary family traditions and Italian life style. I also love support locals micro-farms and cook with traditional Italian fresh ingredients. \n\nThe experience is chef\u2019s table style with a full interaction with me and my team.\n\nAbout your host: won \"the Best home restaurant in Rome\" according to star chef celebrity Alessandro Borghese, Italian TV Show \"4 Ristoranti\"\n",
-    "lat": 41.88908212894986,
-    "lng": 12.471787424428946,
-    "price": "102.0",
-    "minimumDuration": "2 hours 30 minutes"
-  },
-  {
-    "name": "Taste of Trastevere: Experience the Best Food Flavours of Rome",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Experience Rome like a local and immerse yourself in one of the city\u2019s oldest and most vibrant neighborhoods on foot, guided by chef Anastasiya as she shares her secrets with you. \n\nAs a food and wine expert, you can trust that Anastasiya will introduce you to a variety of the most mouth watering food across a range of eateries. This amazing food tour will take you from breakfast to lunch, whilst you taste your way through some of the best food that Rome has to offer!",
-    "lat": 41.88703340217779,
-    "lng": 12.471260047690796,
-    "price": "177.5",
-    "minimumDuration": "2 hours 30 minutes"
-  },
-  {
-    "name": "Rome Street Food Tour",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>This Rome Street Food Tour will take you off the beaten track and introduce you to the love affair that Romans have with street food. \n\nAs you walk through the city, you will pass the famous Pantheon, Piazza Navona and Campo dei Fiori and eat at historical boutiques and contemporary eateries. Get a taste of local pizza, cheese, wine and ice cream and finish everything off the way Italians do: with an espresso!",
-    "lat": 41.896025074359656,
-    "lng": 12.469250259135642,
-    "price": "66.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Roman family dinner near Piazza Navona",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Sit at the table with Stella, Family, Friends and Guests from all over the world. She  prepares homemade Italian delights and have you explore the tastes of Rome.\n\n\nAbout your host, Stella: \"My grandmother was the muse of my gastronomic life. She gave me the passion for food and the secrets of Roman and regional Italian cuisine, that I am proud to preserve. To consolidate my knowledge in gastronomy, I specialized in a famous cooking academy in Rome\u201d.",
-    "lat": 41.89769119217182,
-    "lng": 12.473367240548345,
-    "price": "91.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Kids Pasta & Tiramisu Cooking Class with a View",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Join Fiamma and Debora at home on top of the Gianicolo hill with a stunning view up to Piazza Venezia. \n\nYou will learn how to prepare 3 Italian homemade dishes: \"farfalle\" and \"cavatelli\" naturally colored pasta as well as a traditional tiramisu. On arrival, you will be greeted with delicious bruschetta before getting stuck in to the class. When everything is ready, you'll take a seat and enjoy your creations!\n\nIt will be an afternoon of food and fun! \n\n\n",
-    "lat": 41.88882459470009,
-    "lng": 12.462356119097057,
-    "price": "50.4",
-    "minimumDuration": "2 hours 30 minutes"
-  },
-  {
-    "name": "Seafood Cooking Class and 3-course Dinner in Rome",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Get a taste of real Italian culture when visiting Rome! Learn how to make authentic Italian dishes and bring your skills back home... \n\nYour host, Sandra, will teach you about buying the best quality ingredients and guide you step by step throughout the class. In a fun and dynamic atmosphere, you will cook and then enjoy a 3 course dinner of fresh fish and seafood. Your meal will be served with local Italian wine.",
-    "lat": 41.894836907805455,
-    "lng": 12.442142074506616,
-    "price": "64.8",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Roman Affair: Secret Dinner Spot",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Take a seat at Sandra\u2019s table for a delicious 4-course Italian meal: a combination of rich regional recipes served with wine and beer. The best taste of Italy!\n\nThis intimate dining experience will give you the chance to get to know your host, chef Sandra, as she cooks up a magnificent feast for you to enjoy on her picturesque Roman terrace, right by the Vatican!\n\nPlease note that as the meal is prepared with the freshest in-season ingredients bought from the local market, the menu may change according to the season.",
-    "lat": 41.89522204301675,
-    "lng": 12.444893380214827,
-    "price": "75.6",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Rome Gourmet Food Tour",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>This food tour through Travestere will take you down colorful alleys and to ancient, artisanal boutiques. With the help of a local food expert, you'll explore the beating heart of Italy and discover Rome's oldest and traditional recipes. \n\nAt each stop you'll try something new, starting with an \u2018aperitivo\u2019: local cheeses and a glass of wine. Then comes the traditional must-haves such as Roman suppl\u00ec, the white pizza, \u2018porchetta\u2019, and pasta with carbonara sauce. You'll play the \u201cGioco dell\u2019Ova\u201d (Eggs game) where you have to try gourmet dishes like caviar and oysters and finish the tour with a cone of the best artisanal gelato in the area!\n",
-    "lat": 41.891418741792045,
-    "lng": 12.478197428311109,
-    "price": "90.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Roman fish market tour and cooking class",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Let Andrea show you the history and beauty of Rome while you tour a local fish market. Then head back to his place for a fish cooking class and lunch.\n\n\u2022 At the market you'll select a fish to cook together, then Andrea will teach you how to cook it using traditional Italian recipes before sitting down to enjoy your meal together\n\u2022 Cocktails and wine are included\n\u2022 You can choose whether you want to go to the Testaccio, Trionfale, or Piazza Vittorio fish market\n\u2022 The cooking class takes place in a penthouse in the historical district of Testaccio\n\u2022 Communal food walk for 2 to 6 people\n\u2022 Andrea is an engineer\n\nAbout your host, Andrea: \"I spent my whole life traveling around the world. I enjoy meeting new people and sharing good meals with them.\"",
-    "lat": 41.878494755086564,
-    "lng": 12.47785729997881,
-    "price": "90.0",
-    "minimumDuration": "16 hours"
-  },
-  {
-    "name": "Professional Pizza Workshop in Rome With a Brilliant Italian Chef",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Learn to make authentic pizza from an authentic Italian chef!\n\nJoin your brilliant host Sandra as she teaches you how to make rustic pizza from some of the most popular pizza making provinces in Italy. Sandra is an Italian chef who has lived and worked all over Italy and now wants to share her knowledge with you!\n\nIn her beautiful home, you\u2019ll learn to appreciate the differences between the flavors, the dough and toppings. You'll then enjoy a sit down 2-course meal, including your pizza, served with wine and beer. Sandra\u2019s food will leave you wanting more and provide you with the skills to recreate everything at home!\n",
-    "lat": 41.89417655114909,
-    "lng": 12.444301427570794,
-    "price": "60.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Piazza Bologna",
-    "description": "",
-    "lat": 41.9136841,
-    "lng": 12.5208383,
-    "price": "",
-    "minimumDuration": ""
-  },
-  {
-    "name": "Pasta & Tiramisu Cooking Class with Lunch (10 am class)",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Fiamma and Debora in their beautiful appartment for a dynamic hands-on cooking class! You will start by preparing the tiramisu before making pasta from scratch (such as Fettuccine and Amatriciana sauce and Ravioli). Enjoy nibbles while you cook then sit down for lunch!\n\n",
-    "lat": 41.88915415817294,
-    "lng": 12.461594830683003,
-    "price": "66.0",
-    "minimumDuration": "4 hours 30 minutes"
-  },
-  {
-    "name": "Italian Dinner with a Panoramic View",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Join Debora and her daughter Fiamma for a delightful Roman dinner at the top of the Gianicolo hill. The 3-course meal will be served with local wine and you'll dine on their beautiful balcony. \n\nFiamma and Debora are wonderful and experienced hosts, always willing to share stories about their life in Rome and to teach you about Italian traditions, customs and the history behind each dish.\n\nThis is the perfect experience to meet people as their table fits up to 25 guests!",
-    "lat": 41.88900622389182,
-    "lng": 12.460121638981866,
-    "price": "45.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "An Evening Of Rooftop Roman Cocktails And Delicious Small Plates",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Phoebe invites you to her charming home in Rome with a stunning view of the city. Sip on refreshing, locally influenced cocktails that Phoebe has paired with delicious, homemade small plates. Enjoy the atmosphere of your surroundings and mingle with other guests in this intimate, open-air experience!\n",
-    "lat": 41.90046727083207,
-    "lng": 12.466998879731731,
-    "price": "36.0",
-    "minimumDuration": "1 hour 30 minutes"
-  },
-  {
-    "name": "Make Pasta & Enjoy a 3-course dinner in Rome ",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Join Sandra, your charismatic host, for a dynamic pasta making class! You will spend a couple of hours preparing, cooking, and learning how to make pasta .\n\nWhen everything is ready, you will take a seat at her dining table and enjoy your very own home-cooked Italian meal with a delicious glass of wine.\n",
-    "lat": 41.89477273465412,
-    "lng": 12.442027287188964,
-    "price": "63.6",
-    "minimumDuration": "3 hours 30 minutes"
-  },
-  {
-    "name": "Wine Tasting: Wine, Food, and Caravaggio in Baroque Rome",
-    "description": "Take part in a fascinating wine tasting revolving around the art and history of Caravaggio and how it intertwines with Italian food and wine. \n\nAdmire his paintings, sip wine, and enjoy traditional snacks in Rome. \n\nMeet in Piazza Navona, to then head to an exclusive, 1500 year old location dedicated to quality wine and food. ",
-    "lat": 41.89706413643296,
-    "lng": 12.472338201500017,
-    "price": "72.0",
-    "minimumDuration": "2 hours"
-  },
-  {
-    "name": "Twilight Local Food, History and Hidden Places",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Eat like a local and feel like a Roman on this unique evening adventure. Discover the historical center of Rome through more than 15 off-the-beaten-path food and wine tastings!\n\n\u2022 The many delicious stops include Cannolo, cheeses, salami, pizza 'al taglio' in an ancient bakery from 1880, followed by a sit-down dinner in a cozy restaurant with traditional bruschetta and the best Carbonara in town, cooked by a Michelin-starred chef\n\u2022 Start with a typical Roman 'aperitivo' in a historical bar owned by the same family for 150 years, and finish with a toast of a homemade limoncello, as well as wine tastings in between\n\u2022 Walk through the best hidden parts of Rome, including the Campo de Fiori and one of the most beautiful Roman fountains!\n\u2022 Communal food walk for up to 12 people\n\u2022 The tastings will be 'seasoned' with storytelling about Rome, its history and archeological secrets\n\nAbout your host, Selene: \"I'm Selene, a Roman for generations and the co-founder of 'Roma Eat Food Experience'. We're archeologists, official guides, food and wine experts, but mostly, we're great friends. Our mantra is to be the people we would love to meet when traveling: passionate, positive, curious, and engaging!\"",
-    "lat": 41.892853739403776,
-    "lng": 12.47040568483361,
-    "price": "90.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "4-course fish & seafood dinner in Monteverde",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Enjoy a fish dinner dinner in the beautiful neighborhood of Monteverde, where Massimo will share his love for Roman food with you.\n\n\u2022 4-course seafood and fish dinner \n\u2022 Italian wines included\n\u2022 Massimo's home is in Monteverde Vecchio, just a few minutes from Trastevere and the historic center\n\u2022 Dinner for 4 to 12 people\n\u2022 Massimo has a wonderful sense of hospitality and a great love for Italian food\n\nAbout your host, Massimo: I want to share my passion for Italian and Roman cuisine with my guests. I'll host in my house in Monteverde Vecchio, just a few minutes away from the famous Trastevere neighborhood. We'll start our dinner with a glass of Prosecco and a lot of small-talk.",
-    "lat": 41.873721110209594,
-    "lng": 12.45832594192041,
-    "price": "72.0",
-    "minimumDuration": "3 hours"
-  },
-  {
-    "name": "Become a Roman chef in a day",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>A visit to Rome is not complete without a ''hands-on'' cooking class with Chef Federico Alessandri! The lesson begins with a walking tour in the famous open market through Campo dei Fiori, where you will be guided by Chef Federico in learning how to choose the right seasonal ingredients. Then you will collaborate in creating the traditional menu that you will cook and enjoy.\n\nIt's a short walk through the beautiful historic center to Federico's apartment which is in the heart of Trastevere (one of the oldest parts of Rome). It is here that you begin to become a ''Chef in a Day'' and the cooking adventure starts! You will be taught from scratch how to make 3 different fresh pastas from 2 different doughs ( a long pasta , a stuffed pasta and a short pasta), prepare a traditional second course of meat or fish with vegetables, and a delicious dessert.\n\nThe lesson is ''hands-on'' and will take approximately 5 hrs. All the recipes will be explained in detail, and many tricks and tips will be given during the class. Chef Federico does not only teach recipes, he explains the ''why'' and ''how'' of the methods taught.\n\nYou are welcome to join a fun-filled international open group or book a private lesson. As a previous participant once said, ''A class with Federico is an educational party''. A lot of fun and laughs are guaranteed!\n\nThe class will end with the enjoyment of the lunch you prepared, accompanied by some good Italian wines. Without a doubt, this will be the highlight of your trip to Italy and you'll go back home with the same passion for cooking as Chef Federico Alessandri. So, become a ''Chef in a Day''!",
-    "lat": 41.88962514980512,
-    "lng": 12.46835723526047,
+    "name": "Bartender's Signature Cocktail Class // West Village",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>First you'll have a little chat about cocktails. Harry wants to know your experience and interest in the field. Are you a complete novice looking to make more informed cocktail choices? Are you a professional who wants to push their knowledge to the next level? Somewhere in between? This can take anywhere from 5-15 minutes, and will include a little context from Harry's explanation about where the Old Fashioned comes from. He'll also make you an old fashioned so you can experience it from every sense!\n\nAfter a briefing on tools and ingredients, you make your own! You can either go off one of his recipes, or take his ingredients and get creative. This part can take anywhere from 15-45 minutes, depending on experience. Harry has a multitude of ingredients guests can choose from, so you won't necessarily be limited to one.\n\nLastly, you'll cheers! Everyone takes their original Old-Fashioned recipe, and celebrate their new appreciation for a timeless classic.",
+    "lat": 40.735184042942045,
+    "lng": -73.99675401291928,
     "price": "120.0",
-    "minimumDuration": "5 hours 30 minutes"
+    "minimumDuration": "1 hour 30 minutes"
   },
   {
-    "name": "Much more than a Cooking Class: Pasta and Tiramisu",
-    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Join your hosts, Debora and Fiamma in their stunning home at the top of Gianicolo Hill for a wonderful evening making delicious pasta and tiramisu! You\u2019ll start by making a traditional tiramisu, followed by pasta like fettuccine and ravioli, all from scratch! \n\nEnjoy nibbles whilst Debora and Fiamma teach you all the best techniques to make your meal, and then sit down and savour all your hard work.",
-    "lat": 41.88976769575572,
-    "lng": 12.461940622778128,
-    "price": "66.0",
-    "minimumDuration": "4 hours 30 minutes"
-  },
-  {
-    "name": "Evening Walk around Trastevere",
-    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Immerse yourself in Roman life as your host Anastasiya takes you on a street tour of Trastevere to discover a variety of local specialties and wines! \n\nYou\u2019ll be trying food from the best eateries in Rome, tasting everything from street food and cheeses to aperitivo and tiramisu. You will get a real taste of the city as you explore the narrow cobblestone streets and enjoy a sit down dinner in the coziest of settings. With wine included alongside your meal, this experience has everything covered so you can relax and enjoy your evening of Roman food!",
-    "lat": 41.88599960664934,
-    "lng": 12.469351522723084,
-    "price": "182.5",
+    "name": "Pasta Workshop & Dinner // Greenwich Village",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Learn how to prepare 3 different kind of pastas from scratch from the pros at Red Inside Culinary Studio!\n\n\u2022 2 hours of preparation and cooking followed by 1 hr sit down lunch or dinner. Wine is on the house!\n\u2022 Culinary studio located in the heart of Greenwich Village in a classic turn of the century apartment\n\u2022 Separate European style dining room which accommodate up to 8 people sitting at the communal table",
+    "lat": 40.72928565617515,
+    "lng": -73.99915961197418,
+    "price": "162.0",
     "minimumDuration": "3 hours"
   },
   {
-    "name": "New Year's Eve on a Roman Terrace",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Celebrate the New Year with Rocco and Fabio during this traditional Italian dinner! \n\nDiscover their traditional family recipes at this dinner on their cozy Roman terrace. Choose your menu beforehand, then sit back and enjoy the beautiful setting!\n",
-    "lat": 41.87109157732677,
-    "lng": 12.512263415552448,
-    "price": "60.0",
-    "minimumDuration": "5 hours"
+    "name": "Pasta with Homemade Sauce Cooking Class & Multi-course Italian Dinner in Greenwich Village ",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Cook with a NYC local that grew up Italian and has been cooking Italian food her entire life. Mary is an expert at jarring tomatoes, making fresh pasta and sauces like pesto, marina, Cacio e Pepe and clam sauce. You will learn these new recipes at this Greenwich Village home with lovely skyline views and may be able to dine on the roof. This is a hands-on class, but customizable for those that would prefer to take more notes and enjoy the sit down meal. Most of the ingredients are purchased from the Union Square Farmer's Market where all the best NYC Chefs shop. ",
+    "lat": 40.735416709733,
+    "lng": -73.99864273698078,
+    "price": "90.0",
+    "minimumDuration": "2 hours 30 minutes"
   },
   {
-    "name": "Roman dinner party in a stylish apartment",
-    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Experience traditional, organic Roman cuisine with a modern touch in a relaxed, friendly home. Best friends Giovanna and Cristina use family recipes and great wines to make you feel welcome! \n\n\u2022 4-course tasting menu made with organic, local products\n\u2022 Wine and digestif are included\n\u2022 Communal dining for 4 to 10 people\n\u2022 Over 60 rave reviews on TripAdvisor\n\nAbout your host, Giovanna E Cristina: \"We are Giovanna and Cristina, 2 best friends who love to share our passion for cooking. Inspired by traditional Italian recipes passed down by our families, we believe that simple, local food is the best food. Like many Italians, we know that a good meal is made better with wine!\"",
-    "lat": 41.88909235403851,
-    "lng": 12.509202008547636,
+    "name": "Bread & Pastry Making Class // Greenwich Village",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Bake your own bread with Ivan! Learn the secrets behind bread making to bring home with you. While the bread is baking - learn to make mixed fruit tarts! \n\n\u2022 2 hours of preparation and cooking followed by 1 hr sit down lunch or dinner. Wine is on the house!\n\u2022 Culinary studio located in the heart of Greenwich Village in a classic turn of the century apartment\n\u2022 Separate European style dining room which accommodate up to 8 people sitting at the communal table\n",
+    "lat": 40.72989632808596,
+    "lng": -74.00111921496972,
+    "price": "162.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Plant-Based Lebanese Cooking Class // Greenwich Village",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Cook with a local and learn how to make a plant based Lebanese meal at this Greenwich Village home with amazing views of the NYC skyline. The evening will commence with host Mary introducing several vegetarian recipes that she will share with you in this hands-on class. After the class, all guests will enjoy the fruits of their labor with a sit down dinner. \n\nAperitif Served. Guests can BYOB!",
+    "lat": 40.735587889680744,
+    "lng": -73.99724992478262,
     "price": "78.0",
+    "minimumDuration": "2 hours 30 minutes"
+  },
+  {
+    "name": "A Man and his Sandwich Tour // East Village",
+    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>There\u2019s nothing quite like a great New York sandwich!\n\nWelcome to A Man and His Sandwich! Get ready to explore the historic neighborhoods of New York on one of the best food tours you'll ever experience. Join your fellow sandwich squad on this fun and delicious food tour around East Village with NYC sandwich-superfan Ben!\n\nAs you eat from local restaurants and hidden gems, you'll learn about the history of the people who created the sandwiches you are eating, and discover how some sandwiches became signature New York dishes. \n\nCome with an open mind, and leave with a FULL stomach (and an answer to whether or not a hotdog, a burger or a taco is a sandwich).",
+    "lat": 40.7311757983799,
+    "lng": -73.98982707785854,
+    "price": "72.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "Viva Esapana - make your own tapas ",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Make your own Spanish food - tapas, paella, and crema catalana! \n\n\u2022 2 hours of preparation and cooking followed by 1 hr sit down lunch or dinner. Wine is on the house!\n\u2022 Culinary studio located in the heart of Greenwich Village in a classic turn of the century apartment\n\u2022 Separate European style dining room which accommodate up to 8 people sitting at the communal table\n\nAbout your host: Ivan is a pro chef from Italy currently living in the United States. He is a Master Chef in Italian Cuisine certified by Academia Barilla. Ivan has been nominated Best Chef America 3 years in a row and have been published on the New York Times and other national publications numerous times.",
+    "lat": 40.72911618120609,
+    "lng": -74.00031567457063,
+    "price": "160.8",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Great Irish Fair of New York",
+    "description": "",
+    "lat": 40.57323,
+    "lng": -73.9885,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Explore Manhattan from above in a spectacular adventure",
+    "description": "<p>The city&#39;s best views are on <strong>The Empire </strong>tour. Explore <strong>Manhattan</strong> from above in a spectacular adventure.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>The Empire tour is our most extensive. This&nbsp;<strong>30-minute </strong>tour features all the magical moments of The <strong>Manhattan</strong> and <strong>The Big Apple</strong>, along with gorgeous views of <strong>Brooklyn</strong>, <strong>Coney Island</strong>, the <strong>Verrazano Bridge</strong>, and more :&nbsp;</p><br><br><p>&nbsp;</p><br><br><ul><br>\t<li><br>\t<p>Coney Island&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Brooklyn</p><br>\t</li><br>\t<li><br>\t<p>New Jersey</p><br>\t</li><br>\t<li><br>\t<p>Northern tip of Manhattan</p><br>\t</li><br>\t<li><br>\t<p>Verrazano Bridge</p><br>\t</li><br>\t<li><br>\t<p>Central Park Columbia University&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Yankee Stadium (unavailable during games)&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>New Jersey Palisades&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>George Washington &nbsp;Bridge&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Statue of Liberty&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Freedom Tower</p><br>\t</li><br>\t<li><br>\t<p>Chrysler Building&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Empire State Building&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Chelsea Piers</p><br>\t</li><br>\t<li><br>\t<p>Intrepid Sea, Air &amp; Space Museum&nbsp;</p><br>\t</li><br></ul>",
+    "lat": 40.7015101,
+    "lng": -74.0091494,
+    "price": "320.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "NYC Poetry Festival",
+    "description": "",
+    "lat": 40.69186,
+    "lng": -74.01336,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The National September 11 Memorial Museum",
+    "description": "",
+    "lat": 40.7114147,
+    "lng": -74.0124786,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Washington Square Park",
+    "description": "",
+    "lat": 40.7308838,
+    "lng": -73.997332,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Vol d\u00e9couverte de M\u00e2con ",
+    "description": "",
+    "lat": 40.7127837,
+    "lng": -74.0059413,
+    "price": "0.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "NY helicopter tour",
+    "description": "<p>Immediate takeoff towards the sky of <strong>New York</strong>. Fly over<strong> southern Manhattan</strong> and its emblematic monuments.</p><br><br><p>&nbsp;</p><br><br><p>Take off and see the<strong> Statue of Liberty</strong>, the <strong>Freedom Tower</strong>, the tallest in New York,<strong> Ellis Island</strong>, <strong>Battery Park,</strong> the<strong> Brooklyn Bridge</strong> and<strong> Governors Island</strong>.</p><br><br><p>&nbsp;</p><br><br><p>Enjoy the most popular helicopter flight in the world and take in the amazing view from the helicopter.</p><br><br><p>Click and fly!&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>&nbsp;</p><br><br><p><strong>Check in 1h15&nbsp;before takeoff.</strong></p><br><br><p><em>Take the NJ Path train to Journal Square in Jersey City or NJ Transit to Newark Penn Station, then take an Uber or cab to the hangar.</em></p>",
+    "lat": 40.7243283,
+    "lng": -74.1094976,
+    "price": "330.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "St. Cloud Rooftop Bar",
+    "description": "",
+    "lat": 40.75544729999999,
+    "lng": -73.986184,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Rockefeller Center",
+    "description": "",
+    "lat": 40.7587402,
+    "lng": -73.9786736,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Bar 54",
+    "description": "",
+    "lat": 40.7575012,
+    "lng": -73.9841824,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Joyce Gold History Tours of NYC",
+    "description": "",
+    "lat": 40.74022429999999,
+    "lng": -73.9970829,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "NYC Pride March",
+    "description": "New York City celebrates the freedom and rights of the gay community with a world-renowned week of celebrations, culminating in the famous NYC Pride March down Fifth Avenue with more than a million spectators lining the route. This event is recognized as one of the world\u2019s best Gay Pride celebrations.",
+    "lat": 40.6536201,
+    "lng": -73.9923813,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "KHAN-TOKE Modern Northern Thai Lunch // Midtown",
+    "description": "Join host Gameka in this unique experience of KHAN-TOKE, which is a pedestal tray commonly used by the Lanna people of Northern Thailand. This will include varieties of Nam-Prik, which are selections of Thai chili paste commonly served with sticky rice and fresh vegetables. This is known as \"the uncommon serving\" of Thai style cuisine in the States. Let's step into this immersive experience that we can guarantee you have not encountered before.",
+    "lat": 40.757548110004,
+    "lng": -73.9695466869125,
+    "price": "48.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "Multi-Course Outdoor Balkan Feast // LIC",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Take a trip with Vlada & Ian to Eastern Europe with this multi-course Bulgarian feast in Long Island City, Queens.  Upon arrival guests will be greeted with a welcome cocktail followed by 5-courses of Bulgarian specialties and favorites that are well known to the country. Vlada, being a Bulgarian native, will walk the guests through the origin of each dish while putting her own spin on traditional recipes, and cultivating a unique experience in a fun and friendly atmosphere. Ian & Vlada love to host and meet new people and cannot wait to welcome you into their Long Island City home.\n\nPrepare for a pun-filled menu and bring any drinks, if you so desire!",
+    "lat": 40.74754081068166,
+    "lng": -73.95164912319943,
+    "price": "79.2",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "5-course Taste of Modern Northern Thai Cuisine // Midtown",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Step in the flavors of Northern Thailand in heart of NYC with this 5 course dinner. Guests will be served family-style dinner with selections of Northern Thai Cuisine that are uncommon in the States. These 5 courses range from starters - to - desserts. Guests can bring their own bottle of wine.",
+    "lat": 40.75788343273423,
+    "lng": -73.96863039491961,
+    "price": "96.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "SUMMIT One Vanderbilt",
+    "description": "",
+    "lat": 40.75270709999999,
+    "lng": -73.9785744,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Ocean Prime",
+    "description": "",
+    "lat": 40.7617438,
+    "lng": -73.98055649999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Plaza",
+    "description": "",
+    "lat": 40.764656,
+    "lng": -73.9744408,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Grand Central Terminal",
+    "description": "",
+    "lat": 40.752714,
+    "lng": -73.97722689999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York Bagel Tour // Bryant Park",
+    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>Experience New York like a native as you eat your way through three of the best bagel shops in the city!\n\nOn this tour, you'll eat bagels like never before as you explore the history of the iconic New York food.\n\nTour price is inclusive of food. You'll sample a variety of bagels, cream cheeses, and a classic sandwich like a BEC or a fully loaded lox! Everything is cut into \u00bc so you can sample a wide variety throughout the tour (traditional, vegetarian, and vegan options available).\n\nWe'll start at an award-winning shop making traditional hand-rolled, kettle-boiled bagels. From there, we'll indulge in the cr\u00e8me de la cr\u00e8me of cream cheese. Finally, we'll conclude with an innovative Montreal-New York hybrid style bagel.\n\nAs a licensed tour guide and bagel expert, Sam has designed this tour to provide visitors a quintessential New York experience, and local foodies a new perspective on a food synonymous within their city.\n\nThe private bagel tours are the ultimate team bonding experience, perfect for a corporate outing or offsite for up to 40 people. Sam and team will customize start time, locations, and mode of transportation for you. Message for more details.\n\nDon't see availability that works for you? Message the team and they will work something out!",
+    "lat": 40.75167470299356,
+    "lng": -73.99218669255002,
+    "price": "70.8",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "The Morgan Library & Museum",
+    "description": "",
+    "lat": 40.7492258,
+    "lng": -73.9813971,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Daniela Trattoria",
+    "description": "",
+    "lat": 40.7592446,
+    "lng": -73.9880362,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Joe's Pizza",
+    "description": "",
+    "lat": 40.7546287,
+    "lng": -73.9869994,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Seasonal Japanese Inspired Seafood Tasting Menu // Brooklyn",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Japanese-inspired seafood tasting menu, crafted with seasonal, locally-sourced vegetables and seafood with a touch of Japanese herbs and spices ! This 8 to 11-course seafood tasting menu that rotates seasonally; Menu is subject to change based on availability at the farmer's market. \n\nThis event is BYOB.",
+    "lat": 40.71622349536467,
+    "lng": -73.95534009004601,
+    "price": "106.25",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Chocolate Truffle Making Class in a Choc Factory // Williamsburg",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Virginia, our French chocolate expert will welcome you in her exceptional location in the Williamsburg neighborhood; a real chocolate factory /store/ coffeeshop. Upon arrival, you will be given either a hot or iced chocolate with a twist.  \nOnce warmed up and while getting to know each others you will be given the opportunity to admire the factory/store. \n\nYou will then be whisked away and given a brief history of chocolate while also learning about some of the processes involved with chocolate making.\n\nVirginia will then guide you through the \u201c Making Ganache\u201d demo, teaching you everything from scratch, as well showing you how to be creative with a traditional recipe.\n\nYou will then your own truffles while realizing how a simple recipe can be molded into something as unique as your imagination. Not only you will be able to add your own flavors and topping, but your own feelings into your personal creations.",
+    "lat": 40.721069021884404,
+    "lng": -73.95691788895198,
+    "price": "96.0",
+    "minimumDuration": "1 hour"
+  },
+  {
+    "name": "Chocolate Easter Thin Bark Making // Williamsburg",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Welcome to a lovely chocolate factory in the heart of Williamsburg. First you will be greeted by Virginia, our experienced French specialist who will guide you through the whole experience. You will be welcomed with an authentic hot or iced  chocolate with a twist. This may also be the perfect time to indulge in your favorite bottle if you feel the need to. (BYOB) \n\nYou will learn a little about the history of the brand which hails from the Dominican Republic .You will be whisked away through a brief history of chocolate which spans centuries, while also learning about some of the processes involved with chocolate making. \n\nVirginia will then guide you through the \u201cMaking Bar Demo\", teaching you everything from scratch, as well showing you  how to be creative with a traditional recipe. \n\nVirginia will be there with you every step of the way, entertaining you with fun facts and answers to all questions. ",
+    "lat": 40.7217109977227,
+    "lng": -73.95944010966828,
+    "price": "85.2",
+    "minimumDuration": "1 hour"
+  },
+  {
+    "name": "Doughnut & History Tour // Williamsburg",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>The Doughnut & History Tour of Williamsburg is the perfect way to explore the history, culture and sights of this iconic neighborhood. Starting at Doughnut Plant followed by a walk through McCarren Park, the tour will introduce participants to the vibrant and unique about the area's unique cultural heritage and the history behind its architectural and culinary landmarks.\n\nThe tour will take guests to four donut locations, where they can sample the delicious treats that have become synonymous with Brooklyn. These stops will feature the best donuts in the borough, from classic favorites to unique creations. Along the way, participants will learn about the history of the places they visit and gain a deeper appreciation for the area's culture and people.\n\nThe tour will conclude at Peter Pan Doughnuts, one of Brooklyn's most beloved donut shops. Guests will be able to purchase freshly made treats and learn more about the bakery's connection to the area. After a sweet and informative tour, guests will be sure to have a new appreciation for Brooklyn and a newfound love of its donuts.",
+    "lat": 40.71696622351125,
+    "lng": -73.95973078279393,
+    "price": "66.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "Multi-course Italian Dinner Party in the East Village (Wine Included) ",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Experience Italian Comfort in the East Village.<br>What to expect:<br><br>        \u2022 5-course Italian classics<br>\t\u2022 Wine included, guests are encouraged to BYOB<br>\t\u2022 Known for its artistic vibes and posh boutiques, the East Village is a must-visit neighborhood in New York <br>        \u2022 Communal table that seats 10<br>\t\u2022 Can cater to vegetarian options upon request<br><br>About your Host Matteo:<br><br>\"Born in the countryside of Milan, I acquired a passion for urban farming, nature and cooking (of course!). Join me in the popular New York neighborhood of the East Village and get a taste of real Italian classics.\"",
+    "lat": 40.726985068999305,
+    "lng": -73.98480862288854,
+    "price": "78.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "1 pm Turkish Coffee + Fortune Telling Experience in the East Village ",
+    "description": "Turkish coffee reading is an authentic tradition dating back to the Ottoman empire of the 1600s. After drinking this sweet, espresso-like coffee, it is customary to read one's fortune from the remaining coffee grinds.\n\nWhat to expect:\n\u2022 Turkish style coffee prepared on a pot of hot burning sand\n\u2022 A visual fortune-telling experience unlike any other. Your coffee grinds are interpreted right before your eyes!\n\u2022 These readings are always fun, light-hearted, but most importantly - insightful!\n\u2022 Handcrafted JuJu Turkish Delights & sweets offered\n\u2022 A unique gift to take home by Dr. Honeybrew\n\n*Per Turkish tradition, each session will consist of 6-8 guests*",
+    "lat": 40.72332976516775,
+    "lng": -73.97938334711903,
+    "price": "51.84",
+    "minimumDuration": "1 hour 30 minutes"
+  },
+  {
+    "name": "Brooklyn Pizza Walk in Williamsburg",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>On my Brooklyn Pizza Walk, I am showing you the most eclectic neighborhood in Brooklyn: Williamsburg! While we're walking through this trendy neighborhood, I'll introduce you to five very different styles of pizza. You'll find out what makes each of this pizzerias special, and you'll learn about the history of pizza in New York City.<br>This tour includes:<br><br>-Six different types of pizza in five pizza shops<br>-A guided tour of Williamsburg, Brooklyn<br>-Lots of interesting pizza history, trivia and facts!",
+    "lat": 40.71759780036752,
+    "lng": -73.95894778527398,
+    "price": "42.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "East Village Ice Cream Crawl // Lower East Side",
+    "description": "Discover a different side to a city on an immersive food walk and market tours. Our local hosts will show you all their favorite places to eat, drink and have fun!<br><br>* All ice cream included *\n\nToasted Sesame Nutella. Salty Caramel. Honey Comb. Cereal Milk. Peppermint Chocolate. Brooklyn Brown Sugar Chunk. Thai Iced Tea. Earl Gray Tea. Oreo Cookie Dough. Cake Batter. Ginger. \n\nWe stop at six different world-class New York City ice cream shops on this 1.5 mile 1.5 hour tour. At each ice cream store we'll explore the story behind the business and see what makes these frozen desserts unique as you savor every flavor. You'll learn about an ex drug dealer who turned his life around through culinary creativity, an ice cream shop that's been passed down in a family through generations, and a translator who found her real calling. A picture is worth a thousand words, but a scoop of ice cream tells a story.\n\nWhile exploring the East Village we hit the best ice cream shops and taste no fewer than 12 flavors based on a mix of my experience and your interest.\n\n",
+    "lat": 40.72772213417893,
+    "lng": -73.98854947585339,
+    "price": "54.0",
+    "minimumDuration": "1 hour 30 minutes"
+  },
+  {
+    "name": "Chocolate Mousse Making Class // Williamsburg",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Upon arrival, Virginia, our French chocolate expert will welcome you with a hot or iced chocolate with a twist and once warmed up while getting to know others - you'll be given the opportunity to admire the factory/store. \n\nVirginia will then guide you through the \u201c Making \u201dDemo, teaching you everything from scratch, as well showing you  how to be creative with a traditional recipe.\n\nYou will then make your own creation, while soon realizing how a simple recipe can be molded into something as unique as your imagination. Not only will you be able to add your own flavors and toppings, but your own feelings into your personal creations.\n\nVirginia will be there every step of the way, entertaining you with fun facts and answers to all your questions.\n\nThen, if time is on our side you will be whisked for an amazing tour!\n",
+    "lat": 40.72027779694239,
+    "lng": -73.95674728323687,
+    "price": "84.0",
+    "minimumDuration": "1 hour"
+  },
+  {
+    "name": "Learn How To Make Authentic Fresh Pasta // East Village",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Experience a taste of Italy in the East Village with host Rachael. Each guest will learn how to make fresh pasta from start to finish in her beautiful pre-war apartment and everyone will work together to pick a custom pasta shape and sauce for dinner with a seasonal appetizer. Please BYOB! \n\nWhether it's a date night, girls night out, or you're just trying something new you will take away skills that you can surely use to impress your next dinner party, family and friends!",
+    "lat": 40.72798745574796,
+    "lng": -73.98010072521112,
+    "price": "72.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "Chocolate Bonbon making in a chocolate factory // Williamsburg",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Upon arrival, Virginia, our French chocolate expert will welcome you with a hot or iced chocolate with a twist and once warmed up while getting to know others - you'll be given the opportunity to admire the factory/store. \n\nVirginia will then guide you through the \u201c Making \u201dDemo, teaching you everything from scratch, as well showing you  how to be creative with a traditional recipe.\n\nYou will then make your own creation, while soon realizing how a simple recipe can be molded into something as unique as your imagination. Not only will you be able to add your own flavors and toppings, but your own feelings into your personal creations.\n\nVirginia will be there every step of the way, entertaining you with fun facts and answers to all your questions.\n\nThen, if time is on our side you will be whisked for an amazing tour!",
+    "lat": 40.72201060952584,
+    "lng": -73.95897936387341,
+    "price": "240.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Turkish Coffee & Fortune Telling // East Village ",
+    "description": "Turkish coffee reading is an authentic tradition dating back to the Ottoman empire of the 1600s. After drinking this sweet, espresso-like coffee, it is customary to read one's fortune from the remaining coffee grinds.\n\nJoin Dr. Honeybrew in his quirky East Village apartment for a visual fortune-telling experience like no other. Your coffee grinds are interpreted right before your eyes! These readings are always fun, light-hearted, but most importantly - insightful! Enjoy handcrafted JuJu Turkish Delights & sweets with Turkish style coffee, prepared on a pot of hot burning sand, and go home with a unique gift to take home from Dr. Honeybrew.\n\n*Per Turkish tradition, each session will consist of 6-8 guests*",
+    "lat": 40.724160027587516,
+    "lng": -73.97969276293739,
+    "price": "51.84",
+    "minimumDuration": "1 hour 30 minutes"
+  },
+  {
+    "name": "Handcrafted Chocolate Bar Making // Williamsburg",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>You will be greeted by Virginia, our experienced French specialist who will guide you through the whole night.\n\nYou will be whisked away for a brief history of chocolate while also learning about some of the processes involved in chocolate making.\n\nVirginia will then guide you through the \u201c Making Bar DEMO, teaching you everything from scratch, as well showing you how to be creative with a traditional recipe. (piping, decor, mold, tempering..) \n\nVirginia will be there every step of the way, entertaining you with fun facts and answers to all your questions.\n\nBYOB bring your own bottle of wine or beer.",
+    "lat": 40.72134208081615,
+    "lng": -73.95798698091991,
+    "price": "108.0",
+    "minimumDuration": "1 hour 30 minutes"
+  },
+  {
+    "name": "One World Trade Center",
+    "description": "",
+    "lat": 40.7127431,
+    "lng": -74.0133795,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York Classic - Doors Off",
+    "description": "<p>This expanded <strong>30-minute doors-off</strong> helicopter flight allows you to customize your flight path and cover all of <strong>Manhattan</strong> at once for the ultimate NYC aerial photography experience.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>Take off from <strong>New Jersey</strong> and enjoy the breathtaking views of New Jerseys skyline. After a safety briefing and pre-flight check, you&#39;ll embark on your 30-minute adventure.&nbsp;&nbsp;</p><br><br><p>&nbsp;</p><br><br><p><u>On the program</u>:&nbsp;</p><br><br><ul><br>\t<li><br>\t<p><strong>Statue of Liberty</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Chrysler Building&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Battery Park</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Ellis Island</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Wall St&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Freedom Tower&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>9/11 Memorial&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The Oculus</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Lower Manhattan Monet Shot</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Brooklyn Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Empire State Building&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Midtown</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Times Square</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The Vessel</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Central Park</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The Bronx</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Yankee Stadium&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Hudson River&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>New Jersey Shoreline</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The Palisades&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>New York Harbor&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Jersey City</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The George Washington Bridge&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>And more!&nbsp;</strong></p><br>\t</li><br></ul><br><br><p>&nbsp;</p><br><br><p>So what are you waiting for? Book your doors-off sightseeing helicopter flight today and don&#39;t forget your camera!&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>&nbsp;</p><br><br><p><strong>Show up 1h15&nbsp;before takeoff for check-in.</strong></p><br><br><p><em>Take the NJ Path train to Journal Square in Jersey City or NJ Transit to Newark Penn Station, then take an Uber or cab to the hangar</em>.</p><br><br><p>&nbsp;</p>",
+    "lat": 40.7243283,
+    "lng": -74.1094976,
+    "price": "810.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Doors off helicopter New York",
+    "description": "<p>Considering a doors-off photo flight above NYC, but never been in a helicopter before? We have the perfect trial run for you to test the air and soar above the southern tip of Manhattan. The iconic shots you know so well from movies and TV are now yours for the taking. Book your seat on the&nbsp;<strong>NYC Intro</strong>&nbsp;flight: a 16-minute&nbsp;<strong>doors-on</strong>&nbsp;flight that delivers Lady Liberty, Ellis Island, the Freedom Tower, and the historic waterfront of Battery Park. Whether you are capturing photos or simply enjoying the view, these gems of New York Harbor will captivate your senses and leave a lasting impression</p>\r\n\r\n<ul>\r\n\t<li>Statue of Liberty</li>\r\n\t<li>Ellis Island</li>\r\n\t<li>Governor&rsquo;s Island</li>\r\n\t<li>Freedom Tower</li>\r\n\t<li>Brooklyn Bridge</li>\r\n\t<li>Verrazano-Narrow Bridge</li>\r\n\t<li>Lower Manhattan</li>\r\n\t<li>And so much more&hellip;</li>\r\n</ul>\r\n\r\n<p>After seeing the skyline from this&nbsp;<strong>unique vantage point</strong>&nbsp;and feeling the comfort and security of our award-winning safety protocol, we know you will be back for more! You might even opt for the doors off next time!</p>\r\n\r\n<p>Come on&hellip;what are you waiting for?</p>\r\n\r\n<p><strong>All passengers need to arrive&nbsp;1 hour and 15-minutes&nbsp;prior to their flight.</strong></p>\r\n\r\n<p><strong>Book your 16-minute flight</strong>&nbsp;today and we&rsquo;ll take care of the rest.</p>",
+    "lat": 40.7243283,
+    "lng": -74.1094976,
+    "price": "285.75",
+    "minimumDuration": ""
+  },
+  {
+    "name": "9/11 Ground Zero Tour",
+    "description": "",
+    "lat": 40.7113389,
+    "lng": -74.0090029,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Feast of San Gennaro",
+    "description": "The Feast of San Gennaro, dubbed \"The Feast of all Feasts,\" celebrates the life of San Gennaro of Naples who was the Bishop of Benevento, Italy. In 1926, a one-day block party continued year after year into something that has now and for decades become not only a New York icon but a world-known 11-day event that stretches throughout 11 blocks of Little Italy's neighborhood.",
+    "lat": 40.72033,
+    "lng": -74.00556,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Village Halloween Parade",
+    "description": "Hailed as the largest celebration of its kind, the Annual Village Halloween Parade draws over 60,000 costumed participants each year. The parade will stimulate all your senses as thrilling and eye-catching costumes, puppets, and floats are showcased to celebrate Halloween. Participate in the parade or join over two million spectators and watch in excitement as the costumes and floats slink by at the Annual Village Halloween Parade.",
+    "lat": 40.72192,
+    "lng": -74.00532,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Kimika",
+    "description": "",
+    "lat": 40.72054989999999,
+    "lng": -73.9951805,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Empire State Building",
+    "description": "",
+    "lat": 40.7484405,
+    "lng": -73.98566439999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New Museum",
+    "description": "",
+    "lat": 40.7223376,
+    "lng": -73.9928905,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "TKTS Times Square",
+    "description": "",
+    "lat": 40.7591682,
+    "lng": -73.984939,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Bond 45 NY",
+    "description": "",
+    "lat": 40.7592458,
+    "lng": -73.98629249999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Los Tacos No.1",
+    "description": "",
+    "lat": 40.7573133,
+    "lng": -73.98740649999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New Year\u2019s Eve at Times Square",
+    "description": "Watching the ball dop each year as the clock nears midnight on December 31, is more than just a celebration -- it's a global tradition. Experience the dazzling lights and bustling energy of Times Square while the world counts down at the symbolic center of New York City. ",
+    "lat": 40.75889,
+    "lng": -73.98482,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "RiseNY",
+    "description": "",
+    "lat": 40.75762069999999,
+    "lng": -73.98517609999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Times Square Church",
+    "description": "",
+    "lat": 40.7624398,
+    "lng": -73.9841342,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Friedman\u2019s At The Edison",
+    "description": "",
+    "lat": 40.7596825,
+    "lng": -73.98635039999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Intrepid Sea, Air & Space Museum",
+    "description": "",
+    "lat": 40.7645266,
+    "lng": -73.99960759999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York Helicopter",
+    "description": "<p>Welcome to the <strong>Great Flight of New York</strong>, you have already visited the city countless times, seen and visited the buildings, the most attractive monuments.</p><br><br><p>But have you ever visited New York from the air? We offer you a unique experience with this<strong> 28 minute</strong> helicopter tour. &nbsp;</p><br><br><p>With constantly changing lighting conditions and customized itineraries, the flights are never the same twice.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p><u>On the program</u>:</p><br><br><ul><br>\t<li><br>\t<p><strong>Statue of Liberty</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Ellis Island &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The Jenga Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Yankee Stadium</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Governor&#39;s Island</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Brooklyn Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Manhattan Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Verrazano-Narrow Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Williamsburg Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Queensboro Bridge</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Battery Park</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Freedom Tower</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Financial District</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Flatiron Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Oculus</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>9/11 Memorial</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Wall Street</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Hudson Yards</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Times Square</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Central Park</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Empire State Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Chrysler Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>United Nations Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Roosevelt Island</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>The New Yorker Building</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Madison Square Garden</strong></p><br>\t</li><br></ul><br><br><p>&nbsp;</p><br><br><p>What are you waiting for?&nbsp;</p><br><br><p>Book your flight today and we&#39;ll take care of the rest.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>&nbsp;</p><br><br><p><strong>Show up 1 hour and 15 minutes before departure for check-in</strong>.</p><br><br><p><em>Take the NJ Path train to Journal Square in Jersey City or NJ Transit to Newark Penn Station, then take an Uber or cab to the hangar.</em></p>",
+    "lat": 40.7243283,
+    "lng": -74.1094976,
+    "price": "670.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Madison Square Park",
+    "description": "",
+    "lat": 40.7421893,
+    "lng": -73.98799129999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Harlem Week",
+    "description": "",
+    "lat": 40.71451,
+    "lng": -74.00602,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York helicopter tour",
+    "description": "<p>Take on the world&#39;s most iconic flight: <strong>NEW YORK.&nbsp;</strong></p><br><br><p>&nbsp;</p><br><br><p>Embark on a flight over Manhattan. Your trip to New York wouldn&#39;t be&nbsp;complete without flying over <strong>the Statue of Liberty,</strong> one of New York&#39;s top tourist spots! You&#39;ll fly over <strong>New York Harbor,</strong> the 150-year-old <strong>Brooklyn Bridge</strong>, <strong>South Street Harbor,</strong> <strong>Governors Island,</strong> and <strong>Ellis Island</strong>.</p><br><br><p>&nbsp;</p><br><br><p>You will continue towards <strong>Hudson</strong> and enjoy incredible views of downtown Manhattan such as the<strong> Chrysler </strong>and<strong> Empire State Buildings, Chelsea Piers, Jacob Javits Convention Center, Intrepid Sea, Air and Space Museum </strong>and<strong> Central Park.&nbsp;</strong>The return flight will be to the iconic <strong>One World Trade Center.&nbsp;</strong></p><br><br><p>&nbsp;</p><br><br><p>Enjoy an incredible <strong>15 minutes</strong> flight to New York&#39;s must-see attraction.</p>",
+    "lat": 40.7105825,
+    "lng": -73.9807262,
+    "price": "255.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Una Cena Italiana: An Italian Feast // Park Slope",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Italian-inspired feast with locally-sourced ingredients used to cater to the season! Stacia, will begin the evening with light bites and a welcome cocktail followed by an additional 3 - courses. Come dine with friends or come alone to meet new friends, anyone is welcome at the table. Please be sure to arrive with your appetite! \n\nThis event is BYOB!\n",
+    "lat": 40.67457267753472,
+    "lng": -73.97780693140707,
+    "price": "78.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Winter Raclette ",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>This dinner is an interactive, traditionally French meal where raclette cheese is melted on a grill and served alongside crispy potatoes, charcuterie and vegetables. This is a cultural experience you won't want to miss!\n\nWhat to expect:\nThis is an interactive French meal where we melt our raclette cheese on the grill alongside veggies, charcuterie,  crispy potatoes, and fresh baguette. This is a typical winter meal to occurs in the Alps and the French countryside. It is a cultural experience you won't want to miss! Please feel free to bring wine to accompany the experience!",
+    "lat": 40.67745588870868,
+    "lng": -73.94320208074575,
+    "price": "78.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Handmade Italian  Pasta Cooking Class // Brooklyn",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Do you want to know how to cook a real fresh Italian pasta with all the tricks that made Italy the country of Pasta? I\u2019m going to teach you all the knowledge that my family (especially my grandmother) passed down to me since I was very little. \n\nWe are going to start off with touching and knowing the right ingredients (imported from Italy), and then get ready to get your hands really dirty! We are going to prepare two kinds of pasta: tortelli filled with fresh local ricotta and spinach, and tagliatelle.  While mixing with your hands, we cheers with unlimited wine to good food and good company! While we are waiting for the pasta dough to rest we will enjoy a real Italian aperitivo with a charcuterie board. Salute!\n\nBoth the hosts are covid 19 vaccinated (both doses - Moderna vaccine) \nIf you feel sick or you have been in contact with somebody with Covid-19 stay home please .\nI will sanitize the workspace and restroom space prior to the class, but keep in mind there is only one bathroom.\n\nTo finish off the evening we are going to dine with your just made fresh pasta. \n\nThis class can\u2019t be suitable for Gluten Free. \n\nIs this your first Eatwith experience? Use the code 06AB9560 to get 12$ off at checkout! \n\nAbout your host Michela:\n\u201cI moved to Brooklyn into my husbands\u2019 grandparents\u2019 100-year-old home from my home town in Brisighella, Italy, right out Tuscany. My perspective of food is ancient and respectful of each ingredient I use in my meals, just as my grandparents taught me. Guests can expect homemade family recipes passed down through the ages.\u201d\n\n",
+    "lat": 40.60842166161429,
+    "lng": -73.98457525451244,
+    "price": "102.0",
+    "minimumDuration": "4 hours"
+  },
+  {
+    "name": "5-Course Mexican Feast with Wine & Mezcal Pairing in Brooklyn",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Michelin-trained Chef duo Pablo and Roxy invite you in to their home for a 6-course contemporary Mexican feast with Mexican wine and mezcal pairings in the heart of Brooklyn. The menu changes seasonally based on what is available at local markets. Can cater to vegetarian, vegan, and gluten free diets. A free pick-up and drop-off service is offered from the King's Highway Station to the chefs home. <br>",
+    "lat": 40.60654845689184,
+    "lng": -73.96335817832731,
+    "price": "138.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "A Social Dinning Experiment Around The World!",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Indulge in a social dining experience that will take you around the world.  Professionally trained Chef Marie will give you a crash course in 5 different cultures. You will experience a 5 - course tasting menu specializing and focusing on seasonal favorites. For each course, you will experience the taste of a different culture with an optional wine pairing that will surely have your taste buds dancing. This will be an experience that will leave you in awe and wanting to come back for more. This experience will in a decorated venue space with lots of lights and music.<br>About Marie:<br>Chef Marie, has always had a passion for culinary arts and has worked in a numerous restaurants under many execute chefs serving different kinds of cuisines. She has had several chef mentors, and has performed in restaurant showcases. She continues to pursue her dreams by providing authentic dishes to family, friends, and people in her local community. ",
+    "lat": 40.627479989012144,
+    "lng": -73.9308932440052,
+    "price": "108.0",
     "minimumDuration": "3 hours 30 minutes"
   },
   {
-    "name": "Restaurant L'Eau Vive",
-    "description": "",
-    "lat": 41.89777780000001,
-    "lng": 12.4755556,
-    "price": "",
-    "minimumDuration": ""
+    "name": "Six Sensational Courses In A Modern Brooklyn Studio",
+    "description": "The Pimento experience and studio highlights the traditional aesthetics of Caribbean cuisine by presenting a new wave of seasonal dishes. The family-style menu is a modern take on a Caribbean family dinner featuring a curated medley of seasonal produce and fresh ingredients. To compliment the experience, Chef Tiyan has paired signature beverages to mirror the menu, which allows the distinct flavors to shine.<br>\u2022 Family-style menu<br>\u2022 Seasonal produce and fresh ingredients<br>\u2022 Paired signature beverages to mirror the menu<br>\u2022 Enjoy a 6-course meal in a modern culinary studio<br><br>About your host, Toya: undefined",
+    "lat": 40.67862193335382,
+    "lng": -73.95430967371104,
+    "price": "150.0",
+    "minimumDuration": "4 hours 30 minutes"
   },
   {
-    "name": "Roman Forum",
-    "description": "",
-    "lat": 41.8924623,
-    "lng": 12.485325,
-    "price": "",
-    "minimumDuration": ""
+    "name": "Oyster Hour on Pier 44 in Red Hook",
+    "description": "Enjoy fresh, local oysters against a backdrop of the New York City skyline. Pier 44 is located in Brooklyn on the Hudson River, near the Waterfront Museum, Red Hook Winery, and walking distance from the Red Hook Ferry. Learn about the history of oysters in NYC while indulging a variety oyster raw bar from Long Island and the northeastern coast.",
+    "lat": 40.6769037728339,
+    "lng": -74.01736791561348,
+    "price": "72.0",
+    "minimumDuration": "1 hour 30 minutes"
   },
   {
-    "name": "Pizza day in the countryside",
-    "description": "Fulvia and her family live in a 1920s house in the Roman countryside with an amazing garden. Join them for an organic, homemade, typical Italian meal made with the vegetables picked directly from their garden.\n\nTheir house is away from the noise of the city; it's a place where you can relax and breath in the fresh country air. If you're looking for an authentic experience with an Italian family and to eat delicious wood oven pizza, then this experience is for you!",
-    "lat": 42.02995088587192,
-    "lng": 12.373015166287573,
-    "price": "60.0",
+    "name": "No Diet Club: Best Food in Downtown Brooklyn // Cobble Hill",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>After shining light on the best foods all over Europe since 2017, your favorite group of French foodies at the No Diet Club have decided to expand across the pond.\n\nGuided by a local foodie, this tour features a 4 hour tribute to NYC\u2019s most iconic and historically relevant foods such as finest ingredients pizza by the slice, chopped cheese, authentic beef patties, fluffy doughnuts and many more, as well as a gorgeous stroll among the historical Brownstone townhomes in the culturally eclectic borough of Brooklyn.\n\nTastings may vary with the seasons / vegetarians are welcome\n\nWhat we offer \u2714\n\n- Many tastings to share\n- Calories\n- A nice walk in Brooklyn\n- What locals eat\n- Lots of fun\n- Funny/bad jokes\n- Pictures and souvenirs\n- Smiles\n- A list of serious recommendations in NYC\n- New friends from all around the world",
+    "lat": 40.69028931410518,
+    "lng": -73.99362752304934,
+    "price": "80.4",
     "minimumDuration": "4 hours"
+  },
+  {
+    "name": "Brooklyn Botanic Garden",
+    "description": "",
+    "lat": 40.66951299999999,
+    "lng": -73.962381,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Fly high for an extended view of the city",
+    "description": "<p>Fly high for an extended view of the city.</p><br><br><p>The<strong> Big Apple</strong> tour includes all the spectacular views you&#39;ll see in <strong>The Manhattan</strong>, with the addition of the stunning vistas of the <strong>New Jersey Palisades</strong>, the engineering marvel of the double-decker <strong>George Washington Bridge </strong>and more.&nbsp;</p><br><br><p><u><strong>On the program:</strong></u></p><br><br><ul><br>\t<li><br>\t<p><strong>Central Park</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Columbia University&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Yankee Stadium (unavailable during games)&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>New Jersey Palisades&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>George Washington Bridge&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Statue of Liberty&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Freedom Tower&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Chrysler Building&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Empire State Building&nbsp;</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Chelsea Piers</strong></p><br>\t</li><br>\t<li><br>\t<p><strong>Intrepid Sea, Air &amp; Space Museum&nbsp;</strong></p><br>\t</li><br></ul>",
+    "lat": 40.7015101,
+    "lng": -74.0091494,
+    "price": "230.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Multi-Course Mexican Tasting Menu // Harlem",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Professional Chef Karina and husband Lalo welcome you in to their home for a multi-course Mexican tasting menu. Karina's experience brings the vibrant flavors and sounds of Mexico to life in the heart of Harlem. Get a taste of traditional Mexican cuisine without leaving NYC!\n\nThe intimate experience kicks off with a spicy mezcal margarita with smoked salt, before guests are seated around Karina's communal dining table. The multi-course tasting menu is prepared with love, using imported ingredients from Mexico and locally sourced produce from Union Square Market. Karina is a true story-teller and will regale you with tales of her trips to Mexico and share the inspirations behind each dish.\n",
+    "lat": 40.81258727175613,
+    "lng": -73.95251820178565,
+    "price": "108.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "New York Presbyterian Hospital-Columbia: Cancer Center",
+    "description": "",
+    "lat": 40.8399581,
+    "lng": -73.9420394,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Japanese/American-style Sushi Workshop // Upper East Side",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Professional Chef Diego invites you to his beautiful Upper East Side apartment for a hands-on, interactive cooking class, learning to make the very best Sushi in the city!\n\nEach guest will have their own work station and tools, as well as ingredients. Diego will teach you step-by-step how to make the perfect sushi - from making the sushi rice, to cutting the fish, to rolling the sushi. You will make salmon rolls, seasonal nigiri and sashimi.\n\nAfter rolling and mastering your sushi technique, guests will sit down and enjoy their sushi creations. This is perfect for date nights as well as groups of friends. Don't miss out on this incredible experience!\n",
+    "lat": 40.78142314448445,
+    "lng": -73.95158938186938,
+    "price": "120.0",
+    "minimumDuration": "2 hours 30 minutes"
+  },
+  {
+    "name": "Chinese Dumplings Cooking Class // Upper East Side",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Professional Chef Diego invites you to his beautiful Upper East Side apartment for a hands-on, interactive cooking class, learning to make the very best Chinese Dumplings in the city!\n\nEach guest will have their own work station and tools, as well as ingredients to make this beautiful yet delicious labor of love. Diego will take you step-by-step in mastering the gentle art of preparing and folding dumplings as well as learning how to make the other half of the dumpling - the dipping sauce. Diego will share his top tips and trick in the kitchen and teach you important knife skills.\n\nYou will make TWO types of dumplings - one pork filled and one vegetarian, and he will show you how to prepare them fried and steamed.",
+    "lat": 40.78028630214485,
+    "lng": -73.95255052256624,
+    "price": "120.0",
+    "minimumDuration": "2 hours 30 minutes"
+  },
+  {
+    "name": "Homemade Gnocchi Workshop // Upper East Side",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Professional Chef Diego invites you to his beautiful Upper East Side apartment for a hands-on, interactive fun cooking class, learning to master the technique of making a classic potato gnocchi dough recipe from start to finish.\n\nEach guest will have their own work station and tools, as well as ingredients. Diego will teach you step-by-step how to form\nthe perfect potato gnocchi accompanied with two seasonal sauces: a mushroom sauce and a herb & garlic butter sauce.   \n\nDiego will provide special tips to give your gnocchi that special, professional-level touch that will surely surprise your family and friends at your next dinner party.\n\nAt the end of class, you will sit down to enjoy your handmade gnocchi paired with each type of sauce. This is perfect for date nights as well as groups of friends. Don't miss out on this incredible experience!",
+    "lat": 40.780381089798695,
+    "lng": -73.95263923309182,
+    "price": "120.0",
+    "minimumDuration": "2 hours 30 minutes"
+  },
+  {
+    "name": "Peruvian Ceviche Cooking Class // Upper East Side",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Professional Chef Diego invites you to his beautiful Upper East Side apartment for a hands-on, interactive cooking class, learning his take on traditional Peruvian ceviche.\n\nEach guest will have their own work station and tools, as well as ingredients. Diego will teach you how to select the perfect cut of fish as well as break it down, the vegetables and ingredients and many special tips and secrets on how to create your  perfect ceviche dish.\n\nYou will also be taught how to make Leche de Tigre, which is made from the scraps of the ceviche dish. There is no waste in host Diego's kitchen.\n\nAt the end of class, you will sit down to enjoy your ceviche dish  paired with the Leche De Tigre. This is perfect for date nights as well as groups of friends. Don't miss out on this incredible experience!",
+    "lat": 40.78003361090721,
+    "lng": -73.95069943065043,
+    "price": "125.0",
+    "minimumDuration": "3 hours 30 minutes"
+  },
+  {
+    "name": "Lenox Hill Hospital",
+    "description": "",
+    "lat": 40.7739364,
+    "lng": -73.9609812,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Solomon R. Guggenheim Museum",
+    "description": "",
+    "lat": 40.7829796,
+    "lng": -73.9589706,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Frick Collection",
+    "description": "",
+    "lat": 40.7713438,
+    "lng": -73.96725409999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Metropolitan Museum of Art",
+    "description": "",
+    "lat": 40.7794366,
+    "lng": -73.963244,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Museum of the City of New York",
+    "description": "",
+    "lat": 40.7924939,
+    "lng": -73.95190889999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "5th Avenue",
+    "description": "",
+    "lat": 40.7751052,
+    "lng": -73.9651148,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Hong Kong Dragon Boat Festival",
+    "description": "",
+    "lat": 40.75276,
+    "lng": -73.8519,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Coney Island",
+    "description": "",
+    "lat": 40.5755438,
+    "lng": -73.9707016,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Statue of Liberty",
+    "description": "",
+    "lat": 40.6892494,
+    "lng": -74.04450039999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York Botanical Garden",
+    "description": "",
+    "lat": 40.8614705,
+    "lng": -73.8809242,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Red Flame",
+    "description": "",
+    "lat": 40.756077,
+    "lng": -73.982699,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Bryant Park",
+    "description": "",
+    "lat": 40.7535965,
+    "lng": -73.9832326,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Discover Manhattan from the sky !",
+    "description": "<p>Take to the air for an unforgettable view of the city that never sleeps.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>Soar over<strong> Manhattan</strong>&#39;s skyline to see the beauty of the city, from an up-close view of <strong>Lady Liberty</strong> to the breathtaking sight of the <strong>Freedom Tower</strong>.&nbsp;</p><br><br><p>&nbsp;</p><br><br><p>Your flight will take you up to the <strong>Hudson River</strong> for an aerial view of Manhattan&#39;s <strong>most famous sites</strong>, including :&nbsp;</p><br><br><p>&nbsp;</p><br><br><ul><br>\t<li><br>\t<p>Statue of Liberty&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Ellis Island</p><br>\t</li><br>\t<li><br>\t<p>Freedom Tower&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Chrysler Building&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Empire State Building&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Chelsea Piers&nbsp;</p><br>\t</li><br>\t<li><br>\t<p>Intrepid Sea, Air &amp; Space Museum&nbsp;</p><br>\t</li><br></ul>",
+    "lat": 40.7015101,
+    "lng": -74.0091494,
+    "price": "215.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Taquiza",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Enjoy this first ever taquiza in NY by the owners of Taqueria Chingon, arguably one of the best taco shops in Illinois! They are here for one weekend only!<br>Hosted by Eric, local foodie and taco addict eager to share some taco knowledge with you! <br><br>Spacious & private outdoor space. An ever growing plant collection that is a great contrast to the industrial area our apartment is located in!",
+    "lat": 40.70392172794292,
+    "lng": -73.92944649812344,
+    "price": "72.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Traditional Turkish Brunch // Bed-Stuy",
+    "description": "Join host Shycook for this traditional Turkish brunch in the heart of Bed-Stuy, Brooklyn. All charcuterie is imported directly from Turkey with the exception of the jams that are homemade with locally - sourced ingredients. The pastries are also homemade with traditional Turkish ingredients. This experience is a family - style setting with shared plates. \n\n",
+    "lat": 40.68672634245571,
+    "lng": -73.95009230072219,
+    "price": "78.0",
+    "minimumDuration": "2 hours"
+  },
+  {
+    "name": "Cooking Without a Recipe: Class & Tasting // Bed-Stuy",
+    "description": "What better way to explore a city than by discovering its cuisine first hand? Put on a chef's hat for the day and learn how to make classic dishes, local specialties and impressive plates with our expert hosts. Sign up for one of our fun, immersive cooking classes and discover a new hidden talent!<br><br>Chef Courtney teaches you how to cook with \u201cself-possession\u201d\u2014in other words, don\u2019t just follow recipes, understand how to build flavor and create texture with any basket of ingredients. \n\nChef Courtney was an instructor at the Chef Studio, the lauded cooking school of her late mentor Robert Reynolds.  You will learn not only from Chef Courtney\u2019s experience as chef/owner of Din Din, but from Chef Reynold\u2019s years of study with celebrated French chef Madeline Kamman.\n\nWe will:\nSit to review what we\u2019ll be cooking\nCook each dish hands-on in teams, including group-wide demonstrations of each key element\nSit to taste what we cooked, discussing what we learned\n\nWine and sparkling mineral water included!",
+    "lat": 40.68778112156027,
+    "lng": -73.94664235023102,
+    "price": "108.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Mexican Tapas and Craft Cocktails Experience in BK",
+    "description": "Join the latest culinary trend of immersive and social dining where local hosts invite you into their homes for a magical meal.<br><br>Happy Hour on a Brooklyn Rooftop!<br>Celebrate summer with tasty grilled Mexican tapas inspired by Chef Gabriel travels in Mexico; and enjoy tequila craft cocktails tasting shaken by acclaimed mixologist Gaston Ron. <br>What to expect:<br>\u2022 Enjoy Mexican tapas with a modern twist! <br>\u2022 Welcomed with your choice of 3 Tequila Craft cocktails <br>\u2022 Beautiful cozy Brooklyn rooftop in Bed Stuy<br>\u2022 Lounge setting, pass around tapas, have fun with friends or make new ones. Great for groups of 4 or larger<br>\u2022 Wrap-up your evening with homemade flan <br>\u2022 Casual atmosphere - mi casa es tu casa - feel like at home!<br>",
+    "lat": 40.6923811714637,
+    "lng": -73.95403895902656,
+    "price": "90.0",
+    "minimumDuration": "3 hours"
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "description": "",
+    "lat": 40.7060855,
+    "lng": -73.9968643,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Wollman Rink",
+    "description": "",
+    "lat": 40.7677792,
+    "lng": -73.9744673,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Gossip Girl Tour",
+    "description": "",
+    "lat": 40.76480189999999,
+    "lng": -73.9764957,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Top of The Rock",
+    "description": "",
+    "lat": 40.75934950000001,
+    "lng": -73.9794087,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Museum of Modern Art",
+    "description": "",
+    "lat": 40.7614327,
+    "lng": -73.97762159999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Junior's Restaurant & Bakery",
+    "description": "",
+    "lat": 40.75754679999999,
+    "lng": -73.9860788,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "St. Patrick's Cathedral",
+    "description": "",
+    "lat": 40.7586117,
+    "lng": -73.9761953,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New York deluxe flight - Manhattan",
+    "description": "<p>Take a <strong>30-minute </strong>helicopter tour of <strong>New York City</strong>. This flight offers an aerial view of Manhattan and its surroundings.</p><br><br><p>&nbsp;</p><br><br><p>Take off in a southerly direction where you will fly over <strong>the Verrazzano Bridge</strong>, the longest suspension bridge in America that connects Brooklyn and Staten Island. You can spot Coney Island in the distance before turning around for a spectacular view of Manhattan across<strong> New York Harbor.&nbsp;</strong></p><br><br><p>Enjoy an incredible view of <strong>the Statue of Liberty </strong>and the splendid architecture of <strong>the Chrysler Building</strong>, from <strong>the Empire State Building</strong>. You will continue north to New York&#39;s most famous neighborhood, passing the<strong> George Washington Bridge </strong>which connects Manhattan and New Jersey.</p><br><br><p>Explore the expanse of the 5 boroughs as you descend Hudson past <strong>Yankee Stadium, Central Park, Intrepid Sea, Air &amp; Space Museum </strong>and<strong> One World Trade Center </strong>to<strong> New York Harbor</strong>.</p><br><br><p>&nbsp;</p><br><br><p>New York&#39;s most comprehensive flight. Memorable memories guaranteed!</p>",
+    "lat": 40.7105825,
+    "lng": -73.9807262,
+    "price": "375.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Brooklyn Bridge Park",
+    "description": "",
+    "lat": 40.69914959999999,
+    "lng": -73.9976004,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Manhattan Bridge",
+    "description": "",
+    "lat": 40.7074959,
+    "lng": -73.99077419999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Vol La Fert\u00e9 Gaucher",
+    "description": "",
+    "lat": 40.7127837,
+    "lng": -74.0059413,
+    "price": "0.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Macy\u2019s Firework Spectacular",
+    "description": "Costing nearly nine million dollars only on the fireworks, this 25-minute spectacle is synchronized to a rousing musical score and will feature a host of shells and effects in 30 colors and shapes. The Macy's 4th of July Fireworks have been a New York City tradition since 1976.",
+    "lat": 40.71455,
+    "lng": -74.00714,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Helicopter tour in New York from Manhattan",
+    "description": "<p>Take off for the most popular tour and see Manhattan Island in its full glory!</p><br><br><p>&nbsp;</p><br><br><p>This <strong>17-20 minute</strong> flight gives you the best view of Manhattan. This flight takes you <strong>north</strong> over the <strong>George Washington Bridge</strong>, one of the busiest bridges in the world.</p><br><br><p>Discover the best view of Manhattan including <strong>the Statue of Liberty, Central Park, the Empire State Building </strong>and<strong> One World Trade Center.</strong></p><br><br><p>Discover <strong>Central Park</strong> along its entire length, <strong>Columbia University</strong> or the historic <strong>Grant&#39;s Tomb</strong>, the largest mausoleum in North America! Fly over the beautiful cliffs of <strong>New Jersey</strong> or <strong>Inwood Hill Park</strong> in northern Manhattan, the last natural forest in this urban metropolis!</p><br><br><p>Continue to <strong>Yankee Stadium</strong>, flying over <strong>Hudson</strong>.</p><br><br><p>&nbsp;</p><br><br><p>Enjoy a memorable flight and discover New York from the sky!</p>",
+    "lat": 40.7105825,
+    "lng": -73.9807262,
+    "price": "295.0",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The High Line",
+    "description": "",
+    "lat": 40.7479925,
+    "lng": -74.0047649,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "iEvents.com",
+    "description": "",
+    "lat": 40.7349255,
+    "lng": -73.9891938,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Chrysler Building",
+    "description": "",
+    "lat": 40.7516208,
+    "lng": -73.97550199999999,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Rest Room",
+    "description": "",
+    "lat": 40.749494,
+    "lng": -73.9835799,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "RALYM",
+    "description": "",
+    "lat": 40.7428742,
+    "lng": -73.9934249,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Lincoln Center for the Performing Arts",
+    "description": "",
+    "lat": 40.7724641,
+    "lng": -73.9834889,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Yankee Stadium",
+    "description": "",
+    "lat": 40.8296426,
+    "lng": -73.9261745,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Central Park",
+    "description": "",
+    "lat": 40.7812199,
+    "lng": -73.9665138,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Macy's Thanksgiving Day Parade",
+    "description": "Line the parade route with millions of others to marvel at the big balloons floating down 34th Street at the Macy's Thanksgiving Day Parade. Live music and performances include high school marching bands from around the nation, cheerleaders and dancers that are chosen by the National Cheerleaders Association, and the Rockettes from Radio City Music Hall. Stare in anticipation as Santa rolls to Herald Square and kicks off the holiday shopping season at the Macy's Thanksgiving Day Parade.",
+    "lat": 40.77948,
+    "lng": -73.97357,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Bike Rent . NYC",
+    "description": "",
+    "lat": 40.7623152,
+    "lng": -73.9768105,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Cookshop",
+    "description": "",
+    "lat": 40.7455937,
+    "lng": -74.0054421,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Radio City Music Hall Stage Door Tour",
+    "description": "",
+    "lat": 40.75997599999999,
+    "lng": -73.9799772,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Flushing Meadows Corona Park",
+    "description": "",
+    "lat": 40.7400275,
+    "lng": -73.8406953,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "La Festa Italiana",
+    "description": "",
+    "lat": 40.72588,
+    "lng": -74.04968,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "New Victory Theatre",
+    "description": "",
+    "lat": 40.7566746,
+    "lng": -73.9874169,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "The Rum House",
+    "description": "",
+    "lat": 40.759711,
+    "lng": -73.986307,
+    "price": "",
+    "minimumDuration": ""
+  },
+  {
+    "name": "Times Square",
+    "description": "",
+    "lat": 40.7579747,
+    "lng": -73.9855426,
+    "price": "",
+    "minimumDuration": ""
   }
 ]

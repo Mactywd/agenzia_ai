@@ -1,27 +1,27 @@
 Volo 1
-Partenza: YXX alle 2025-07-15T14:50:00
-Arrivo: FCO alle 2025-07-16T12:40:00
-Linea/e: WS, WS
-Durata: 12H50M
-Scali: 1
-Prezzo: 268.43
+Partenza: FCO alle 2025-07-15T19:05:00
+Arrivo: JFK alle 2025-07-15T22:30:00
+Linea/e: A1
+Durata: 9H25M
+Scali: 0
+Prezzo: 272.23
 
 
 
 Volo 2
-Partenza: YXX alle 2025-07-15T10:25:00
-Arrivo: FCO alle 2025-07-16T12:40:00
-Linea/e: WS, WS
-Durata: 17H15M
+Partenza: FCO alle 2025-07-15T17:40:00
+Arrivo: JFK alle 2025-07-16T09:50:00
+Linea/e: AT, AT
+Durata: 22H10M
 Scali: 1
-Prezzo: 268.43
+Prezzo: 372.87
 
 
 
 Volo 3
-Partenza: YVR alle 2025-07-15T14:30:00
-Arrivo: FCO alle 2025-07-16T12:40:00
-Linea/e: WS, WS
-Durata: 13H10M
+Partenza: FCO alle 2025-07-15T07:00:00
+Arrivo: JFK alle 2025-07-15T17:55:00
+Linea/e: TK, TK
+Durata: 16H55M
 Scali: 1
-Prezzo: 285.48
+Prezzo: 439.40

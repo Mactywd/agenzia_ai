@@ -114,7 +114,7 @@ def parse_data(response):
 
 if __name__ == '__main__':
     # Get latlong
-    city = "Rome"
+    city = "New York"
 
     response = get_data(
         city

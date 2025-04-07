@@ -158,14 +158,6 @@ def find_hotels():
         print(parsed)
         print(str(parsed))
 
-        requests.post(
-            "https://learninguniversalconnectingexperiences.site/publish",
-            json={
-                "chat_id": chat_id,
-                "message": parsed["data"]
-            }
-        )
-
         return parsed
 
 @app.route(api_base + "/find_activities", methods=['GET'])
