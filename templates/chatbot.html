@@ -598,9 +598,11 @@ footer {
 
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
-
+    
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-    <script type="text/javascript">
+    
+    <script type="module">
+        
         // VOICEFLOW
         (function(d, t) {
             var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
@@ -620,54 +622,22 @@ footer {
             v.src = "https://cdn.voiceflow.com/widget-next/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
         })(document, 'script');
 
-        // FIREBASE
-        var chat_id = "{{chat_id}}";
+        // SSE
 
-        // Import the functions you need from the SDKs you need
-
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js";
-        import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-analytics.js";
-
-        const firebaseConfig = {
-            apiKey: "AIzaSyBDxbhnC6QzHiVumNsRNpg9zh9O1xDtmUg",
-            authDomain: "luce-chatbot-5c447.firebaseapp.com",
-            databaseURL: "https://luce-chatbot-5c447-default-rtdb.europe-west1.firebasedatabase.app",
-            projectId: "luce-chatbot-5c447",
-            storageBucket: "luce-chatbot-5c447.firebasestorage.app",
-            messagingSenderId: "975762253541",
-            appId: "1:975762253541:web:c9efcd47b484080d8b960c",
-            measurementId: "G-TF7LVS89WG"
-        };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-        const analytics = getAnalytics(app);
-
-        const dbRef = firebase.database().ref('/123');
-
-
-        // Listen for changes to the value
-        dbRef.on('value', (snapshot) => {
-        const newValue = snapshot.val();
-
-        if (newValue !== null) {
-            // Update your frontend with the new value
-            console.log('Value changed:', newValue);
-            document.getElementById('data').innerHTML = 'New Value: ' + newValue;
-        } else {
-            // Handle the case where the value is null (e.g., deleted)
-            console.log('Value deleted');
-            document.getElementById('data').innerHTML = 'Value Deleted';
+        function eventStream(chat_id) {
+            return new EventSource("/stream/"+chat_id);
         }
-        }, (error) => {
-        // Handle errors
-        console.error('Error fetching data:', error);
-        document.getElementById('data').innerHTML = 'Error fetching data';
 
-        });
+        var source = eventStream("{{chat_id}}");
 
+        source.onmessage = function (event) {
+            alert(event.data);
+            console.log(event.data);
+            document.getElementById("data").innerHTML = event.data;
+        };
         
-        
+
+
         // LEAFLET
         // markers
         var greenIcon = new L.Icon({

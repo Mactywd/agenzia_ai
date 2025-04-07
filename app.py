@@ -5,16 +5,12 @@ from apis import flights as flights_api
 from apis import hotels as hotels_api
 from apis import activities as activities_api
 import datetime
+from load_dotenv import load_dotenv
 import requests
 import redis
-import firebase_admin
-from firebase_admin import db
-
-
-firebase_admin.initialize_app()
-ref = db.reference('/') # Root database reference
 
 app = Flask(__name__, static_url_path='/static')
+red = redis.StrictRedis()
 
 
 ## WEBSITE ROUTES ##
@@ -78,8 +74,11 @@ def find_hotels():
         parsed = hotels_api.parse_data(hotels)
 
         print(chat_id)
+        print(parsed)
+        print(str(parsed))
 
-        ref.child(chat_id).set(parsed)
+        red.publish(chat_id, parsed)
+
 
         return parsed
 
@@ -94,11 +93,10 @@ def find_activities():
         return parsed
 
 ## SERVER-SIDE-EVENTS HANDLER ##
-red = redis.StrictRedis()
 
 def event_stream(chat_id):
     pubsub = red.pubsub()
-    pubsub.subscribe('chat_' + chat_id)
+    pubsub.subscribe(chat_id)
     for message in pubsub.listen():
         print(message)
         yield 'data: %s\n\n' % message['data']
@@ -108,6 +106,9 @@ def event_stream(chat_id):
 def post():
     message = "hello"
     
+    red.publish("chat_id", message)
+
+
     return "<p>Message sent</p>"
 
 
