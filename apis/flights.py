@@ -27,6 +27,7 @@ amadeus = Client(
 
 def get_data(origin, destination, date):
     try:
+        print(origin, destination, date)
         response = amadeus.get(
             "/v2/shopping/flight-offers",
             originLocationCode=origin,
