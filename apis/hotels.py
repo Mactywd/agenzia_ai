@@ -51,6 +51,7 @@ def get_data(city):
 
     # Get hotel list
     try:
+        print(lat, lng)
         response = amadeus.get(
             "/v1/reference-data/locations/hotels/by-geocode",
             latitude=lat,
