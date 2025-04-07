@@ -158,7 +158,13 @@ def find_hotels():
         print(parsed)
         print(str(parsed))
 
-        ####################àààà
+        requests.post(
+            "https://learninguniversalconnectingexperiences.site/publish",
+            json={
+                "chat_id": chat_id,
+                "message": parsed["data"]
+            }
+        )
 
         return parsed
 
