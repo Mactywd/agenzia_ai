@@ -132,8 +132,8 @@ api_base = "/api"
 @app.route(api_base + "/find_flights", methods=['GET'])
 def find_flights():
     if request.method == 'GET':
-        destination = "NYC"
-        departures = "FCO"
+        destination = request.values.get("destination")
+        departures = request.values.get("departures")
         date = request.values.get('date')
 
         print(request.values)
