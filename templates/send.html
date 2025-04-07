@@ -1,0 +1,252 @@
+<!-- templates/sender.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Sender</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #28a745;
+        }
+        .container {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            padding: 8px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            box-sizing: border-box;
+            resize: vertical;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .status {
+            margin-top: 15px;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .warning {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+        .home-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        .home-link:hover {
+            text-decoration: underline;
+        }
+        #custom-chat-id {
+            margin-top: 10px;
+        }
+        #active-chats {
+            margin-top: 10px;
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .chat-badge {
+            display: inline-block;
+            background-color: #6c757d;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 10px;
+            margin: 2px;
+            cursor: pointer;
+        }
+        .chat-badge:hover {
+            background-color: #5a6268;
+        }
+    </style>
+</head>
+<body>
+    <h1>Message Sender</h1>
+    <p>Use this page to send messages to specific chat rooms.</p>
+    
+    <div class="container">
+        <div class="form-group">
+            <label for="chat-id">Chat ID:</label>
+            <input type="text" id="chat-id" placeholder="Enter chat ID..." required>
+            
+            <div id="active-chats">
+                <p><strong>Active Chat Rooms:</strong> <span id="active-rooms">Loading...</span></p>
+                <button type="button" id="refresh-chats">Refresh List</button>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea id="message" placeholder="Type your message here..." required></textarea>
+        </div>
+        
+        <button type="button" id="send-btn">Send Message</button>
+        
+        <div id="status-container"></div>
+    </div>
+    
+    <a href="/" class="home-link">← Back to Home</a>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatIdInput = document.getElementById('chat-id');
+            const messageTextarea = document.getElementById('message');
+            const sendButton = document.getElementById('send-btn');
+            const statusContainer = document.getElementById('status-container');
+            const activeRooms = document.getElementById('active-rooms');
+            const refreshButton = document.getElementById('refresh-chats');
+            
+            // Function to display status messages
+            function showStatus(message, type) {
+                const statusElement = document.createElement('div');
+                statusElement.textContent = message;
+                statusElement.classList.add('status', type);
+                
+                // Remove previous status messages
+                statusContainer.innerHTML = '';
+                statusContainer.appendChild(statusElement);
+                
+                // Auto-clear success messages after 5 seconds
+                if (type === 'success') {
+                    setTimeout(() => {
+                        statusElement.remove();
+                    }, 5000);
+                }
+            }
+            
+            // Function to send a message
+            function sendMessage() {
+                const chatId = chatIdInput.value.trim();
+                const message = messageTextarea.value.trim();
+                
+                if (!chatId) {
+                    showStatus('Please enter a Chat ID', 'error');
+                    return;
+                }
+                
+                if (!message) {
+                    showStatus('Please enter a message', 'error');
+                    return;
+                }
+                
+                // Send the message via API
+                fetch('/publish', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        chat_id: chatId,
+                        message: message,
+                        event: 'message'
+                    }),
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.status === 'ok') {
+                        showStatus('Message sent successfully!', 'success');
+                        messageTextarea.value = ''; // Clear the message
+                    } else if (data.status === 'warning') {
+                        showStatus('Message sent, but no active listeners for this chat ID.', 'warning');
+                        messageTextarea.value = ''; // Clear the message
+                    } else {
+                        showStatus(data.message || 'Error sending message', 'error');
+                    }
+                })
+                .catch(error => {
+                    showStatus('Network error. Please try again.', 'error');
+                    console.error('Error:', error);
+                });
+            }
+            
+            // Function to fetch active chat rooms
+            function fetchActiveChats() {
+                fetch('/active_chats')
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.chats && data.chats.length > 0) {
+                            activeRooms.innerHTML = '';
+                            data.chats.forEach(chatId => {
+                                const badge = document.createElement('span');
+                                badge.textContent = chatId;
+                                badge.classList.add('chat-badge');
+                                badge.addEventListener('click', () => {
+                                    chatIdInput.value = chatId;
+                                });
+                                activeRooms.appendChild(badge);
+                            });
+                        } else {
+                            activeRooms.textContent = 'No active chat rooms';
+                        }
+                    })
+                    .catch(error => {
+                        activeRooms.textContent = 'Error loading active chats';
+                        console.error('Error:', error);
+                    });
+            }
+            
+            // Event listeners
+            sendButton.addEventListener('click', sendMessage);
+            messageTextarea.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    e.preventDefault();
+                    sendMessage();
+                }
+            });
+            
+            refreshButton.addEventListener('click', fetchActiveChats);
+            
+            // Initial fetch of active chats
+            fetchActiveChats();
+            
+            // Refresh active chats every 30 seconds
+            setInterval(fetchActiveChats, 30000);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<!-- templates/receiver.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Receiver - Setup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #17a2b8;
+        }
+        .container {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            max-width: 300px;
+            padding: 8px;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #17a2b8;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #138496;
+        }
+        .home-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        .home-link:hover {
+            text-decoration: underline;
+        }
+        #active-chats {
+            margin-top: 20px;
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 4px;
+            text-align: left;
+        }
+        .chat-badge {
+            display: inline-block;
+            background-color: #6c757d;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 10px;
+            margin: 2px;
+            cursor: pointer;
+        }
+        .chat-badge:hover {
+            background-color: #5a6268;
+        }
+    </style>
+</head>
+<body>
+    <h1>Message Receiver</h1>
+    <p>Enter a Chat ID to start receiving messages.</p>
+    
+    <div class="container">
+        <form action="/create_chat" method="post">
+            <div class="form-group">
+                <label for="chat-id">Chat ID:</label>
+                <input type="text" id="chat-id" name="chat_id" placeholder="Enter chat ID..." required>
+            </div>
+            
+            <button type="submit">Connect to Chat</button>
+        </form>
+        
+        <div id="active-chats">
+            <h3>Active Chat Rooms:</h3>
+            <div id="active-rooms">Loading...</div>
+            <button type="button" id="refresh-chats" style="margin-top: 10px;">Refresh List</button>
+        </div>
+    </div>
+    
+    <a href="/" class="home-link">← Back to Home</a>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatIdInput = document.getElementById('chat-id');
+            const activeRooms = document.getElementById('active-rooms');
+            const refreshButton = document.getElementById('refresh-chats');
+            
+            // Function to fetch active chat rooms
+            function fetchActiveChats() {
+                fetch('/active_chats')
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.chats && data.chats.length > 0) {
+                            activeRooms.innerHTML = '';
+                            data.chats.forEach(chatId => {
+                                const badge = document.createElement('span');
+                                badge.textContent = chatId;
+                                badge.classList.add('chat-badge');
+                                badge.addEventListener('click', () => {
+                                    chatIdInput.value = chatId;
+                                });
+                                activeRooms.appendChild(badge);
+                            });
+                        } else {
+                            activeRooms.textContent = 'No active chat rooms';
+                        }
+                    })
+                    .catch(error => {
+                        activeRooms.textContent = 'Error loading active chats';
+                        console.error('Error:', error);
+                    });
+            }
+            
+            // Event listener for refresh button
+            refreshButton.addEventListener('click', fetchActiveChats);
+            
+            // Initial fetch of active chats
+            fetchActiveChats();
+        });
+    </script>
+</body>
+</html>

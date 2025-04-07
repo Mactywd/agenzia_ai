@@ -611,9 +611,6 @@ footer {
                     verify: { projectID: '67ec044955af70eb370e8b22' },
                     url: 'https://general-runtime.voiceflow.com',
                     versionID: 'production',
-                    voice: {
-                        url: "https://runtime-api.voiceflow.com"
-                    },
                     userID: "{{chat_id}}",
                 }).then(() => {
                     window.voiceflow.chat.open();
@@ -624,19 +621,45 @@ footer {
 
         // SSE
 
-        function eventStream(chat_id) {
-            return new EventSource("/stream/"+chat_id);
-        }
-
-        var source = eventStream("{{chat_id}}");
-
-        source.onmessage = function (event) {
-            alert(event.data);
-            console.log(event.data);
-            document.getElementById("data").innerHTML = event.data;
-        };
+        // Setup the EventSource for SSE
+        document.addEventListener('DOMContentLoaded', function() {
+            const messagesContainer = document.getElementById('messages');
+            const connectionStatus = document.getElementById('connection-status');
+            const chatId = "{{ chat_id }}";
         
+            function setupEventSource() {
+                const evtSource = new EventSource(`/events/${chatId}`);
+                
+                evtSource.onopen = function() {
+                    console.log("Connected")
+                };
 
+                evtSource.onerror = function() {
+                    console.log("Disconnected")
+                };
+
+                // Listen for the connected event
+                evtSource.addEventListener('connected', function(e) {
+                    const data = JSON.parse(e.data);
+                    console.log("System: " + data.message);
+                });
+
+                // Listen for regular messages
+                evtSource.addEventListener('message', function(e) {
+                    console.log(e.data);
+                });
+
+                // Handle custom events (example)
+                evtSource.addEventListener('notification', function(e) {
+                    console.log("System Notification: "+ e.data);
+                });
+
+                return evtSource;
+            }
+
+            // Initialize the connection
+            let eventSource = setupEventSource();
+        })
 
         // LEAFLET
         // markers

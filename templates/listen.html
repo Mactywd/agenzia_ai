@@ -1,0 +1,168 @@
+<!-- templates/listen.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message Receiver - Chat {{ chat_id }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #17a2b8;
+        }
+        .container {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        #connection-status {
+            padding: 5px 10px;
+            margin: 10px 0;
+            display: inline-block;
+            border-radius: 4px;
+        }
+        .connected {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .disconnected {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        #messages {
+            height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ced4da;
+            border-radius: 4px;
+            padding: 10px;
+            margin-top: 10px;
+            background-color: white;
+        }
+        .message {
+            padding: 8px;
+            margin-bottom: 5px;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .system-message {
+            color: #6c757d;
+            font-style: italic;
+        }
+        .home-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        .home-link:hover {
+            text-decoration: underline;
+        }
+        .nav-links {
+            margin-top: 20px;
+        }
+        .nav-links a {
+            margin-right: 15px;
+        }
+        .chat-id-badge {
+            background-color: #17a2b8;
+            color: white;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: normal;
+        }
+    </style>
+</head>
+<body>
+    <h1>Receiving Messages <span class="chat-id-badge">Chat ID: {{ chat_id }}</span></h1>
+    <p>This page will display messages sent to chat room "{{ chat_id }}".</p>
+    
+    <div class="container">
+        <div id="connection-status" class="disconnected">Disconnected</div>
+        
+        <div id="messages">
+            <div class="message system-message">Connecting to chat room...</div>
+        </div>
+    </div>
+    
+    <div class="nav-links">
+        <a href="/receiver" class="home-link">← Choose Different Chat</a>
+        <a href="/" class="home-link">← Back to Home</a>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const messagesContainer = document.getElementById('messages');
+            const connectionStatus = document.getElementById('connection-status');
+            const chatId = "{{ chat_id }}";
+            console.log(chatId)
+
+            // Function to add a message to the UI
+            function addMessage(text, isSystem = false) {
+                const messageElement = document.createElement('div');
+                messageElement.classList.add('message');
+                if (isSystem) {
+                    messageElement.classList.add('system-message');
+                }
+                messageElement.textContent = text;
+                messagesContainer.appendChild(messageElement);
+                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            }
+
+            // Setup the EventSource for SSE
+            function setupEventSource() {
+                const evtSource = new EventSource(`/events/${chatId}`);
+                
+                evtSource.onopen = function() {
+                    connectionStatus.textContent = 'Connected';
+                    connectionStatus.className = 'connected';
+                };
+
+                evtSource.onerror = function() {
+                    connectionStatus.textContent = 'Disconnected - Reconnecting...';
+                    connectionStatus.className = 'disconnected';
+                    addMessage('Connection lost. Trying to reconnect...', true);
+                };
+
+                // Listen for the connected event
+                evtSource.addEventListener('connected', function(e) {
+                    const data = JSON.parse(e.data);
+                    addMessage(data.message, true);
+                });
+
+                // Listen for regular messages
+                evtSource.addEventListener('message', function(e) {
+                    addMessage(e.data);
+                });
+
+                // Handle custom events (example)
+                evtSource.addEventListener('notification', function(e) {
+                    addMessage(`Notification: ${e.data}`, true);
+                });
+
+                return evtSource;
+            }
+
+            // Initialize the connection
+            let eventSource = setupEventSource();
+            
+            // Add reconnect button
+            const reconnectButton = document.createElement('button');
+            reconnectButton.textContent = 'Reconnect';
+            reconnectButton.style.marginLeft = '10px';
+            reconnectButton.addEventListener('click', function() {
+                addMessage('Manually reconnecting...', true);
+                if (eventSource) {
+                    eventSource.close();
+                }
+                eventSource = setupEventSource();
+            });
+            connectionStatus.parentNode.insertBefore(reconnectButton, connectionStatus.nextSibling);
+        });
+    </script>
+</body>
+</html>

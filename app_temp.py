@@ -1,13 +1,4 @@
-import os
-import flask
-from flask import Flask, redirect, render_template, url_for, request, Response
-from apis import flights as flights_api
-from apis import hotels as hotels_api
-from apis import activities as activities_api
-import datetime
-from load_dotenv import load_dotenv
-import requests
-import json
+# app.py
 import time
 import json
 import uuid
@@ -15,11 +6,9 @@ from queue import Queue
 from threading import Lock
 import os
 
-app = Flask(__name__, static_url_path='/static')
+from flask import Flask, Response, render_template, request, redirect, url_for
 
-
-# In-memory storage for messages and client connections
-# In a production app, you might want to use a more robust solution
+app = Flask(__name__)
 
 # In-memory storage for messages and client connections
 class SSEManager:
@@ -87,95 +76,30 @@ class SSEManager:
         message += f"data: {data}\n\n"
         return message
 
-
-
-
-## WEBSITE ROUTES ##
+# Create our SSE manager
+sse_manager = SSEManager()
 
 @app.route('/')
 def index():
-    # load index.html
-    return render_template('index.html')
+    """Main page that redirects to sender or receiver"""
+    return render_template('test.html')
 
-@app.route('/chatbot')
-def chatbot():
-    # load index.html
-    chat_id = os.urandom(16).hex()
-    return redirect(url_for('chatbot_with_id', chat_id=chat_id))
+@app.route('/sender')
+def sender():
+    """Sender page - can only send messages"""
+    # Get active chat IDs for dropdown
+    active_chats = sse_manager.get_active_chat_ids()
+    return render_template('send.html', active_chats=active_chats)
 
-@app.route('/chatbot/<chat_id>')
-def chatbot_with_id(chat_id):
-    return render_template('chatbot.html', chat_id=chat_id)
+@app.route('/receiver')
+def receiver():
+    """Receiver setup page - ask for chat ID before connecting"""
+    return render_template('receive.html')
 
-@app.route('/faq')
-def faq():
-    # load index.html
-    return render_template('faq.html')
-
-@app.route('/apitest')
-def apitest():
-    # Perform a GET to /api/find_flights with requests with example data
-    response = requests.get(
-        "http://localhost:5000/api/find_flights",
-        params={
-            "destination": "DXB",
-            "departures": "FCO",
-            "date": "2025-07-15"
-        }
-    )
-    return str(response)
-
-
-## API ROUTES
-api_base = "/api"
-
-@app.route(api_base + "/find_flights", methods=['GET'])
-def find_flights():
-    if request.method == 'GET':
-        destination = request.values.get('destination')
-        departures = request.values.get('departure')
-        date = request.values.get('date')
-
-        print(request.values)
-
-        print(destination, departures, date)
-
-        flights = flights_api.get_data(departures, destination, date)
-        parsed = flights_api.parse_data(flights)
-
-        return parsed
-    
-@app.route(api_base + "/find_hotel", methods=['GET'])
-def find_hotels():
-    if request.method == 'GET':
-        city = request.values.get("city")
-        chat_id = request.values.get("chat_id")
-
-        hotels = hotels_api.get_data(city)
-        parsed = hotels_api.parse_data(hotels)
-
-        print(chat_id)
-        print(parsed)
-        print(str(parsed))
-
-        ####################àààà
-
-        return parsed
-
-@app.route(api_base + "/find_activities", methods=['GET'])
-def find_activities():
-    if request.method == 'GET':
-        city = request.values.get("city")
-
-        activities = activities_api.get_data(city)
-        parsed = activities_api.parse_data(activities)
-
-        return parsed
-
-
-# Create our SSE manager
-
-sse_manager = SSEManager()
+@app.route('/listen/<chat_id>')
+def listen(chat_id):
+    """Receiver page - can only receive messages for a specific chat ID"""
+    return render_template('listen.html', chat_id=chat_id)
 
 @app.route('/events/<chat_id>')
 def events(chat_id):
@@ -242,15 +166,7 @@ def active_chats():
     active_chats = sse_manager.get_active_chat_ids()
     return {'chats': active_chats}
 
-
-
-@app.route('/sender')
-def sender():
-    """Sender page - can only send messages"""
-    # Get active chat IDs for dropdown
-    active_chats = sse_manager.get_active_chat_ids()
-    return render_template('send.html', active_chats=active_chats)
-
 if __name__ == '__main__':
-    app.run(debug=True, host="0.0.0.0", threaded=True)
-    #find_flights()
+    # Use the port provided by Heroku
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host='0.0.0.0', port=port, debug=True, threaded=True)

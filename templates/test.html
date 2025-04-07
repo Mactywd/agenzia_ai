@@ -1,22 +1,65 @@
+<!-- templates/index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SSE Chat System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin: 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+        .sender {
+            background-color: #28a745;
+        }
+        .sender:hover {
+            background-color: #218838;
+        }
+        .receiver {
+            background-color: #17a2b8;
+        }
+        .receiver:hover {
+            background-color: #138496;
+        }
+    </style>
 </head>
 <body>
+    <h1>SSE Chat System</h1>
+    <p>Welcome to the Server-Sent Events (SSE) chat system. Choose your role:</p>
     
-    <p id="data"></p>
-    <script>
-        var source = new EventSource('/stream');
-        
-        source.onmessage = function (event) {
-            alert(event.data);
-            document.getElementById("data").innerHTML = event.data;
-
-        };
-
-    </script>
+    <div>
+        <a href="/sender" class="button sender">Message Sender</a>
+        <a href="/receiver" class="button receiver">Message Receiver</a>
+    </div>
+    
+    <div style="margin-top: 40px;">
+        <h3>How it works:</h3>
+        <p>
+            This system allows for one-way communication where:
+            <ul style="text-align: left;">
+                <li>Senders can send messages to specific chat rooms</li>
+                <li>Receivers can connect to a chat room and receive messages</li>
+                <li>Messages are delivered in real-time using Server-Sent Events</li>
+            </ul>
+        </p>
+    </div>
 </body>
 </html>
